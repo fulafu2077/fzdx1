@@ -100,8 +100,8 @@ CHC动作电影,rtsp://27.148.236.129:554/live/ch22091415255480246214.sdp?FccMed
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州慢直播频道,http://live.zohi.tv/video/s10001-camera1/index.m3u8
-厦门1套,rtsp://27.148.236.129:554/live/ch18021018582713742946.sdp?FccMediaIP=239.61.2.213&FccMediaPort=9266&vcdnid=001&mediaid=ch18021018582713742946&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehDw%2Bj01CdKv49zFrmHTNlvA%2FnSZgyq1w%2FIXYMa4awIy0d8RtgP2DayASZlOpMLMaA%3D%3D
-厦门新闻,rtsp://27.148.236.129:554/live/ch15102712173616484873.sdp?FccMediaIP=239.61.2.11&FccMediaPort=8060&vcdnid=001&mediaid=ch15102712173616484873&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeko3tWsvOv248dIv91CLPotAOikaWM9AhRvpd4b2BhPU0d8RtgP2DayASZlOpMLMaA%3D%3D
+厦门新闻,rtsp://27.148.236.129:554/live/ch18021018582713742946.sdp?FccMediaIP=239.61.2.213&FccMediaPort=9266&vcdnid=001&mediaid=ch18021018582713742946&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehDw%2Bj01CdKv49zFrmHTNlvA%2FnSZgyq1w%2FIXYMa4awIy0d8RtgP2DayASZlOpMLMaA%3D%3D
+厦门卫视,rtsp://27.148.236.129:554/live/ch15102712173616484873.sdp?FccMediaIP=239.61.2.11&FccMediaPort=8060&vcdnid=001&mediaid=ch15102712173616484873&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeko3tWsvOv248dIv91CLPotAOikaWM9AhRvpd4b2BhPU0d8RtgP2DayASZlOpMLMaA%3D%3D
 漳州新闻,rtsp://27.148.236.129:554/live/ch18021018563878531243.sdp?FccMediaIP=239.61.2.164&FccMediaPort=8972&vcdnid=001&mediaid=ch18021018563878531243&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehDw%2Bj01CdKv49zFrmHTNlvblJC1TmxwhkR1NEJ71MPp0d8RtgP2DayASZlOpMLMaA%3D%3D
 泉州新闻,rtsp://27.148.236.129:554/live/ch18020116435220856291.sdp?FccMediaIP=239.61.2.193&FccMediaPort=9146&vcdnid=001&mediaid=ch18020116435220856291&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelqfUAeIIXbrvi9JscuBg0qICbnZEg5mIhzAT2fel%2FPI0d8RtgP2DayASZlOpMLMaA%3D%3D
 泉州新闻,rtmp://live.qztv.cn/live/news
@@ -152,7 +152,7 @@ CHC动作电影,rtsp://27.148.236.129:554/live/ch22091415255480246214.sdp?FccMed
 凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 凤凰电影,http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-澳门澳亚卫视,http://220.158.149.26:8182/hls/TV00000000000000000030@HHZT.m3u8
+澳门澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php#http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://ye23.win/iptv/lotustv2020.php#http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8

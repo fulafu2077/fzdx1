@@ -345,6 +345,11 @@ CETV-1 高清,http://[2409:8087:3428:20:500::1009]:18890/PLTV/88888888/224/32212
 凤凰资讯 高清,http://[2409:8087:3428:20:500::1009]:18890/PLTV/88888888/224/3221227226/index.m3u8
 凤凰中文 高清,http://[2409:8087:3428:20:500::100f]:18890/PLTV/88888888/224/3221227222/index.m3u8
 凤凰资讯 高清,http://[2409:8087:3428:20:500::100f]:18890/PLTV/88888888/224/3221227226/index.m3u8
+澳门澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://www.namewee.xyz/gudou.php?id=aoya#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=aoya_1500#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://iptv.ye23.win/s.php?u=JKN18NIR
+澳门澳亚卫视,http://220.158.149.26:8182/hls/TV00000000000000000030@HHZT.m3u8
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php#http://nettvpro.live/hls/lotustv.php
+澳门莲花,http://ye23.win/iptv/lotustv2020.php#http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 移动少儿,#genre#
 CCTV-14 少儿 高清,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225933/index.m3u8
 福建少儿 高清,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227194/index.m3u8

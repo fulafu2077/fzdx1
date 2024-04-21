@@ -159,14 +159,14 @@ EZTV6歐洲華文電視 福州頻道,http://vvlive.eztv.vip:80/huawen6/huawen6.m
 EZTV1歐洲華文電視,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV2歐洲華文電視,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-TVB J2,http://bziyunshao.synology.me:8890/bysid/82
-TVB无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-TVB无线财经资讯,http://bziyunshao.synology.me:8890/bysid/85
-香港HOYTV 76,http://bziyunshao.synology.me:8891/bysid/76
-香港HOYTV 77,http://bziyunshao.synology.me:8891/bysid/77
-香港HOYTV 78 资讯台,http://bziyunshao.synology.me:8891/bysid/78
+翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+J2,http://bziyunshao.synology.me:8890/bysid/82
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线财经资讯,http://bziyunshao.synology.me:8890/bysid/85
+HOYTV 76,http://bziyunshao.synology.me:8891/bysid/76
+HOYTV 77,http://bziyunshao.synology.me:8891/bysid/77
+HOYTV 78 资讯台,http://bziyunshao.synology.me:8891/bysid/78
 澳门澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://www.namewee.xyz/gudou.php?id=aoya
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php#http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://ye23.win/iptv/lotustv2020.php#http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8

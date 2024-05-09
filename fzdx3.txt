@@ -181,7 +181,7 @@ CCTV-16 奥林匹克,rtsp://27.148.240.181/PLTV/88888888/224/3221227339/78016133
 快乐垂钓,rtsp://27.148.236.129:554/live/ch19061315471496603667.sdp?FccMediaIP=239.61.3.8&FccMediaPort=9566&vcdnid=001&mediaid=ch19061315471496603667&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeihHuMc7hVaOjnDkhbFF1FcSg1bwJaSwRYnGat60gp8O0d8RtgP2DayASZlOpMLMaA%3D%3D
 武术世界,rtsp://27.148.236.129:554/live/ch22091416293105555892.sdp?FccMediaIP=239.61.3.22&FccMediaPort=9652&vcdnid=001&mediaid=ch22091416293105555892&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pypOapasDlmqWxQ5NqBveoj0d8RtgP2DayASZlOpMLMaA%3D%3D
 天元围棋,http://171.223.215.229:4000/udp/239.93.42.55:5140
-哔哩哔哩足球赛事,http://diyp.112114.xyz/bili/22
+BU足球赛事,http://diyp.112114.xyz/bili/22
 泡泡足球赛事,http://diyp.112114.xyz/bili/31472857
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0

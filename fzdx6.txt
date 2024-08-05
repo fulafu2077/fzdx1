@@ -340,8 +340,13 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/r
 百事通超级体育2,http://218.80.110.51:4022/udp/239.45.3.137:5140
 百事通超级体育3,http://218.80.110.51:4022/udp/239.45.3.138:5140
 百事通超级体育4,http://218.80.110.51:4022/udp/239.45.3.139:5140
+咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
+咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
+咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
 咪咕体育24小时台,http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-咪咕欧洲杯轮播台,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+咪咕大型体育赛事轮播台,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?&encrypt=
+咪咕大型体育赛事轮播台,,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+劲爆体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/51/20230411/index.m3u8?&encrypt=
 劲爆体育,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/51/20230411/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 广东体育,http://183.30.199.107:8886/tsfile/live/0142_1.m3u8#http://171.108.239.99:8181/tsfile/live/1004_1.m3u8#http://183.30.199.107:8886/udp/239.77.0.168:5146#http://183.30.199.107:8886/udp/239.77.0.112:5146##http://116.24.32.84:9098/udp/239.77.0.168:5146#http://116.24.32.84:9098/udp/239.77.0.112:5146#http://php.jdshipin.com:8880/chudian.php?id=gdty
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai

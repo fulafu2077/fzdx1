@@ -376,7 +376,7 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/r
 咪咕中国足球轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/54/20230310/index.m3u8?&encrypt=
 咪咕UFC格斗轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ufc/54/20230310/index.m3u8?&encrypt=
 咪咕经典赛事轮播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/index.m3u8?&encrypt=
-咪咕乒乓赛事轮播,http://hlsbkmgsplive.miguvideo.com/lunbo/pingpang/54/20230310/index.m3u8?&encrypt=
+咪咕乒乓赛事轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/pingpang/54/20230310/index.m3u8?&encrypt=
 咪咕体坛栏目轮播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/index.m3u8?&encrypt=
 先锋乒羽,rtsp://27.148.240.181/PLTV/88888888/224/3221227252/70545640.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E9GWi4PENHqRoEXz6Cm3ZMg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV70545639%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch22091415575673264280.sdp?FccMediaIP=239.61.3.17&FccMediaPort=9622&vcdnid=001&mediaid=ch22091415575673264280&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPenck9%2Bewr3%2F3PfuBvb7C8DtRpp3ZZIP95Y2ZE%2BTzzGi80d8RtgP2DayASZlOpMLMaA%3D%3D
 快乐垂钓,rtsp://27.148.240.181/PLTV/88888888/224/3221227028/10000100000000060000000001876304_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQB70OIjhkHda3UFbivF0fg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001906404%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch19061315471496603667.sdp?FccMediaIP=239.61.3.8&FccMediaPort=9566&vcdnid=001&mediaid=ch19061315471496603667&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeihHuMc7hVaOjnDkhbFF1FcSg1bwJaSwRYnGat60gp8O0d8RtgP2DayASZlOpMLMaA%3D%3D
@@ -402,7 +402,7 @@ DAZN体育3,rtmp://f13h.mine.nu/sat/tv751
 咪咕中国足球轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/eufootball/54/20230310/index.m3u8?&encrypt=
 咪咕UFC格斗轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ufc/54/20230310/index.m3u8?&encrypt=
 咪咕经典赛事轮播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/saishijingdian/600/index.m3u8?&encrypt=
-咪咕乒乓赛事轮播,http://hlsbkmgsplive.miguvideo.com/lunbo/pingpang/54/20230310/index.m3u8?&encrypt=
+咪咕乒乓赛事轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/pingpang/54/20230310/index.m3u8?&encrypt=
 咪咕体坛栏目轮播,http://hlsbkmgsplive.miguvideo.com/wd_r3/cctv/titanminglan/600/index.m3u8?&encrypt=
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0

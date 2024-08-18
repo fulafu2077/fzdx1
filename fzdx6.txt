@@ -35,7 +35,7 @@ CGTN英文纪录,rtsp://27.148.240.181/PLTV/88888888/224/3221227137/59904318.smi
 中国教育1,rtsp://27.148.240.181/PLTV/88888888/224/3221226217/10000100000000060000000000883134_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EHh7PuJurZ6O2WG03ZWuJVA%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000895340%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch17081012040985783403.sdp?FccMediaIP=239.61.2.167&FccMediaPort=8990&vcdnid=001&mediaid=ch17081012040985783403&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeuxbq70Oq5cSlPMLu8PW9I3CPYqak%2BY9sWC0sGspXklp0d8RtgP2DayASZlOpMLMaA%3D%3D
 中国教育2,rtsp://27.148.240.181/PLTV/88888888/224/3221226844/10000100000000060000000001692822_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EUNEJJ7AzU5THoyOOPL8cxg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001719535%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch19011415055733660637.sdp?FccMediaIP=239.61.3.6&FccMediaPort=9554&vcdnid=001&mediaid=ch19011415055733660637&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPekD0BQDbKNM0%2BvRc5mxBs%2FQGhjoGHJn%2BfFrDT5B0rdXQ0d8RtgP2DayASZlOpMLMaA%3D%3D
 中国教育4,rtsp://27.148.240.181/PLTV/88888888/224/3221227018/46507950.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EMm_aUPQYUefILnxsgT-jTQ%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV46507949%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch20021410003517423887.sdp?FccMediaIP=239.61.3.15&FccMediaPort=9608&vcdnid=001&mediaid=ch20021410003517423887&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeqwXFzte3ce6J17njeVTCJMOx8WFHN1crTy2SVKlbHOD0d8RtgP2DayASZlOpMLMaA%3D%3D
-中国教育-早期教育,http://27.184.67.55:1024/rtp/239.254.201.230:7253
+中国教育-早期教育,http://123.181.146.244:7000/rtp/239.254.201.230:7253#http://27.184.67.55:1024/rtp/239.254.201.230:7253
 CHC动作电影,rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch22091415255480246214.sdp?FccMediaIP=239.61.3.16&FccMediaPort=9616&vcdnid=001&mediaid=ch22091415255480246214&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPetJMyYWPissa1whNAUT3cu4pav%2F%2FIYcFDhOY4pipYpdN0d8RtgP2DayASZlOpMLMaA%3D%3D
 CHC动作电影,rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100#http://www.yao87.com:4022/udp/239.76.245.241:1234
@@ -47,8 +47,8 @@ CCTV第一剧场,http://110.178.52.143:8082/udp/239.1.1.94:8094#http://www.hiliu
 CCTV兵器科技,http://110.178.52.143:8082/udp/239.1.1.97:8097#http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114#http://www.yao87.com:4022/udp/239.76.254.59:9000
 CCTV女性时尚,http://110.178.52.143:8082/udp/239.1.1.89:8089#http://www.yao87.com:4022/udp/239.76.254.55:9000
 CCTV央视文化精品,http://110.178.52.143:8082/udp/239.1.1.91:8091#http://www.yao87.com:4022/udp/239.76.254.56:9000
-CCTV高尔夫网球,http://110.178.52.143:8082/udp/239.1.1.102:8102#http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138#http://www.yao87.com:4022/udp/239.76.254.62:9000
-CCTV风云足球,http://110.178.52.143:8082/udp/239.1.1.101:8101#http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126#http://www.yao87.com:4022/udp/239.76.254.52:9000
+CCTV高尔夫网球,http://123.181.146.244:7000/rtp/239.254.201.223:7252#http://123.181.146.244:7000/rtp/239.254.200.98:6232#http://110.178.52.143:8082/udp/239.1.1.102:8102#http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138#http://www.yao87.com:4022/udp/239.76.254.62:9000
+CCTV风云足球,http://123.181.146.244:7000/rtp/239.254.201.222:7251#http://123.181.146.244:7000/rtp/239.254.200.97:6231#http://110.178.52.143:8082/udp/239.1.1.101:8101#http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126#http://www.yao87.com:4022/udp/239.76.254.52:9000
 CCTV台球,http://110.178.52.143:8082/udp/239.1.1.100:8100#http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224#http://www.yao87.com:4022/udp/239.76.254.58:9000
 CCTV风云音乐,http://110.178.52.143:8082/udp/239.1.1.96:8096#http://www.yao87.com:4022/udp/239.76.254.51:9000
 CCTV电视指南,http://110.178.52.143:8082/udp/239.1.1.90:8090#http://www.yao87.com:4022/udp/239.76.254.61:9000
@@ -201,10 +201,10 @@ CCTV发现之旅,http://110.178.52.143:8082/udp/239.1.1.103:8103#http://125.78.1
 凤凰中文,http://27.148.240.138/PLTV/88888888/224/3221226980/1.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8#http://live.tvfix.org/hls/fhzw.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8#http://zsntlqj.xicp.net:8896/bysid/85.m3u8#http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn#http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8#http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass#http://nz189l149.bb27109.ctm.net:8892/bysid/85#http://113.64.145.204:8081/hls/38/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8#http://39.134.116.108:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,http://27.184.67.55:1024/rtp/239.254.201.1:5214#http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
-星空卫视,http://171.108.239.99:8181/tsfile/live/1012_1.m3u8#http://ayolee.com:5253/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193
+凤凰电影,http://123.181.146.244:7000/rtp/239.254.201.1:5214#http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
+星空卫视,http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong#http://171.108.239.99:8181/tsfile/live/1012_1.m3u8#http://ayolee.com:5253/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193
 Channel V中文,http://ayolee.com:5253/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.156:2194
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq#http://php.jdshipin.com:8880/xsj.php?id=hks
 TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8#http://zsntlqj.xicp.net:8896/bysid/1.m3u8#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://m.glx008.com:8000/bysid/1.m3u8#http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8#http://bziyunshao.synology.me:8889/bysid/1#http://1.65.195.85:9981/stream/channelid/1425740866?profile=pass
 TVB翡翠国际,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB明珠,http://zsntlqj.xicp.net:8896/bysid/2.m3u8#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8#http://nz189l149.bb27109.ctm.net:8892/bysid/2#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass#http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
@@ -215,25 +215,39 @@ TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#https://
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8#http://zsntlqj.xicp.net:8895/bysid/99.m3u8#http://php.jdshipin.com:8880/smt.php?id=viu1_twn#http://m.glx008.com:8000/bysid/99.m3u8#http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8#http://bziyunshao.synology.me:8889/bysid/99
-ViuTV 6,http://beishan008.asuscomm.com:8889/bysid/96.m3u8#http://zsntlqj.xicp.net:8895/bysid/96.m3u8#http://m.glx008.com:8000/bysid/96.m3u8#http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8#http://bziyunshao.synology.me:8889/bysid/96
-香港HOYTV 76,http://zsntlqj.xicp.net:8895/bysid/76.m3u8#http://bziyunshao.synology.me:8891/bysid/76
-香港HOYTV 77,http://zsntlqj.xicp.net:8895/bysid/77.m3u8#http://bziyunshao.synology.me:8891/bysid/77
-香港HOYTV 78 资讯台,http://zsntlqj.xicp.net:8895/bysid/78.m3u8#http://bziyunshao.synology.me:8891/bysid/78
-香港电台RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn#http://zsntlqj.xicp.net:8895/bysid/31.m3u8#http://bziyunshao.synology.me:8892/bysid/31
-香港电台RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn#http://zsntlqj.xicp.net:8895/bysid/32.m3u8#http://bziyunshao.synology.me:8892/bysid/32
+ViuTV,http://php.jdshipin.com:8880/xsj.php?id=viutv#http://beishan008.asuscomm.com:8889/bysid/99.m3u8#http://zsntlqj.xicp.net:8895/bysid/99.m3u8#http://php.jdshipin.com:8880/smt.php?id=viu1_twn#http://m.glx008.com:8000/bysid/99.m3u8#http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8#http://bziyunshao.synology.me:8889/bysid/99
+ViuTV 6,http://php.jdshipin.com:8880/xsj.php?id=viutv6#http://beishan008.asuscomm.com:8889/bysid/96.m3u8#http://zsntlqj.xicp.net:8895/bysid/96.m3u8#http://m.glx008.com:8000/bysid/96.m3u8#http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8#http://bziyunshao.synology.me:8889/bysid/96
+香港HOYTV 76,http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc#http://zsntlqj.xicp.net:8895/bysid/76.m3u8#http://bziyunshao.synology.me:8891/bysid/76
+香港HOYTV 77,http://php.jdshipin.com:8880/xsj.php?id=hoytv#http://zsntlqj.xicp.net:8895/bysid/77.m3u8#http://bziyunshao.synology.me:8891/bysid/77
+香港HOYTV 78 资讯台,http://php.jdshipin.com:8880/xsj.php?id=hoy-info#http://zsntlqj.xicp.net:8895/bysid/78.m3u8#http://bziyunshao.synology.me:8891/bysid/78
+香港电台RTHK31,http://php.jdshipin.com:8880/xsj.php?id=rthk31#http://php.jdshipin.com:8880/smt.php?id=rhk31_twn#http://zsntlqj.xicp.net:8895/bysid/31.m3u8#http://bziyunshao.synology.me:8892/bysid/31
+香港电台RTHK32,http://php.jdshipin.com:8880/xsj.php?id=rthk32#http://php.jdshipin.com:8880/smt.php?id=rhk32_twn#http://zsntlqj.xicp.net:8895/bysid/32.m3u8#http://bziyunshao.synology.me:8892/bysid/32
+香港Now 新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news
+香港Now 直播台,http://php.jdshipin.com:8880/xsj.php?id=now-direct
+香港Now 财经台,http://php.jdshipin.com:8880/xsj.php?id=now-finance
 香港英皇C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+香港Thrill惊悚电影台,http://php.jdshipin.com:8880/xsj.php?id=thrill
+香港MOVIEMOVIE电影台,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+香港NOW Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+香港Now HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+香港Now HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+香港NOWViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+香港NOW星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+香港Now jelli紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+香港Now 爆谷台,http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
+香港Now华剧台,http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+天映经典,http://php.jdshipin.com:8880/xsj.php?id=cccm
 电信澳门,#genre#
-澳门莲花,http://php.jdshipin.com:8880/amlh.php#https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+澳门莲花,http://php.jdshipin.com:8880/xsj.php?id=lotustv#http://php.jdshipin.com:8880/amlh.php#https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 澳门澳亚卫视,http://php.jdshipin.com:8880/xsj.php?id=mastv#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://www.namewee.xyz/gudou.php?id=aoya
-澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-澳视macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8#http://61.244.22.5/ch1/ch1.live/playelist.m3u8#https://61.244.22.5/ch1/ch1.live/chunklist_w329928039.m3u8#https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8#http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8#http://61.244.22.4/ch1/ch1.live/playelist.m3u8#http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/283509
-澳视卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w714870457.m3u8#https://61.244.22.5/ch3/ch3.live/chunklist_w1051517829.m3u8#http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8#https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8#http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8#http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳门卫视,http://php.jdshipin.com:8880/xsj.php?id=mstv#https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+澳视澳门,http://php.jdshipin.com:8880/xsj.php?id=tdm#http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8#http://61.244.22.5/ch1/ch1.live/playelist.m3u8#https://61.244.22.5/ch1/ch1.live/chunklist_w329928039.m3u8#https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8#http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8#http://61.244.22.4/ch1/ch1.live/playelist.m3u8#http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/283509
+澳视卫星,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8#http://61.244.22.5/ch3/ch3.live/chunklist_w714870457.m3u8#https://61.244.22.5/ch3/ch3.live/chunklist_w1051517829.m3u8#http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8#https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8#http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8#http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳视葡文,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8#http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8#https://61.244.22.5/ch2/ch2.live/chunklist_w1405551928.m3u8#http://61.244.22.5/ch2/ch2.live/index.m3u8#https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8#http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8#http://61.244.22.4/ch2/ch2.live/playelist.m3u8#http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/283510
 澳视体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8#http://61.244.22.5/ch4/sport_ch4.live/index.m3u8#https://61.244.22.5/ch4/sport_ch4.live/chunklist_w1343570837.m3u8#https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8#http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8#http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8#http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/283513
-澳视资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8#http://61.244.22.5/ch5/info_ch5.live/chunklist_w607961300.m3u8#http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8#http://61.244.22.5/ch5/info_ch5.live/index.m3u8#https://61.244.22.5/ch5/info_ch5.live/chunklist_w379032818.m3u8#https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8#http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8#http://61.244.22.4/ch5/info_ch5.live/playelist.m3u8
+澳视资讯,http://php.jdshipin.com:8880/xsj.php?id=tdm-information#http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8#http://61.244.22.5/ch5/info_ch5.live/chunklist_w607961300.m3u8#http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8#http://61.244.22.5/ch5/info_ch5.live/index.m3u8#https://61.244.22.5/ch5/info_ch5.live/chunklist_w379032818.m3u8#https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8#http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8#http://61.244.22.4/ch5/info_ch5.live/playelist.m3u8
 澳视综艺,http://61.244.22.5/ch6/hd_ch6.live/chunklist_w341640744.m3u8#http://61.244.22.5/ch6/_definst_/hd_ch6.live/opuylist.m3u8#https://61.244.22.5/ch6/hd_ch6.live/chunklist_w6129284.m3u8#https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8#http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8#http://61.244.22.4/ch6/hd_ch6.live/playelist.m3u8
 澳门开会直播,https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8#http://61.244.22.4/tv/ch21.live/playlist.m3u8#rtmp://61.244.22.4/tv/ch21.live
 澳门开会直播葡文,https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
@@ -341,9 +355,9 @@ CCTV-16 奥林匹克,rtsp://27.148.240.189/PLTV/88888888/224/3221227339/78016133
 CCTV4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8#http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081302.m3u8#https://tv.cry33.com/ys4k.php?id=4k#http://www.yao87.com:4022/udp/239.76.253.214:9000
 CCTV8K 超高清,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8#https://tv.cry33.com/ys4k.php?id=8k
 CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/rtp/239.69.1.249:11136#http://www.yao87.com:4022/udp/239.76.254.200:9000#http://www.yao87.com:4022/udp/239.76.253.230:9000
-风云足球,http://110.178.52.143:8082/udp/239.1.1.101:8101#http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126#http://www.yao87.com:4022/udp/239.76.254.52:9000#http://123.187.46.90:65000/hls/95/index.m3u8#http://222.241.144.214:8888/udp/239.76.254.52:9000
-央视台球,http://110.178.52.143:8082/udp/239.1.1.100:8100#http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224#http://www.yao87.com:4022/udp/239.76.254.58:9000#http://222.241.144.214:8888/udp/239.76.254.58:9000
-央视高尔夫网球,http://110.178.52.143:8082/udp/239.1.1.102:8102#http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138#http://www.yao87.com:4022/udp/239.76.254.62:9000#http://222.241.144.214:8888/udp/239.76.254.62:9000
+风云足球,http://123.181.146.244:7000/rtp/239.254.201.222:7251#http://123.181.146.244:7000/rtp/239.254.200.97:6231#http://110.178.52.143:8082/udp/239.1.1.101:8101#http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126#http://www.yao87.com:4022/udp/239.76.254.52:9000#http://123.187.46.90:65000/hls/95/index.m3u8#http://222.241.144.214:8888/udp/239.76.254.52:9000
+央视台球,http://123.181.146.244:7000/rtp/239.254.201.171:7176#http://110.178.52.143:8082/udp/239.1.1.100:8100#http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224#http://www.yao87.com:4022/udp/239.76.254.58:9000#http://222.241.144.214:8888/udp/239.76.254.58:9000
+央视高尔夫网球,http://123.181.146.244:7000/rtp/239.254.201.223:7252#http://123.181.146.244:7000/rtp/239.254.200.98:6232#http://110.178.52.143:8082/udp/239.1.1.102:8102#http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138#http://www.yao87.com:4022/udp/239.76.254.62:9000#http://222.241.144.214:8888/udp/239.76.254.62:9000
 福建文体,rtsp://27.148.240.181/PLTV/88888888/224/3221226139/10000100000000060000000000741252_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErCFOU0Rv4saHEQ84jhN5Qw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000752950%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://117.27.190.42:9998/tsfile/live/23291_1.m3u8#rtsp://27.148.236.129:554/live/ch17041318323608461611.sdp?FccMediaIP=239.61.2.160&FccMediaPort=8948&vcdnid=001&mediaid=ch17041318323608461611&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPej9nJMJVgrJ4%2FaspXzqeVe9QeUwDwMtBbrPa8bgyyls90d8RtgP2DayASZlOpMLMaA%3D%3D
 五星体育,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8#http://218.80.110.51:4022/udp/239.45.3.210:5140
 魅力足球,http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/51/20230411/index.m3u8?&encrypt=
@@ -355,12 +369,12 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/r
 百事通超级体育4,http://218.80.110.51:4022/udp/239.45.3.139:5140
 劲爆体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/51/20230411/index.m3u8?&encrypt=
 劲爆体育,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/kailu/jinbaotyhd/51/20230411/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-广东体育,http://113.66.229.239:3107/tsfile/live/0142_1.m3u8#http://171.108.239.99:8181/tsfile/live/1004_1.m3u8#http://113.66.229.239:3107/udp/239.77.0.168:5146#http://113.66.229.239:3107/udp/239.77.0.112:5146##http://116.24.32.84:9098/udp/239.77.0.168:5146#http://116.24.32.84:9098/udp/239.77.0.112:5146#http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东体育,http://php.jdshipin.com:8880/xsj.php?id=gdty#http://113.66.229.239:3107/tsfile/live/0142_1.m3u8#http://171.108.239.99:8181/tsfile/live/1004_1.m3u8#http://113.66.229.239:3107/udp/239.77.0.168:5146#http://113.66.229.239:3107/udp/239.77.0.112:5146##http://116.24.32.84:9098/udp/239.77.0.168:5146#http://116.24.32.84:9098/udp/239.77.0.112:5146#http://php.jdshipin.com:8880/chudian.php?id=gdty
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 深圳体育健康,http://113.66.229.239:3107/udp/239.77.1.140:5146#http://113.66.229.239:3107/udp/239.77.1.128:5146#http://116.24.32.84:9098/udp/239.77.1.140:5146#http://116.24.32.84:9098/udp/239.77.1.128:5146
 武汉文体,http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518#http://stream.appwuhan.com/5tzb/sd/live.m3u8#http://113.57.109.36:9901/tsfile/live/1022_1.m3u8
-天元围棋,http://111.124.98.178:8188/rtp/238.255.2.7:5999#http://27.184.67.55:1024/rtp/239.254.201.156:6270#http://ayolee.com:5253/udp/239.93.42.55:5140
-足球频道,http://27.184.67.55:1024/rtp/239.254.201.169:6341#http://ayolee.com:5253/udp/239.93.0.197:9040
+天元围棋,http://123.181.146.244:7000/rtp/239.254.201.156:6270#http://111.124.98.178:8188/rtp/238.255.2.7:5999#http://27.184.67.55:1024/rtp/239.254.201.156:6270#http://ayolee.com:5253/udp/239.93.42.55:5140
+足球频道,http://123.181.146.244:7000/rtp/239.254.201.169:6341#http://ayolee.com:5253/udp/239.93.0.197:9040
 四川熊猫体娱高清,http://ayolee.com:5253/udp/239.93.0.94:5140
 辽宁体育,http://59.44.102.18:8888/newlive/live/hls/48/live.m3u8#http://xyt.186738613.xyz/lngd.php?id=611&Cf.m3u8
 咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
@@ -370,8 +384,8 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/r
 咪咕大型体育赛事轮播台,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?&encrypt=
 咪咕大型体育赛事轮播台,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 咪咕大型体育赛事轮播台2,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/yazhoubei/54/20240102/index.m3u8?&encrypt=
-咪咕足球直播台1,http://hlsbkmgsplive.miguvideo.com/migu/sports/20210817/pcstation22/55/index.m3u8?&encrypt=
-咪咕足球直播台2,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid17/55/20221109/index.m3u8?&encrypt=
+咪咕体育直播台1,http://hlsbkmgsplive.miguvideo.com/migu/sports/20210817/pcstation22/55/index.m3u8?&encrypt=
+咪咕体育直播台2,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid17/55/20221109/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/54/20230310/index.m3u8?&encrypt=
 咪咕足球五大联赛轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/54/20230310/index.m3u8?&encrypt=
 咪咕CBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/cba/54/20230310/index.m3u8?&encrypt=
@@ -387,9 +401,30 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k#http://www.hiliu.myds.me:8088/r
 武术世界,rtsp://27.148.240.181/PLTV/88888888/224/3221227256/70545597.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIWoy-A-MI65L_r6Hf7jKKA%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV70545596%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch22091416293105555892.sdp?FccMediaIP=239.61.3.22&FccMediaPort=9652&vcdnid=001&mediaid=ch22091416293105555892&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pypOapasDlmqWxQ5NqBveoj0d8RtgP2DayASZlOpMLMaA%3D%3D
 哔哩哔哩足球赛事,http://epg.112114.free.hr/bili/22
 泡泡足球赛事,http://epg.112114.free.hr/bili/31472857
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-DAZN体育3,rtmp://f13h.mine.nu/sat/tv751
+台湾DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+台湾DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
+台湾DAZN体育3,rtmp://f13h.mine.nu/sat/tv751
+香港Now Sports 618,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
+香港Now Sports 619,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
+香港Now Lucky 688,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
+香港Now Sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+香港Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
+香港Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
+香港Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
+香港Now Sports精选,http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+香港Now Sports 641,http://php.jdshipin.com:8880/xsj.php?id=now-sports641
+香港Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+香港Now Sports 2,http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
+香港Now Sports 3,http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
+香港Now Sports 4,http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
+香港Now Sports 5,http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
+香港Now Sports 6,http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
+香港Now Sports 7,http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
+香港Now Golf高尔夫 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
+香港Now Golf高尔夫 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
+香港HKC 18赛马台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
+香港Now 668赛马台,http://php.jdshipin.com:8880/xsj.php?id=now-668
+香港Now NBA,http://php.jdshipin.com:8880/xsj.php?id=now-nba
 电信咪咕体育,#genre#
 咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
 咪咕体育24小时台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
@@ -398,8 +433,8 @@ DAZN体育3,rtmp://f13h.mine.nu/sat/tv751
 咪咕大型体育赛事轮播台,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?&encrypt=
 咪咕大型体育赛事轮播台,http://116.136.170.12/mgsp-tx.live.miguvideo.com/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 咪咕大型体育赛事轮播台2,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/yazhoubei/54/20240102/index.m3u8?&encrypt=
-咪咕足球直播台1,http://hlsbkmgsplive.miguvideo.com/migu/sports/20210817/pcstation22/55/index.m3u8?&encrypt=
-咪咕足球直播台2,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid17/55/20221109/index.m3u8?&encrypt=
+咪咕体育直播台1,http://hlsbkmgsplive.miguvideo.com/migu/sports/20210817/pcstation22/55/index.m3u8?&encrypt=
+咪咕体育直播台2,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid17/55/20221109/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/54/20230310/index.m3u8?&encrypt=
 咪咕足球五大联赛轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/54/20230310/index.m3u8?&encrypt=
 咪咕CBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/cba/54/20230310/index.m3u8?&encrypt=

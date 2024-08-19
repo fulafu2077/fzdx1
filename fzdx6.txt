@@ -419,6 +419,9 @@ CCTV16 4K,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/047/2024083703.m3u8#ht
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/55/20221109/index.m3u8?&encrypt=
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/54/20221109/index.m3u8?&encrypt=
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/53/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/55/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/54/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/53/20230310/index.m3u8?&encrypt=
@@ -510,6 +513,9 @@ CCTV16 4K,http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/047/2024083703.m3u8#ht
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/55/20221109/index.m3u8?&encrypt=
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/54/20221109/index.m3u8?&encrypt=
 咪咕体育直播台7,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/53/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
+咪咕体育直播台8,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/55/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/54/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/53/20230310/index.m3u8?&encrypt=

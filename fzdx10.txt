@@ -620,6 +620,7 @@ EBS e,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.in
 EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+JTBC GOLF,http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/playlist.m3u8#http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/index.m3u8#http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/chunklist_w508286538.m3u8#http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/chunklist_w1309446658.m3u8
 电信佛教,#genre#
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#http://211.72.65.236:8507/.m3u8#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8

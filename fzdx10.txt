@@ -584,7 +584,7 @@ TJB SBS大田,http://1.245.74.5:1935/live/tv/chunklist_w13806199.m3u8
 CJB SBS清州,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 KNN SBS釜山,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 JTV SBS全州,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8#http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1992592499.m3u8
+木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1992592499.m3u8#http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 江原道MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 庆南MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 忠清北道MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8

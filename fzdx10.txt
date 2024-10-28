@@ -543,11 +543,11 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 以色列i24 News阿语台,https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_0/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_1/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_2/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_3/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_4/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/profile_5/chunklist.m3u8#https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 委内瑞拉TELESUR新闻台,https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8#https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8#https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 电信俄乌,#genre#
-俄罗斯RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
-俄罗斯RT纪录,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_2500Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
-俄罗斯1频道,http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8#https://player.smotrim.ru/iframe/stream/live_id/2961
-俄罗斯K频道,http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8#https://player.smotrim.ru/iframe/stream/live_id/19201
-俄罗斯24新闻台,http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8#https://player.smotrim.ru/iframe/stream/live_id/21
+今日俄罗斯RT,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8#https://rt-glb.rttv.com/dvr/rtnews/playlist_800Kb.m3u8
+今日俄罗斯RT纪录,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_2500Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8#https://rt-rtd.rttv.com/dvr/rtdoc/playlist_800Kb.m3u8
+俄罗斯1频道,https://player.smotrim.ru/iframe/stream/live_id/2961#http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+俄罗斯K频道,https://player.smotrim.ru/iframe/stream/live_id/19201#http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+俄罗斯24新闻台,https://player.smotrim.ru/iframe/stream/live_id/21#http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 俄罗斯莫斯科24,https://player.smotrim.ru/iframe/stream/live_id/1661
 俄罗斯iz通讯,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8#https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 俄罗斯TV BRICS金砖国家电视台,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8

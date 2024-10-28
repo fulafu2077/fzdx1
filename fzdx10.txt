@@ -634,7 +634,7 @@ TBS,https://tbs4.mov3.co/hls/tbs.m3u8#https://stream01.willfonk.com/live_playlis
 TV TOKYO,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 富士電視台,https://fujitv4.mov3.co/hls/fujitv.m3u8#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 CNN JP,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレ NEWS24,https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://n24-cdn-live.ntv.co.jp/ch01/index_Low.m3u8#https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
+日テレ NEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8#https://n24-cdn-live.ntv.co.jp/ch01/index_Low.m3u8#https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8
 NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BS Premium,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS日本電視,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

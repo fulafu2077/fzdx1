@@ -670,7 +670,7 @@ TBS首尔交通放送,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3
 KCTV 文化放送 CH05,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8#http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV 文化放送 CH21,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 MTN财经,http://moneytoday1.ktcdn.co.kr/mtnlive/_definst_/720/chunklist.m3u8#http://moneytoday1.ktcdn.co.kr/mtnlive/_definst_/480/chunklist.m3u8#http://fhs8073.bd-61.ktcdn.co.kr/mtnlive/_definst_/480/chunklist_w1757812579.m3u8
-ONE,http://50.7.234.10:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9#http://50.7.234.10:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One
+ONE,http://50.7.234.10:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226#http://50.7.234.10:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One
 EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8#http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8

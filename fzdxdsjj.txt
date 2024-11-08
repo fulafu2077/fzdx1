@@ -1488,10 +1488,13 @@ CLA电竞足球赛事3,http://192.168.50.128:35455/douyu/11879257
 高能英雄赛事,http://192.168.50.128:35455/douyu/11641721
 KARDS官方赛事,http://192.168.50.128:35455/huya/28729343
 大世界家油管新闻,#genre#
+香港凤凰资讯台,http://192.168.50.128:35455/youtube/HFib76ySpbU
 新加坡8频道,http://192.168.50.128:35455/youtube/RvSOIM620bA
 新加坡CNA新闻频道,192.168.50.128:35455/youtube/XWq5kBlakcQ
+新加坡CNA爆料新闻频道,192.168.50.128:35455/youtube/fSUMKrxPEd8
 新加坡娱乐频道,192.168.50.128:35455/youtube/ipqTkEH3mhE
-台湾东森新闻,http://192.168.50.128:35455/youtube/V1p33hqPrUk
+台湾东森新闻,http://192.168.50.128:35455/youtube/E0zhe2gkXBs
+台湾东森新闻2,http://192.168.50.128:35455/youtube/V1p33hqPrUk
 台湾东森财经新闻,http://192.168.50.128:35455/youtube/WHEPzbFA3hw
 台湾公视新闻网,http://192.168.50.128:35455/youtube/quwqlazU-c8
 台湾中天新闻,http://192.168.50.128:35455/youtube/vr3XyVCR4T0
@@ -1501,6 +1504,7 @@ KARDS官方赛事,http://192.168.50.128:35455/huya/28729343
 台湾TVBS网络新闻,http://192.168.50.128:35455/youtube/m_dhMSvUCIc
 台湾TVBS新闻,http://192.168.50.128:35455/youtube/2mCSYvcfhtc
 台湾TVBS综合,http://192.168.50.128:35455/youtube/o_-hSMgpAzs
+台湾非凡电视,http://192.168.50.128:35455/youtube/NHQDx8vCrC4
 台湾中视新闻,http://192.168.50.128:35455/youtube/TCnaIE_SAtM
 台湾中视经典戏剧,http://192.168.50.128:35455/youtube/dOZexeViSPA
 台湾中视经典综艺,http://192.168.50.128:35455/youtube/ADDSmXoPDY8
@@ -1515,24 +1519,42 @@ KARDS官方赛事,http://192.168.50.128:35455/huya/28729343
 台湾三立网络新闻海外,http://192.168.50.128:35455/youtube/hGJkDZDchYI
 台湾三立华剧,http://192.168.50.128:35455/youtube/yJrzMuxqF6Q
 台湾镜新闻,http://192.168.50.128:35455/youtube/5n0y6b0Q25o
+台湾联合新闻网,http://192.168.50.128:35455/youtube/UxsTh4YrtWI
 台湾国会频道1,http://192.168.50.128:35455/youtube/4HysYHJ6GkY
 台湾国会频道2,http://192.168.50.128:35455/youtube/Lj8OWF6nzcg
 美国NTD亚太,http://192.168.50.128:35455/youtube/WIhgU_mc05A
-韩国KBS新闻,http://192.168.50.128:35455/youtube/J-HUBOOKSAY
+韩国KBS新闻,http://192.168.50.128:35455/youtube/Pz1JXlYSHyA
+韩国KBS WORLD,http://192.168.50.128:35455/youtube/OxQQsIvJTTU
 韩国MBC新闻,http://192.168.50.128:35455/youtube/WK1-l5mMOsc
 韩国YTN,http://192.168.50.128:35455/youtube/FJfwehhzIhw
+韩国YTN 2,http://192.168.50.128:35455/youtube/hxBTqmTT5gE
 韩国YTN dmb,http://192.168.50.128:35455/youtube/2C2WCLhDsR4
-韩国YTN Korean,http://192.168.50.128:35455/youtube/G69FFvy7uxI
-韩国韩联社新闻,http://192.168.50.128:35455/youtube/uxl9wfaGrm4
-韩国TV CHOSUN,http://192.168.50.128:35455/youtube/yl2WguhLqLw
+韩国YTN Science,http://192.168.50.128:35455/youtube/xfFa_kcPnCY
+韩国YTN Korean,http://192.168.50.128:35455/youtube/vhdJNZT-QLk
+韩国韩联社新闻,http://192.168.50.128:35455/youtube/jREzvA_l4KI
+韩国TV CHOSUN新闻,http://192.168.50.128:35455/youtube/4aPGdRX3ezc
+韩国MBN新闻,http://192.168.50.128:35455/youtube/iZl4ALJJpBA
+韩国arirang阿里郎,http://192.168.50.128:35455/youtube/CJVBX7KI5nU
+韩国每日电视,http://192.168.50.128:35455/youtube/5cFoz90FUMk
 日本NHK WORLD,http://192.168.50.128:35455/youtube/f0lYkdA-Gtw
-日本NNN新闻,http://192.168.50.128:35455/youtube/pJnNo6LuNnE
-日本富士新闻,http://192.168.50.128:35455/youtube/emHRFQJ57ME
+日本NNN新闻,http://192.168.50.128:35455/youtube/w-ONngNFgG0
+日本富士新闻,http://192.168.50.128:35455/youtube/rr73dqOE6i0
 日本朝日新闻,http://192.168.50.128:35455/youtube/coYw-eVU0Ks
-日本TBS新闻,http://192.168.50.128:35455/youtube/Ejsl8en-CYU
-日本MBS每日放送,https://www.youtube.com/watch?v=Tb5ypvas8co
+日本TBS新闻,http://192.168.50.128:35455/youtube/l343nyDBtzA
+日本ytv读卖新闻,http://192.168.50.128:35455/youtube/0jlKQ6FsE3E
 日本HTB北海道新闻,http://192.168.50.128:35455/youtube/d8CrKBU99Hg
 日本HBC北海道放送,http://192.168.50.128:35455/youtube/dQzFJcLpXsk
-日本STV新闻北海道.http://192.168.50.128:35455/youtube/hA46WfBYdgo
-
+日本STV新闻北海道,http://192.168.50.128:35455/youtube/hA46WfBYdgo
+大世界家好康
+美国迈阿密 TV,https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/chunklist_w1655875108_b1896000.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+美国迈阿密 TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist_w773115972_b1896000.m3u8#https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+美国迈阿密 TV Latino,https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/chunklist_w539325154_b1896000.m3u8#https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w782145995_b1896000.m3u8#https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+美国迈阿密 TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:miamitvmexicoROKU/playlist.m3u8
+美国迈阿密TV VIP,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w512171806_b1896000.m3u8
+美国迈阿密 TV fashion,https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist_w1615187460.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist_w813946178.m3u8
+美国迈阿密 TV music,https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/chunklist_w1062240116_b1896000.m3u8
+美国迈阿密 TV GOLD,https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist_w1051769800_b1896000.m3u8
+美国迈阿密 TV DJ,https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist_w1663730774_b1896000.m3u8
+日本チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+韩国MAXIM KOREA,http://192.168.50.128:35455/youtube/qm5SRdX4q_0
 

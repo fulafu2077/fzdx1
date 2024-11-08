@@ -1519,19 +1519,13 @@ KARDS官方赛事,http://192.168.50.128:35455/huya/28729343
 台湾国会频道1,http://192.168.50.128:35455/youtube/4HysYHJ6GkY
 台湾国会频道2,http://192.168.50.128:35455/youtube/Lj8OWF6nzcg
 美国NTD亚太,http://192.168.50.128:35455/youtube/WIhgU_mc05A
-韩国KBS新闻,http://192.168.50.128:35455/youtube/Pz1JXlYSHyA
 韩国KBS KOREA,http://192.168.50.128:35455/youtube/OxQQsIvJTTU
-韩国MBC新闻,http://192.168.50.128:35455/youtube/WK1-l5mMOsc
 韩国YTN新闻,http://192.168.50.128:35455/youtube/FJfwehhzIhw
 韩国YTN 2新闻,http://192.168.50.128:35455/youtube/hxBTqmTT5gE
 韩国YTN dmb新闻,http://192.168.50.128:35455/youtube/2C2WCLhDsR4
 韩国YTN Science,http://192.168.50.128:35455/youtube/xfFa_kcPnCY
-韩国YTN Korean,http://192.168.50.128:35455/youtube/vhdJNZT-QLk
-韩国MBN新闻,http://192.168.50.128:35455/youtube/iZl4ALJJpBA
-韩国arirang阿里郎,http://192.168.50.128:35455/youtube/CJVBX7KI5nU
 韩国每日电视,http://192.168.50.128:35455/youtube/5cFoz90FUMk
 日本NHK WORLD,http://192.168.50.128:35455/youtube/f0lYkdA-Gtw
-日本ytv读卖新闻,http://192.168.50.128:35455/youtube/0jlKQ6FsE3E
 日本HTB北海道新闻,http://192.168.50.128:35455/youtube/d8CrKBU99Hg
 日本HBC北海道放送,http://192.168.50.128:35455/youtube/dQzFJcLpXsk
 日本北海道札幌新闻,http://192.168.50.128:35455/youtube/hA46WfBYdgo

@@ -1358,8 +1358,8 @@ CLA电竞足球赛事3,http://epg.112114.free.hr/douyu/11879257
 高能英雄赛事,http://epg.112114.free.hr/douyu/11641721
 KARDS官方赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=28729343
 大世界家电影,#genre#
-首尔之春,https://media-hbwh-fy-person.hb11oss.ctyunxs.cn/PERSONCLOUD/111c814d-dde8-4af2-b321-e0e3b3d5476c.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E9%A6%96%E5%B0%94%E4%B9%8B%E6%98%A5.mp4%22%3Bfilename*%3DUTF-8%27%27%25E9%25A6%2596%25E5%25B0%2594%25E4%25B9%258B%25E6%2598%25A5.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=PC&Signature=qgikE2GWU72qHJEbSyvg6BxDqf4%3D&AWSAccessKeyId=g6jU1T3TkAbPKf5ouH5d&Expires=1733356871&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=4144265380&x-amz-UID=945800771528701&x-amz-UFID=11466317450609302
-首尔之春,https://media-hbwh-fy-person.hb11oss.ctyunxs.cn/PERSONCLOUD/111c814d-dde8-4af2-b321-e0e3b3d5476c.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E9%A6%96%E5%B0%94%E4%B9%8B%E6%98%A5.mp4%22%3Bfilename*%3DUTF-8%27%27%25E9%25A6%2596%25E5%25B0%2594%25E4%25B9%258B%25E6%2598%25A5.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=PC&Signature=gdlnlizHlKSi4SjiTEUQpWwG1Kk%3D&AWSAccessKeyId=g6jU1T3TkAbPKf5ouH5d&Expires=1733357056&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=4144265380&x-amz-UID=945800771528701&x-amz-UFID=11466317450609302
+首尔之春,https://ppvod01.blbtgg.com/splitOut/20240715/388363/V2024071509404050067388363/index.m3u8?auth_key=1733385564-2c6447dd4efd46ef8f14669b40a1dba2-0-3131d14146caaddec910fe76cd2fcabe
+
 大世界家抖音,#genre#
 福州柳星安家华姐,http://192.168.50.166:35455/douyin/933289896
 福州房产教练周小方,http://192.168.50.166:35455/douyin/619516801

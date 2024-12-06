@@ -30,14 +30,14 @@ CCTV-16 奥林匹克,rtsp://27.148.240.185/PLTV/88888888/224/3221227339/78016133
 CCTV-16 奥林匹克,rtsp://27.148.240.189/PLTV/88888888/224/3221227339/78016133.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg084fZIoWwstPG74FL6qSw%7ES3GFeIzAljPXshksTxHOFDH8giPrMKmthizcmtetbldBY1I3OyZGzDstmWKbaYdN2BBsn7klcJWnuRXdWn2U4zETErKlMRZjFw-kbWtE2ZM%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230903084544%2C10500000500736%2C124.72.38.59%2C20230903084544%2Curn%3AHuawei%3AliveTV%3AXTV78016132%2C1000100055602320230903084543%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND#http://27.148.240.138/PLTV/88888888/224/3221227352/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
 CCTV-17 农业农村,rtsp://27.148.240.181/PLTV/88888888/224/3221227051/43392995.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErAhn-sn2Vwr08dt8yAERXg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV43392994%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227055/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23247_1.m3u8#rtsp://27.148.236.129:554/live/ch19073116244855666953.sdp?FccMediaIP=239.61.3.9&FccMediaPort=9572&vcdnid=001&mediaid=ch19073116244855666953&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeh7VZAgzK%2B%2FDS9ohPoFRsWNPBdQjUSrKTwTfS6pf4nRN0d8RtgP2DayASZlOpMLMaA%3D%3D
 CCTV4K 超高清,http://8.138.90.107/公众号【睡眼迷离的猫】/gdx.php?id=239.77.0.174:5146
-CCTV4K 超高清,http://27.148.240.138/PLTV/88888888/224/3221227333/1.m3u8#http://117.72.68.25:9930/ys4k.php?id=4k#http://14.154.168.140:8088/udp/239.77.0.194:5146#http://14.154.168.140:8088/udp/239.77.0.174:5146
+CCTV4K 超高清,http://27.148.240.138/PLTV/88888888/224/3221227333/1.m3u8#http://117.72.68.25:9930/ys4k.php?id=4k#http://58.32.40.108:4022/udp/239.77.0.194:5146#http://58.32.40.108:4022/udp/239.77.0.174:5146
 CCTV4K 超高清,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540
 CCTV4K 超高清,http://27.222.3.214/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081302.m3u8#https://tv.cry33.com/ys4k.php?id=4k#http://118.249.21.194:9999/udp/239.76.253.214:9000
 CCTV8K 超高清,http://117.72.68.25:9930/ys4k.php?id=8k
 CCTV8K 超高清,http://27.222.3.214/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8#https://tv.cry33.com/ys4k.php?id=8k
 CCTV16 4K,http://8.138.90.107/公众号【睡眼迷离的猫】/gdx.php?id=239.77.1.98:5146
 CCTV16 4K,http://117.72.68.25:9930/ys4k.php?id=16-4k
-CCTV16 4K,http://14.154.168.140:8088/udp/239.77.1.98:5146#http://27.16.160.149:3520/rtp/239.69.1.249:11136#http://27.222.3.214/hlslive-tx-cdn.ysp.cctv.cn/047/2024083703.m3u8#https://tv.cry33.com/ys4k.php?id=16-4k#http://27.16.160.149:3520/rtp/239.69.1.249:11136#http://118.249.21.194:9999/udp/239.76.254.200:9000#http://118.249.21.194:9999/udp/239.76.253.230:9000
+CCTV16 4K,http://58.32.40.108:4022/udp/239.77.1.98:5146#http://27.16.160.149:3520/rtp/239.69.1.249:11136#http://27.222.3.214/hlslive-tx-cdn.ysp.cctv.cn/047/2024083703.m3u8#https://tv.cry33.com/ys4k.php?id=16-4k#http://27.16.160.149:3520/rtp/239.69.1.249:11136#http://118.249.21.194:9999/udp/239.76.254.200:9000#http://118.249.21.194:9999/udp/239.76.253.230:9000
 CGTN 英语,rtsp://27.148.240.181/PLTV/88888888/224/3221225695/10000100000000060000000000417459_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEjCmdFktcion_3iy__HmaQ%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2CUmai%3ACHAN%2F11354%40BESTV.SMG.SMG%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226822/ 1.m3u8#rtsp://27.148.236.129:554/live/ch15102717162043740968.sdp?FccMediaIP=239.61.2.19&FccMediaPort=8108&vcdnid=001&mediaid=ch15102717162043740968&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdndFjwiW4RGnE%2BPSPTKjzrF0d8RtgP2DayASZlOpMLMaA%3D%3D
 CGTN 阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN俄语,rtsp://27.148.240.181/PLTV/88888888/224/3221227159/59904327.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E4zwxPjCyPjqFQKVifIR1EA%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV59904326%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.240.181/PLTV/88888888/224/3221227159/59904327.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E4zwxPjCyPjqFQKVifIR1EA%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV59904326%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227278/ 1.m3u8
@@ -685,7 +685,11 @@ JTV SBS全州,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3
 丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 台湾韩国娱乐台,http://211.72.65.236:8523/.m3u8#https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv016
 台湾华艺MBC韩国综合台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn
+TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
 TVN亚洲,http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9#http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d#http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN
+TVNBN ,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+TVN亚洲crush,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8#https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 OBS京仁放送,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 MBN每日经济新闻,http://mytv.dothome.co.kr/ch/catv/54.php
@@ -1009,7 +1013,7 @@ Sky Sports Cricket,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?
 咪咕体育直播台63,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/55/20221109/index.m3u8?&encrypt=
 咪咕体育直播台63,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/54/20221109/index.m3u8?&encrypt=
 咪咕体育直播台63,http://hlsbkmgsplive.miguvideo.com/migu/sports/50zhenyhvivid16/53/20221109/index.m3u8?&encrypt=
-咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/55/20230310/index.m3u8?&encrypt=咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/55/20230310/index.m3u8?&encrypt=
+咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/55/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/54/20230310/index.m3u8?&encrypt=
 咪咕NBA轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/nba/53/20230310/index.m3u8?&encrypt=
 咪咕足球五大联赛轮播,http://hlsbkmgsplive.miguvideo.com/migu/lunbo/wudaliansai/55/20230310/index.m3u8?&encrypt=
@@ -1170,7 +1174,6 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 上海百视通热门综艺,http://112.25.48.68/live/program/live/rmzy8m/8000000/mnf.m3u8
 上海百视通健康养生,http://112.25.48.68/live/program/live/jkys8m/8000000/mnf.m3u8
 上海百视通百变课堂,http://112.25.48.68/live/program/live/bbkt8m/8000000/mnf.m3u8
-电信深圳,#genre#
 电信深圳,#genre#
 深圳卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221227141/59924711.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Eapul-XyWEK9yengkFL4Dgg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV59924710%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227285/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23274_1.m3u8#https://sztv-live.sztv.com.cn/AxeFRth/500/517hx4F.m3u8?sign=1a36ba6d79999783a303a3ad1cd655f9&t=67462bcb
 深圳卫视,http://192.168.50.121:8080/sz3.php?id=szws#http://8.138.90.107/公众号【睡眼迷离的猫】/gdx.php?id=239.77.0.130:5146
@@ -1354,3 +1357,246 @@ CLA电竞足球赛事3,http://epg.112114.free.hr/douyu/11879257
 自由足球赛事,http://epg.112114.free.hr/douyu/666790
 高能英雄赛事,http://epg.112114.free.hr/douyu/11641721
 KARDS官方赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/huya.php?id=28729343
+大世界家电影,#genre#
+首尔之春,https://ppvod01.blbtgg.com/splitOut/20240715/388363/V2024071509404050067388363/index.m3u8?auth_key=1733385564-2c6447dd4efd46ef8f14669b40a1dba2-0-3131d14146caaddec910fe76cd2fcabe
+
+大世界家抖音,#genre#
+福州柳星安家华姐,http://192.168.50.166:35455/douyin/933289896
+福州房产教练周小方,http://192.168.50.166:35455/douyin/619516801
+福州莉哥来了,http://192.168.50.166:35455/douyin/293537459350
+福州丁叔猎房咨询,http://192.168.50.166:35455/douyin/162370593199
+福州权哥说房,http://192.168.50.166:35455/douyin/79112525950
+福州速易说房小汤,http://192.168.50.166:35455/douyin/127261726
+福州老姜和房子的故事,http://192.168.50.166:35455/douyin/601246977
+福州新哥聊房,http://192.168.50.166:35455/douyin/852702500440
+熹贝看福州,http://192.168.50.166:35455/douyin/84144326713
+福州二哥,http://192.168.50.166:35455/douyin/dy8647j8t3gu
+福州OK探房,http://192.168.50.166:35455/douyin/615240814952
+福州发哥聊楼市,http://192.168.50.166:35455/douyin/128912933383
+福州颜选好房,http://192.168.50.166:35455/douyin/489846607813
+福州祖平说房,http://192.168.50.166:35455/douyin/741690699558
+福娃直通车,http://192.168.50.166:35455/douyin/fz_yey
+福州小升初直通车,http://192.168.50.166:35455/douyin/177404740665
+福州中考直通车,http://192.168.50.166:35455/douyin/935717012090
+尹哥聊电车1台,http://192.168.50.166:35455/douyin/629481391865
+尹哥聊电车2台,http://192.168.50.166:35455/douyin/460047827401
+悟道足球,http://192.168.50.166:35455/douyin/434268989117
+抖音体育,http://192.168.50.166:35455/douyin/douyintiyu
+新爱体育,http://192.168.50.166:35455/douyin/shinaisports
+毛毛还活着网球1台,http://192.168.50.166:35455/douyin/mmbemyself
+毛毛还活着网球2台,http://192.168.50.166:35455/douyin/maomaotennis
+大世界家哔哩哔哩直播,#genre#
+峰哥亡命天涯,http://192.168.50.166:35455/bilibili/22230707
+战鹰,http://192.168.50.166:35455/bilibili/23141761
+MIA甲鱼,http://192.168.50.166:35455/bilibili/32528277
+大世界家游戏直播,#genre#
+英雄联盟LPL赛事,http://192.168.50.166:35455/douyu/288016
+英雄联盟LPL赛事,http://192.168.50.166:35455/huya/660000
+英雄联盟LPL赛事,http://192.168.50.166:35455/bilibili/6
+王者荣耀KPL赛事,http://192.168.50.166:35455/douyu/1863767#http://192.168.50.166:35455/bilibili/55#http://192.168.50.166:35455/douyu/998王者荣耀KPL赛事,http://192.168.50.166:35455/huya/660002
+王者荣耀KPL赛事,http://192.168.50.166:35455/bilibili/21654762
+王者荣耀女子赛事,http://192.168.50.166:35455/douyu/1984847
+DYG精彩赛事回顾,http://192.168.50.166:35455/douyu/8987164
+斗鱼电竞赛事,http://192.168.50.166:35455/douyu/119
+和平精英PEL赛事,http://192.168.50.166:35455/douyu/999
+和平精英PEL赛事,http://192.168.50.166:35455/huya/660006
+和平精英PEL赛事,http://192.168.50.166:35455/bilibili/23
+和平精英大众赛事,http://192.168.50.166:35455/huya/660129
+和平精英PEL经典赛事,http://192.168.50.166:35455/huya/11948620
+英雄联盟手游赛事,http://192.168.50.166:35455/douyu/33
+英雄联盟手游赛事,http://192.168.50.166:35455/huya/667812
+英雄联盟手游赛事,http://192.168.50.166:35455/bilibili/23352034
+金铲铲之战赛事,http://192.168.50.166:35455/douyu/9715241#http://192.168.50.166:35455/bilibili/24088107
+街霸赛事,http://192.168.50.166:35455/douyu/11437
+云顶之弈赛事,http://192.168.50.166:35455/douyu/522423
+英雄联盟赛事1,http://192.168.50.166:35455/douyu/673320
+英雄联盟赛事2,http://192.168.50.166:35455/douyu/424559
+英雄联盟赛事3,http://192.168.50.166:35455/douyu/673305
+英雄联盟赛事4,http://192.168.50.166:35455/douyu/7598054
+英雄联盟赛事5,http://192.168.50.166:35455/douyu/3563196
+英雄联盟赛事6,http://192.168.50.166:35455/douyu/7596577
+英雄联盟赛事7,http://192.168.50.166:35455/douyu/673305
+英雄联盟-S赛事,http://192.168.50.166:35455/huya/11947428
+英雄联盟MSI赛事,http://192.168.50.166:35455/huya/660105
+DOTA 2赛事,http://192.168.50.166:35455/douyu/30#http://192.168.50.166:35455/bilibili/3336696
+DOTA 2赛事2,http://192.168.50.166:35455/douyu/3811559
+跑跑卡丁车赛事,http://192.168.50.166:35455/douyu/7722576
+JJ斗地主,http://192.168.50.166:35455/douyu/488743
+JJ斗地主,http://192.168.50.166:35455/huya/14079954
+JJ斗地主,http://192.168.50.166:35455/bilibili/22021983
+咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=
+咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/75/index.m3u8?&encrypt=
+咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/50/index.m3u8?&encrypt=
+掼蛋棋牌赛事,http://192.168.50.166:35455/huya/139167
+升级棋牌赛事,http://192.168.50.166:35455/bilibili/30627124
+QQ飞车赛事,http://192.168.50.166:35455/huya/660219
+QQ飞车手游赛事,http://192.168.50.166:35455/douyu/5040227
+QQ飞车手游赛事,http://192.168.50.166:35455/huya/660117
+狼人杀赛事,http://192.168.50.166:35455/douyu/4615959
+FIFA电竞足球赛事,http://192.168.50.166:35455/douyu/9669867
+第五人格赛事,http://192.168.50.166:35455/douyu/3226194
+第五人格赛事,http://192.168.50.166:35455/huya/461698
+第五人格赛事,https://alirtspull.cc.netease.com/pushstationsave/0b51ff895049a6ec7d6c285581113.flv?src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1676837463-8f50eb04589044af8b706e7eced458bb-0-0424beb473eb175bf93c6b74e676ec23#http://192.168.50.166:35455/bilibili/5887574
+第五人格IPL赛事,http://192.168.50.166:35455/douyu/11649979
+第五人格PAL赛事,http://192.168.50.166:35455/douyu/9618584#http://192.168.50.166:35455/bilibili/31288379
+第五人格ASU赛事,http://192.168.50.166:35455/bilibili/14432545
+第五人格PAL赛事,http://192.168.50.166:35455/bilibili/31937750
+永劫无间赛事,http://192.168.50.166:35455/douyu/9662891
+永劫无间赛事,http://192.168.50.166:35455/huya/660115#https://alirtspull.cc.netease.com/pushstationsave/a8b768c5c72ed97e54e2294779469.flv?src=webcc_6313_h5&quic_versions=46%2C43%2C39&auth_key=1690324852-97f2879dc79f40e9990378604487fc54-0-8de45bc318f6c98579a1c7f376c65e89#http://192.168.50.166:35455/bilibili/30
+永劫无间赛事2,http://192.168.50.166:35455/douyu/10005153
+永劫无间手游赛事,https://alipullhls.cc.netease.com/pushstation/6c4a615cf28b27631e16289952844.m3u8?auth_key=1722499367-9d7bb3e578a24b98b6f34a90ff83879b-0-45a93afe615514f9ffab8f11a5a1eb90
+无畏契约赛事,http://192.168.50.166:35455/douyu/4585645
+无畏契约赛事,http://192.168.50.166:35455/huya/660679
+无畏契约赛事,http://192.168.50.166:35455/bilibili/22908869#http://192.168.50.166:35455/bilibili/27331415
+无畏契约赛事2,http://192.168.50.166:35455/douyu/9822023
+守望先锋赛事,http://192.168.50.166:35455/douyu/945572#http://192.168.50.166:35455/douyu/207329
+守望先锋赛事,http://192.168.50.166:35455/huya/660128
+守望先锋赛事,https://hw.flv.huya.com/src/78941969-2540560280-10911623316116602880-3083206534-10057-A-0-1.flv?wsSecret=34b953e72569d1ba499d098a988cf79d&wsTime=64c1bc5d&seqid=3156242376929&ctype=tars_mobile&ver=1&txyp=o%3Anc4%3B&fs=bgct&t=103&ratio=2000&uid=1465910506267&uuid=1158168664&t=103&sv=2110211124#http://192.168.50.166:35455/huya/660128
+守望先锋赛事2,http://192.168.50.166:35455/huya/29701523
+守望先锋赛事3,http://192.168.50.166:35455/huya/29701525
+绝地求生赛事,http://192.168.50.166:35455/douyu/100
+绝地求生赛事2,http://192.168.50.166:35455/huya/660121
+天天吃鸡赛事,http://192.168.50.166:35455/huya/660004
+绝地求生Afreeca赛事,http://192.168.50.166:35455/douyu/8769185
+绝地求生赛事3,http://192.168.50.166:35455/douyu/5818871
+绝地求生NV获胜赛事,http://192.168.50.166:35455/huya/29701499
+APEX赛事,http://192.168.50.166:35455/douyu/6642623
+穿越火线赛事,http://192.168.50.166:35455/douyu/5388537
+穿越火线赛事,http://192.168.50.166:35455/huya/660101
+穿越火线赛事,http://192.168.50.166:35455/bilibili/27
+穿越火线赛事2,http://192.168.50.166:35455/douyu/522798
+穿越火线海外赛事,http://192.168.50.166:35455/huya/11718768
+穿越火线CFML,http://192.168.50.166:35455/douyu/868191
+穿越火线CFHD,http://192.168.50.166:35455/douyu/9294735
+穿越火线CFHD,http://192.168.50.166:35455/huya/660106
+穿越火线手游赛事,http://192.168.50.166:35455/huya/660102
+决战！平安京赛事,http://192.168.50.166:35455/douyu/4196244#https://alipullhls.cc.netease.com/pushstation/206a70371ebb3abc589d3987817.m3u8?auth_key=1720893007-7dd7549a298e4446a3402b57e736e259-0-f1d9c6d63635b8036ae1d65d147c875a#https://alirtspull.cc.netease.com/live/206a70371ebb3abc589d3987817tc4.flv?src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1695462841-2b490f7e6cde4b178d15c31117fcd4e5-0-92cae94c1c11226327011fa7f1bd8c88#http://192.168.50.166:35455/bilibili/7623885
+KK对战平台魔兽争霸,http://192.168.50.166:35455/douyu/11598175
+梦幻西游手游赛事,http://192.168.50.166:35455/douyu/9163712
+CSGO官方赛事主频道,http://192.168.50.166:35455/douyu/601514#http://192.168.50.166:35455/bilibili/35
+CSGO官方赛事分频道1,http://192.168.50.166:35455/douyu/9392697
+CSGO官方赛事分频道2,http://192.168.50.166:35455/douyu/9441366
+CSGO官方赛事分频道3,http://192.168.50.166:35455/douyu/9441362
+雀魂官方赛事,http://192.168.50.166:35455/douyu/11906554
+使命召唤手游CODM,http://192.168.50.166:35455/douyu/9223245
+魔兽争霸赛事,http://192.168.50.166:35455/douyu/1180837
+魔兽争霸赛事2,http://192.168.50.166:35455/douyu/10288545
+天涯明月刀OL赛事,http://192.168.50.166:35455/douyu/447646
+DNF地下城与勇士官方赛事,http://192.168.50.166:35455/douyu/470321
+冒险岛官方赛事,http://192.168.50.166:35455/douyu/5393944
+生死狙击2官方赛事,http://192.168.50.166:35455/douyu/7439056
+迷你世界官方赛事,http://192.168.50.166:35455/douyu/9226029
+MC我的世界官方赛事,http://192.168.50.166:35455/douyu/5753281
+FC ONLINE西甲电竞挑战赛,http://192.168.50.166:35455/douyu/7692166
+曙光英雄官方赛事,http://192.168.50.166:35455/douyu/11866210
+原神赛事,http://192.168.50.166:35455/douyu/11637530
+原神赛事2,http://192.168.50.166:35455/bilibili/31917671
+原神卡牌七圣召唤赛事,http://192.168.50.166:35455/huya/28271481
+原神卡牌七圣召唤赛事2,http://192.168.50.166:35455/huya/28904710
+街头篮球赛事,http://192.168.50.166:35455/douyu/3610879
+永恒轮回赛事,http://192.168.50.166:35455/douyu/9438086
+蛋仔派对官方,https://alipullhls.cc.netease.com/pushstation/9ca1205195804476bf1c272713076.m3u8?auth_key=1720894564-e61a3c20a42341ef90adb996579af75d-0-58fcf1bdddd2ca1acc71f1764a3e90c5
+蛋仔派对赛事,http://192.168.50.166:35455/douyu/5590267#http://192.168.50.166:35455/douyu/5590867
+蛋仔派对赛事2,https://alipullhls.cc.netease.com/pushstation/6f5b6977a77aef3f3c8b129075896.m3u8?auth_key=1720894565-713d377fbfdb4b799c77ee42558785b9-0-b2c54eb839a130958bb9d3e4e877d61e
+蛋仔派对赛事3,https://alipullhls.cc.netease.com/pushstation/f3ad4bd9da611d89e6d4511107163.m3u8?auth_key=1720894424-f70c724ba2b74e52962ffb577aa4b192-0-579ceaf6513793f966b2515cb5d140c9
+蛋仔派对赛事4,https://alipullhls.cc.netease.com/pushstation/1726bc93012644a7cb69511107252.m3u8?auth_key=1720894495-08904a5970024ec7a8b13c7323e82882-0-9e82535fb865a6a8e5cce764a3e42a70
+蛋仔派对总决赛,https://alipullhls.cc.netease.com/pushstation/53202f2bb8579ba68a07511106613.m3u8?auth_key=1720894707-fb3886e2a90b4f57aec91c9ff2cbe3ab-0-07a189c2e8c0c8cf169cf85830e3b0d8
+皇室战争赛事,http://192.168.50.166:35455/douyu/1732991
+星际争霸赛事,http://192.168.50.166:35455/douyu/8933496
+星际争霸赛事2,http://192.168.50.166:35455/douyu/7964867
+荒野乱斗赛事,http://192.168.50.166:35455/douyu/7519082
+三国杀赛事,http://192.168.50.166:35455/douyu/7529411
+三国杀移动赛事,http://192.168.50.166:35455/douyu/6842669
+三国杀移动赛事,http://192.168.50.166:35455/huya/10904849
+战斗之星赛事,http://192.168.50.166:35455/douyu/9448281
+堡垒之夜赛事,http://192.168.50.166:35455/douyu/4772851
+暗区突围赛事,http://192.168.50.166:35455/douyu/10767824
+实况足球手游赛事,http://192.168.50.166:35455/douyu/6688141#http://192.168.50.166:35455/bilibili/23227293
+EPC电竞足球赛事1,http://192.168.50.166:35455/douyu/11870998
+EPC电竞足球赛事2,http://192.168.50.166:35455/douyu/11871003
+EPC电竞足球赛事3,http://192.168.50.166:35455/douyu/11871019
+CLA电竞足球赛事1,http://192.168.50.166:35455/douyu/11878914
+CLA电竞足球赛事2,http://192.168.50.166:35455/douyu/11879202
+CLA电竞足球赛事3,http://192.168.50.166:35455/douyu/11879257
+自由足球赛事,http://192.168.50.166:35455/douyu/666790
+高能英雄赛事,http://192.168.50.166:35455/douyu/11641721
+KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
+大世界家油管新闻,#genre#
+香港凤凰资讯台,http://192.168.50.166:35455/youtube/HFib76ySpbU
+新加坡8视界新闻网,http://192.168.50.166:35455/youtube/RvSOIM620bA
+台湾东森新闻,http://192.168.50.166:35455/youtube/E0zhe2gkXBs
+台湾东森网络新闻,http://192.168.50.166:35455/youtube/V1p33hqPrUk
+台湾东森财经新闻,http://192.168.50.166:35455/youtube/WHEPzbFA3hw
+台湾公视新闻网,http://192.168.50.166:35455/youtube/quwqlazU-c8
+台湾中天新闻,http://192.168.50.166:35455/youtube/vr3XyVCR4T0
+台湾寰宇新闻,http://192.168.50.166:35455/youtube/6-WNdFhbK5k
+台湾寰宇新闻台湾,http://192.168.50.166:35455/youtube/w87VGpgd90U
+台湾寰宇财经,http://192.168.50.166:35455/youtube/WTRQiVWK1jY
+台湾TVBS网络新闻,http://192.168.50.166:35455/youtube/m_dhMSvUCIc
+台湾TVBS新闻,http://192.168.50.166:35455/youtube/2mCSYvcfhtc
+台湾TVBS综合,http://192.168.50.166:35455/youtube/o_-hSMgpAzs
+台湾非凡电视,http://192.168.50.166:35455/youtube/NHQDx8vCrC4
+台湾中视新闻,http://192.168.50.166:35455/youtube/TCnaIE_SAtM
+台湾中视经典戏剧,http://192.168.50.166:35455/youtube/dOZexeViSPA
+台湾中视经典综艺,http://192.168.50.166:35455/youtube/ADDSmXoPDY8
+台湾台视新闻,http://192.168.50.166:35455/youtube/xL0ch83RAK8
+台湾华视新闻,http://192.168.50.166:35455/youtube/wM0g8EoUZ_E
+台湾华视戏剧,http://192.168.50.166:35455/youtube/JyVdCzwhmRQ
+台湾民视新闻,http://192.168.50.166:35455/youtube/ylYJSBUgaMA
+台湾民视网络新闻,http://192.168.50.166:35455/youtubeKCaBMdlkCwI
+台湾民视戏剧,http://192.168.50.166:35455/youtube/6CQZxYpW9q4
+台湾民视读夯,http://192.168.50.166:35455/youtube/TUkQypAk1JA
+台湾三立网络新闻,http://192.168.50.166:35455/youtube/MV9mI0GChwo
+台湾三立网络新闻海外,http://192.168.50.166:35455/youtube/hGJkDZDchYI
+台湾三立华剧,http://192.168.50.166:35455/youtube/yJrzMuxqF6Q
+台湾镜新闻,http://192.168.50.166:35455/youtube/5n0y6b0Q25o
+台湾国会频道1,http://192.168.50.166:35455/youtube/4HysYHJ6GkY
+台湾国会频道2,http://192.168.50.166:35455/youtube/Lj8OWF6nzcg
+美国NTD亚太,http://192.168.50.166:35455/youtube/WIhgU_mc05A
+韩国KBS KOREA,http://192.168.50.166:35455/youtube/OxQQsIvJTTU
+韩国YTN新闻,http://192.168.50.166:35455/youtube/FJfwehhzIhw
+韩国YTN 2新闻,http://192.168.50.166:35455/youtube/hxBTqmTT5gE
+韩国YTN dmb新闻,http://192.168.50.166:35455/youtube/2C2WCLhDsR4
+韩国YTN Science,http://192.168.50.166:35455/youtube/xfFa_kcPnCY
+韩国每日电视,http://192.168.50.166:35455/youtube/5cFoz90FUMk
+日本NHK WORLD,http://192.168.50.166:35455/youtube/f0lYkdA-Gtw
+日本HTB北海道新闻,http://192.168.50.166:35455/youtube/d8CrKBU99Hg
+日本HBC北海道放送,http://192.168.50.166:35455/youtube/dQzFJcLpXsk
+日本北海道札幌新闻,http://192.168.50.166:35455/youtube/hA46WfBYdgo
+大世界家好康,#genre#
+美国迈阿密 TV,https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/chunklist_w1655875108_b1896000.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+美国迈阿密 TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist_w773115972_b1896000.m3u8#https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+美国迈阿密 TV Latino,https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/Latino/_definst_/smil:WEB/chunklist_w539325154_b1896000.m3u8#https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w782145995_b1896000.m3u8#https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+美国迈阿密 TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/mexicotv/_definst_/smil:miamitvmexicoROKU/playlist.m3u8
+美国迈阿密TV VIP,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w512171806_b1896000.m3u8
+美国迈阿密 TV fashion,https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist_w1615187460.m3u8#https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/fashion/chunklist_w813946178.m3u8
+美国迈阿密 TV music,https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/chunklist_w1062240116_b1896000.m3u8
+美国迈阿密 TV GOLD,https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist_w1051769800_b1896000.m3u8
+美国迈阿密 TV DJ,https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist_w1663730774_b1896000.m3u8
+日本チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ADULT大腚,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+ADULT亚洲,http://cdn.adultiptv.net/asian.m3u8
+ADULT青少年,http://cdn.adultiptv.net/teen.m3u8
+ADULT狂野,http://cdn.adultiptv.net/rough.m3u8
+ADULT绿帽,http://live.redtraffic.xyz:80/cuckold.m3u8
+ADULT红色交通,http://live.redtraffic.xyz/pov.m3u8
+ADULT跨种族,http://live.redtraffic.xyz:80/interracial.m3u8
+ADULT三人行,http://live.redtraffic.xyz:80/threesome.m3u8
+ADULT大波,http://live.redtraffic.xyz:80/bigtits.m3u8
+ADULT拉丁,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+ADULT恋物癖,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+ADULT明星,http://live.redtraffic.xyz:80/pornstar.m3u8
+ADULT熟女,http://live.redtraffic.xyz:80/milf.m3u8
+ADULT年轻人,http://live.mycamtv.com/young.m3u8
+ADULT中部,http://live.mycamtv.com/medium.m3u8
+ADULT阿拉伯,http://live.mycamtv.com/arab.m3u8
+ADULT熟女2,http://live.mycamtv.com/milf.m3u8
+ADULT大波2,http://live.mycamtv.com/bigtits.m3u8
+ADULT青少年2,http://live.mycamtv.com/teen.m3u8
+ADULT黑发,http://live.mycamtv.com/ebony.m3u8
+ADULT白人,http://live.mycamtv.com/white.m3u8
+ADULT拉丁2,http://live.mycamtv.com/latina.m3u8
+ADULT褐发,http://live.mycamtv.com/brunette.m3u8
+ADULT轮流,https://cdn.adultiptv.net/gangbang.m3u8
+
+

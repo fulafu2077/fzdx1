@@ -1525,6 +1525,9 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 大世界家油管新闻,#genre#
 香港凤凰资讯台,http://192.168.50.166:5000/youtube/HFib76ySpbU
 新加坡8视界新闻网,http://192.168.50.166:5000/youtube/RvSOIM620bA
+新加坡娱乐,http://192.168.50.166:5000/youtube/ipqTkEH3mhE
+新加坡CNA新闻,http://192.168.50.166:5000/youtube/XWq5kBlakcQ
+新加坡CNA内部,http://192.168.50.166:5000/youtube/fSUMKrxPEd8
 台湾东森新闻,http://192.168.50.166:5000/youtube/E0zhe2gkXBs
 台湾东森网络新闻,http://192.168.50.166:5000/youtube/V1p33hqPrUk
 台湾东森财经新闻,http://192.168.50.166:5000/youtube/WHEPzbFA3hw
@@ -1538,7 +1541,7 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 台湾TVBS综合,http://192.168.50.166:5000/youtube/o_-hSMgpAzs
 台湾非凡电视,http://192.168.50.166:5000/youtube/NHQDx8vCrC4
 台湾中视新闻,http://192.168.50.166:5000/youtube/TCnaIE_SAtM
-台湾中视经典戏剧,http://192.168.50.166:5000/youtube/dOZexeViSPA
+台湾中视经典戏剧,http://192.168.50.166:5000/youtube/vdGQsHqYvlo
 台湾中视经典综艺,http://192.168.50.166:5000/youtube/ADDSmXoPDY8
 台湾台视新闻,http://192.168.50.166:5000/youtube/xL0ch83RAK8
 台湾华视新闻,http://192.168.50.166:5000/youtube/wM0g8EoUZ_E
@@ -1549,18 +1552,28 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 台湾民视读夯,http://192.168.50.166:5000/youtube/TUkQypAk1JA
 台湾三立网络新闻,http://192.168.50.166:5000/youtube/MV9mI0GChwo
 台湾三立网络新闻海外,http://192.168.50.166:5000/youtube/hGJkDZDchYI
-台湾三立华剧,http://192.168.50.166:5000/youtube/yJrzMuxqF6Q
+台湾三立网络新闻2台,http://192.168.50.166:5000/youtube/pF507BLtbqU
+台湾三立华剧,http://192.168.50.166:5000/youtube/C-Ps3vWRpU0
 台湾镜新闻,http://192.168.50.166:5000/youtube/5n0y6b0Q25o
 台湾国会频道1,http://192.168.50.166:5000/youtube/4HysYHJ6GkY
 台湾国会频道2,http://192.168.50.166:5000/youtube/Lj8OWF6nzcg
+台湾地震监控,http://192.168.50.166:5000/youtube/Owke6Quk7T0
 美国NTD亚太,http://192.168.50.166:5000/youtube/WIhgU_mc05A
+韩国韩联社TV,http://192.168.50.166:5000/youtube/6QZ_qc75ihU
+韩国KBS NEWS,,http://192.168.50.166:5000/youtube/uJZo7RGPFd4
 韩国KBS KOREA,http://192.168.50.166:5000/youtube/OxQQsIvJTTU
 韩国YTN新闻,http://192.168.50.166:5000/youtube/FJfwehhzIhw
 韩国YTN 2新闻,http://192.168.50.166:5000/youtube/hxBTqmTT5gE
 韩国YTN dmb新闻,http://192.168.50.166:5000/youtube/2C2WCLhDsR4
 韩国YTN Science,http://192.168.50.166:5000/youtube/xfFa_kcPnCY
 韩国每日电视,http://192.168.50.166:5000/youtube/5cFoz90FUMk
+韩国阿里郎电视,http://192.168.50.166:5000/youtube/CJVBX7KI5nU
+韩国KPOP,http://192.168.50.166:5000/youtube/JVocS7Yftw8
+韩国KPOP 2台,http://192.168.50.166:5000/youtube/TgLONqXNXqE
 日本NHK WORLD,http://192.168.50.166:5000/youtube/f0lYkdA-Gtw
+日本ANN NEWS,http://192.168.50.166:5000/youtube/coYw-eVU0Ks
+日本TBS NEWS,http://192.168.50.166:5000/youtube/ohI356mwBp8
+日本电视台NNN NEWS,http://192.168.50.166:5000/youtube/L6h5VKq7ZV0
 日本HTB北海道新闻,http://192.168.50.166:5000/youtube/d8CrKBU99Hg
 日本HBC北海道放送,http://192.168.50.166:5000/youtube/dQzFJcLpXsk
 日本北海道札幌新闻,http://192.168.50.166:5000/youtube/hA46WfBYdgo
@@ -1575,6 +1588,7 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 美国迈阿密 TV GOLD,https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist_w1051769800_b1896000.m3u8
 美国迈阿密 TV DJ,https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist_w1663730774_b1896000.m3u8
 日本チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+韩国MAXIM,http://192.168.50.166:5000/youtube/cpu1DV7Li1Y
 ADULT大腚,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 ADULT亚洲,http://cdn.adultiptv.net/asian.m3u8
 ADULT青少年,http://cdn.adultiptv.net/teen.m3u8

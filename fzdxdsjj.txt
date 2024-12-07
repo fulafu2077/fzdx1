@@ -1530,7 +1530,7 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 新加坡CNA内部,http://192.168.50.166:5000/youtube/fSUMKrxPEd8
 台湾东森新闻,http://192.168.50.166:5000/youtube/E0zhe2gkXBs
 台湾东森网络新闻,http://192.168.50.166:5000/youtube/V1p33hqPrUk
-台湾东森财经新闻,http://192.168.50.166:5000/youtube/WHEPzbFA3hw
+台湾东森财经新闻,http://192.168.50.166:5000/youtube/1I2iq41Akmo
 台湾公视新闻网,http://192.168.50.166:5000/youtube/quwqlazU-c8
 台湾中天新闻,http://192.168.50.166:5000/youtube/vr3XyVCR4T0
 台湾寰宇新闻,http://192.168.50.166:5000/youtube/6-WNdFhbK5k
@@ -1577,6 +1577,13 @@ KARDS官方赛事,http://192.168.50.166:35455/huya/28729343
 日本HTB北海道新闻,http://192.168.50.166:5000/youtube/d8CrKBU99Hg
 日本HBC北海道放送,http://192.168.50.166:5000/youtube/dQzFJcLpXsk
 日本北海道札幌新闻,http://192.168.50.166:5000/youtube/hA46WfBYdgo
+美国ABC NEWS,http://192.168.50.166:5000/youtube/mvUkiILTqI
+美国NEWSMAX 2,http://192.168.50.166:5000/youtube/zognWzoTMT4
+美国FOX LIVENOW,http://192.168.50.166:5000/youtube/YDfiTGGPYCk
+德国之声DW NEWS,http://192.168.50.166:5000/youtube/tZT2MCYu6Zw
+法国FRANCE 24 英语,http://192.168.50.166:5000/youtube/Ap-UM1O9RBU
+卡塔尔半岛英语,ghttp://192.168.50.166:5000/youtube/CNeDWCI0vo
+印度CNN-NEWS18,http://192.168.50.166:5000/youtube/rfDx1HMvXbQ
 大世界家好康,#genre#
 美国迈阿密 TV,https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/chunklist_w1655875108_b1896000.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 美国迈阿密 TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist_w773115972_b1896000.m3u8#https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8

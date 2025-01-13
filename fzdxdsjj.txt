@@ -535,6 +535,13 @@ Global Trekker,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D930254789302
 泰国TNN24,http://50.7.234.10:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat
 泰国TPTV,http://50.7.234.10:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat
 TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+缅甸国家电视台MRTV,https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+缅甸国际频道MITV,https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+缅甸国家娱乐频道MRTV,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+缅甸国会频道MRTV Parliament,https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+缅甸国家4频道MRTV 4,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+缅甸5 PLUS频道,https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+缅甸7频道,https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 印度新闻18泰米尔,http://50.7.234.10:8278/news18tamil_raj/playlist.m3u8?tid=MFEF4476053744760537&ct=19249&tsum=730185304475c7836b81f97985cea296
 印度DiscoveryKids泰米尔,http://50.7.234.10:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverykidtamil_raj
 印度国家地理野生动物,http://50.7.234.10:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowildtamil_raj

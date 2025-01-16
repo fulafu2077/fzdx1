@@ -1629,6 +1629,7 @@ KARDS官方赛事,http://iptv.com.gerss.cn/huya/28729343
 美国迈阿密 TV GOLD,https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist_w1051769800_b1896000.m3u8
 美国迈阿密 TV DJ,https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist_w1663730774_b1896000.m3u8
 日本チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+温柔姐姐,http://iptv.com.gerss.cn/douyin/21609730838
 韩国MAXIM,http://192.168.50.166:5000/youtube/Pvk1W82Ru6s
 ADULT大腚,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 ADULT亚洲,http://cdn.adultiptv.net/asian.m3u8

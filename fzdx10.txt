@@ -1253,7 +1253,9 @@ GINX电竞,https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv053
 英雄联盟LPL赛事,http://iptv.com.gerss.cn/douyu/288016
 英雄联盟LPL赛事,http://iptv.com.gerss.cn/huya/660000
 英雄联盟LPL赛事,http://iptv.com.gerss.cn/bilibili/6
-王者荣耀KPL赛事,http://iptv.com.gerss.cn/douyu/1863767#http://iptv.com.gerss.cn/bilibili/55#http://iptv.com.gerss.cn/douyu/998王者荣耀KPL赛事,http://iptv.com.gerss.cn/huya/660002
+斗鱼王者荣耀KPL赛事,http://iptv.com.gerss.cn/douyu/1863767
+王者荣耀KPL赛事,http://iptv.com.gerss.cn/bilibili/55#http://iptv.com.gerss.cn/douyu/998
+王者荣耀KPL赛事,http://iptv.com.gerss.cn/huya/660002
 王者荣耀KPL赛事,http://iptv.com.gerss.cn/bilibili/21654762
 王者荣耀女子赛事,http://iptv.com.gerss.cn/douyu/1984847
 DYG精彩赛事回顾,http://iptv.com.gerss.cn/douyu/8987164

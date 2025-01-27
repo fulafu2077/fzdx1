@@ -1750,6 +1750,7 @@ xof二台,http://iptv.com.gerss.cn/douyin/xofsohot
 厦门Anna,http://iptv.com.gerss.cn/douyin/210060561816
 莆田不怪兽,http://iptv.com.gerss.cn/douyin/701447947642
 韩国MAXIM,http://192.168.50.166:5000/youtube/Pvk1W82Ru6s
+Peggy-Fun,https://b-hls-25.doppiocdn.live/hls/154804535/154804535.m3u8?playlistType=lowLatency
 小一熟了,https://iptv.com.gerss.cn/douyu//2022003
 小一熟了二台,https://iptv.com.gerss.cn/douyu//12020475
 小一熟了三台,https://iptv.com.gerss.cn/douyu//11792707

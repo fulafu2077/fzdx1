@@ -1441,7 +1441,10 @@ KARDS官方赛事,http://iptv.com.gerss.cn/huya/28729343
 大世界家抖音,#genre#
 新华社快看,http://iptv.com.gerss.cn/douyin/832345075447
 新华社电视,http://iptv.com.gerss.cn/douyin/510228242685
+央视网,http://iptv.com.gerss.cn/douyin/870887192950
 央视网新闻,http://iptv.com.gerss.cn/douyin/339638082961
+央视网快看,http://iptv.com.gerss.cn/douyin/127453393722
+央视中文国际,http://iptv.com.gerss.cn/douyin/166806983360
 央视电影频道央影传媒,http://iptv.com.gerss.cn/douyin/208823316033
 福州新闻110,http://iptv.com.gerss.cn/douyin/459996902434
 球客岛-足球,http://iptv.com.gerss.cn/douyin/259722868383
@@ -1704,6 +1707,7 @@ xof二台,http://iptv.com.gerss.cn/douyin/xofsohot
 福州美猪bb,http://iptv.com.gerss.cn/douyin/301473808791
 福州杨杉杉,http://iptv.com.gerss.cn/douyin/64570867686
 福州zou,http://iptv.com.gerss.cn/douyin/330019939661
+福州小天鹅,http://iptv.com.gerss.cn/douyin/228873421920
 厦门Anna,http://iptv.com.gerss.cn/douyin/210060561816
 莆田不怪兽,http://iptv.com.gerss.cn/douyin/701447947642
 一只小仙若,http://iptv.com.gerss.cn/douyin/16539048

@@ -1586,10 +1586,12 @@ YOOUPI食途,http://iptv.com.gerss.cn/bilibili/22686480
 美国迈阿密 TV GOLD,https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvgold/_definst_/smil:WEB/chunklist_w1051769800_b1896000.m3u8
 美国迈阿密 TV DJ,https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/chunklist_w1663730774_b1896000.m3u8
 日本チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+山海观雾,http://iptv.com.gerss.cn/douyin/926603195261
 小尤漫曲,http://iptv.com.gerss.cn/douyin/35870148471
 小尤漫曲二台,http://iptv.com.gerss.cn/bilibili/1773638648
 温柔姐姐,http://iptv.com.gerss.cn/douyin/21609730838
 过期米线线喵,http://iptv.com.gerss.cn/douyin/921119718643
+宋卉儿,http://iptv.com.gerss.cn/douyin/152354790166
 ting瑶,http://iptv.com.gerss.cn/douyin/102991848
 郑瑞妤,http://iptv.com.gerss.cn/douyin/16762751133
 郑瑞妤二台,http://iptv.com.gerss.cn/douyin/852020128003
@@ -1617,6 +1619,7 @@ ting瑶,http://iptv.com.gerss.cn/douyin/102991848
 苏妲饼干,http://iptv.com.gerss.cn/douyin/35155900791
 小金鱼升级版,http://iptv.com.gerss.cn/douyin/721649060002
 晓庆妹妹,http://iptv.com.gerss.cn/douyin/509440373380
+高慧真,http://iptv.com.gerss.cn/douyin/724624747212
 周思思,http://iptv.com.gerss.cn/douyin/423513409540
 梁厂长全屋定制工厂,http://iptv.com.gerss.cn/douyin/40435953942
 7X,http://iptv.com.gerss.cn/douyin/392159830014
@@ -1636,6 +1639,8 @@ moon,http://iptv.com.gerss.cn/douyin/235086172842
 温暖,http://iptv.com.gerss.cn/douyin/421600547786
 蕥沫,http://iptv.com.gerss.cn/douyin/743803609799
 一妮,http://iptv.com.gerss.cn/douyin/107350090198
+远宝,http://iptv.com.gerss.cn/douyin/761250534130
+无惧小怪兽曾开心,http://iptv.com.gerss.cn/douyin/748102366018
 酢乙女爱,http://iptv.com.gerss.cn/douyin/897694654482
 长腿欧尼丝密达,http://iptv.com.gerss.cn/douyin/40435953942
 好好熊,http://iptv.com.gerss.cn/douyin/WKNH1117
@@ -1708,6 +1713,7 @@ xof二台,http://iptv.com.gerss.cn/douyin/xofsohot
 雪儿173,http://iptv.com.gerss.cn/douyin/443947707041
 雪儿174,http://iptv.com.gerss.cn/douyin/xueer174
 雪儿175,http://iptv.com.gerss.cn/douyin/xueer175174173
+福州潘敏,http://iptv.com.gerss.cn/douyin/735160244696
 福州婉婉,http://iptv.com.gerss.cn/douyin/90746604792
 福州婉婉二台,http://iptv.com.gerss.cn/douyin/381579168
 福州小辣椒,http://iptv.com.gerss.cn/douyin/913549679203
@@ -1731,6 +1737,7 @@ xof二台,http://iptv.com.gerss.cn/douyin/xofsohot
 福州秀秀,http://iptv.com.gerss.cn/douyin/89299454145
 福州小H,http://iptv.com.gerss.cn/douyin/172732833706
 福州小羽,http://iptv.com.gerss.cn/douyin/75796783154
+福州手什么葵,http://iptv.com.gerss.cn/douyin/182755421524
 厦门Anna,http://iptv.com.gerss.cn/douyin/210060561816
 莆田不怪兽,http://iptv.com.gerss.cn/douyin/701447947642
 泉州呆呆金,http://iptv.com.gerss.cn/douyin/557198856114

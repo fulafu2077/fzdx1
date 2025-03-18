@@ -270,6 +270,21 @@ EZTV6歐洲華文電視 福州頻道,http://ohlive.eztv.vip/live/ctvsnew.m3u8
 龙岩新罗2套,http://stream.lyxltv.com/xinluotv/sd/live.m3u8
 三明宁化新闻,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8#http://fjnh.chinashadt.com:2036/live/stream:nh1.stream/chunklist_w422319009.m3u8
 南平武夷山综合,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+电信福建广播,#genre#
+福建FM1036新闻广播,https://live.ximalaya.com/radio-first-page-app/live/792/64.m3u8?transcode=ts
+福建FM1007交通广播,https://live.ximalaya.com/radio-first-page-app/live/790/64.m3u8?transcode=ts
+福建FM987私家车广播,https://live.ximalaya.com/radio-first-page-app/live/793/64.m3u8?transcode=ts
+福建FM913音乐广播,https://live.ximalaya.com/radio-first-page-app/live/791/64.m3u8?transcode=ts
+福建FM961经济广播,https://live.ximalaya.com/radio-first-page-app/live/789/64.m3u8?transcode=ts
+福建AM585东南广播,https://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8?transcode=ts
+福建FM996海峡之声广播,https://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
+福州FM944新闻广播,http://live.zohi.tv/audio/s10001-FM944/index.m3u8#https://live.ximalaya.com/radio-first-page-app/live/2828/64.m3u8?transcode=ts
+福州FM876交通广播,http://live.zohi.tv/audio/s10001-FM876/index.m3u8#https://lhttp-hw.qtfm.cn/live/5026/64k.mp3?app_id=web&ts=67d9cbd0&sign=94d58a932825301ca6544607ea1af040
+福州FM893音乐广播,http://live.zohi.tv/audio/s10001-FM893/index.m3u8#https://lhttp-hw.qtfm.cn/live/4846/64k.mp3?app_id=web&ts=67d9cc3a&sign=f849bfab4faca38f0a7ea1788c14b677
+福州FM901左海广播,http://live.zohi.tv/audio/s10001-FM901/index.m3u8#https://lhttp-hw.qtfm.cn/live/3937/64k.mp3?app_id=web&ts=67d9ccd3&sign=de2359be8fef1b0f9900a242475383ce
+福州FM884 FM1047长乐综合广播,https://p8.vzan.com/slowlive/508764700332948812/live.m3u8
+福州FM1028闽侯综合广播,https://live.ximalaya.com/radio-first-page-app/live/2772/64.m3u8?transcode=ts
+福建FM985平潭综合广播,https://live.ximalaya.com/radio-first-page-app/live/2828/64.m3u8?transcode=ts
 电信香港,#genre#
 凤凰资讯,http://27.148.240.181/PLTV/88888888/224/3221226929/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EHsFSjC80UAQc1eSTpA_tyA%7EOQUNWYbLTafsiO3v9vwg2mBYizHaANQnW2QyFsqNILVh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLXtYwyCrAbMC8Gnx1b5I_io%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230104185252%2C10500000044552%2C27.156.164.235%2C20230104185252%2CUmai%3ACHAN%2F3414601%40BESTV.STA.SMG%2C1000100009996820230104185252%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226929/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23279_1.m3u8
 凤凰资讯,rtsp://27.148.240.185/PLTV/88888888/224/3221226149/10000100000000060000000000783420_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EZmOoP2nwQpuDraQoJdP1BA%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2C10000100000000050000000000795353%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA

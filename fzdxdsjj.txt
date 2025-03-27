@@ -1741,8 +1741,9 @@ GG鱼,http://live.iill.top/bilibili.php?id=3202585
 韩国YTN Science,http://192.168.50.166:5000/youtube/xfFa_kcPnCY
 韩国每日电视,http://192.168.50.166:5000/youtube/5cFoz90FUMk
 韩国阿里郎电视,http://192.168.50.166:5000/youtube/CJVBX7KI5nU
+韩国MBC WORLD,http://192.168.50.166:5000/youtube/ggDKdb2oaL4
 韩国KPOP,http://192.168.50.166:5000/youtube/JVocS7Yftw8
-韩国KPOP 2台,http://192.168.50.166:5000/youtube/TgLONqXNXqE
+韩国KPOP 2台,http://192.168.50.166:5000/youtube/Xki2MCehoDw
 韩国Mnet,https://everylive.space/live/mnet/livestream.m3u8#https://everylive.space/live/mnet/livestream.m3u8?hls_ctx=8t66hwf6#https://everylive.space/live/mnet/livestream.m3u8?hls_ctx=8l181bb4
 韩国TVN,https://everylive.space/live/tvn/livestream.m3u8#https://everylive.space/live/tvn/livestream.m3u8?hls_ctx=50xja456#https://everylive.space/live/tvn/livestream.m3u8?hls_ctx=hs239572
 韩国Channel A,https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NDI5OTU5Nzh9.9uS_ostQcrchXSPh2z9asU1OBBZkEBdO25xPIs3g2W8
@@ -1753,6 +1754,7 @@ GG鱼,http://live.iill.top/bilibili.php?id=3202585
 日本ANN NEWS,http://192.168.50.166:5000/youtube/coYw-eVU0Ks
 日本TBS NEWS,http://192.168.50.166:5000/youtube/ohI356mwBp8
 日本电视台NNN NEWS,https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8#https://n24-cdn-live-x.ntv.co.jp/ch01/index_Low.m3u8#http://192.168.50.166:5000/youtube/L6h5VKq7ZV0
+日本朝日ABC新闻,http://192.168.50.166:5000/youtube/sTAqx_1Yrww
 日本HTB北海道新闻,http://192.168.50.166:5000/youtube/d8CrKBU99Hg
 日本HBC北海道放送,http://192.168.50.166:5000/youtube/dQzFJcLpXsk
 日本北海道札幌新闻,http://192.168.50.166:5000/youtube/hA46WfBYdgo

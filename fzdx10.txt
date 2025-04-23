@@ -181,8 +181,8 @@ CCTV发现之旅,http://223.10.115.64:8082/udp/239.1.1.103:8103#http://117.30.58
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 新疆卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221226331/10000100000000060000000001295126_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EgLjMQyjUvzuI22DScjgluw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001316523%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 #http://27.148.240.138/PLTV/88888888/224/3221227332/ 1.m3u8#http://175.9.44.63:8081/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0#rtsp://27.148.236.129:554/live/ch18051116232899271583.sdp?FccMediaIP=239.61.2.227&FccMediaPort=9350&vcdnid=001&mediaid=ch18051116232899271583&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPerjxoQgfJYG7ZunyZZE0M26iNTBEMJrotGFZxYb%2BLT7j0d8RtgP2DayASZlOpMLMaA%3D%3D
-新疆维语卫视,https://slstplay.xjtvs.com.cn/xjtv2/xjtv2stream.m3u8?auth_key=1745353061-4-4-b435c04efe87d63deb67f3775a9c724e&aliyun_uuid=b1a531eb-8fb4-4226-b904-67c9c1f63962
-新疆哈语卫视,https://slstplay.xjtvs.com.cn/xjtv3/xjtv3stream.m3u8?auth_key=1745353061-4-4-66a7d040b57e33506dc478a53105cb18&aliyun_uuid=41a81e7b-2ad4-4de7-85fb-87ad907050a9
+新疆维语卫视,https://slstplay.xjtvs.com.cn/xjtv2/xjtv2stream.m3u8?auth_key=1745445785-3-3-01979bc93f903e96254407c12eb87dfd&aliyun_uuid=ce3876fc-8434-4e1c-b9a2-02257a83f901
+新疆哈语卫视,https://slstplay.xjtvs.com.cn/xjtv3/xjtv3stream.m3u8?auth_key=1745445785-3-3-963157fee2de3233428d069005083630&aliyun_uuid=4d8fa2b4-469d-417e-88b9-657f0dccac0f
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#rtsp://27.148.240.181/PLTV/88888888/224/3221226332/10000100000000060000000001295127_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIhSq-eI9MZfp7AF619MtSw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001316525%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227335/ 1.m3u8#rtsp://27.148.236.129:554/live/ch18051116233733109443.sdp?FccMediaIP=239.61.2.228&FccMediaPort=9356&vcdnid=001&mediaid=ch18051116233733109443&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPerjxoQgfJYG7ZunyZZE0M26vWswGdQcOZyuTgsbElkyw0d8RtgP2DayASZlOpMLMaA%3D%3D
 兵团第八师石河子新闻综合,https://www.shznews.com/ds/xwzh/chunklist_w1577407596.m3u8#https://www.shznews.com/ds/xwzh/chunklist_w1507114794.m3u8#https://www.shznews.com/ds/xwzh/chunklist.m3u8#https://www.shznews.com/ds/xwzh/chunklist_w1507114794.m3u8#https://www.shznews.com/ds/xwzh/playlist.m3u8#https://www.shznews.com/ds/xwzh/index.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#rtsp://27.148.240.181/PLTV/88888888/224/3221226333/10000100000000060000000001295129_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E2M3E1h2SGVzS5xG1sN9mZw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001316527%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227344/ 1.m3u8#rtsp://27.148.236.129:554/live/ch18051116234822851422.sdp?FccMediaIP=239.61.2.229&FccMediaPort=9362&vcdnid=001&mediaid=ch18051116234822851422&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPerjxoQgfJYG7ZunyZZE0M249i%2B7N6nkVcvVsa3NBkp2J0d8RtgP2DayASZlOpMLMaA%3D%3D
@@ -779,15 +779,15 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 北朝鲜中央电视台,https://tv.nknews.org/tvhls/stream.m3u8#https://tv.nknews.org/tvdash/stream.mpd
 北朝鲜平壤放送FM 105.2,https://listen7.myradio24.com/69366
 电信韩国,#genre#
-KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1745428659&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDU0Mjg2NTl9fX1dfQ__&Signature=Ovbl~Ij7C3w1AJnOr269~yQYJmUQsP-9vlSyXAfhf3xwR-IgywHOR3i4~CZ3OZZWHT~uMHbE~EwU3e0loynKRGf8DBsRxBpr2yEZP0ZlQqYwegEHyngtQ2CF9HuQn39Iz6ZVjlHpZh1di~lm~8cLvx90y9WC3jinurA6T2dm9ioXFNP9FVuCczNW5l~yAdSqdMRaWgziVrUMrrD2dw16y-9nKNXuOMEaVN0G5opyI1kjLX3NV~u0zCSR8fmVKuDxRkeLqCDl7-z7LypjED3lnSBqVWczkTPIkyrWGJl6optNOFLFaaVacHQ~RbAh9Am27wcyzz-drsIm4eF7fCeO5Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1745428626&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDU0Mjg2MjZ9fX1dfQ__&Signature=WcvXJYj7phH-9Vddv22kVwJdpVRXedDvshh9VMDxleGCp6T0DHmXTqI5Z02uplEwDLVU2GOYLHjXN0vJJz65jmD81Q9H91AvpE6b9K-smpBXEaGM~wQbXpuZl8xudlY3J2cYpVOzoqgHVk2sRPntGHVkMET3Jomc0Uq6aFDsfQx2bXBOpEFggyo2xT6seXR1e7o8eNbsDRT0xZmAAygQXl8W6ts~V7pFy1CUSIFLVQuK5UKOCa2HyMfNmXcuXvyVazv6eoiQmOLH8QtX0pXf7a4LTcR3tdgVmSVrJTSXFEWeWiH-yiI-moH1W8C3UtCfB7I~mosfxXd1IzNypBUZmw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS24,https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1745428720&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODcyMH19fV19&Signature=ZjLh7ePDUGb8PGrTw8B4wCE0DW2v2ejZNZpSbYVg~q4yEmg2WBXWr64EzVL1fMRs2~0Y0Lrt3W4LvlV2yTKtK~8hmGueym41pamAIXmwQjO4BmvpacGki~nG7Cqvt1eBRTo-1Gluc-mVeG4pU6nr6QJZdhXkCrqI0PHCfseNPJeT9LmBsPl~QnGLMrzZngaXBlB-q5szm9qODCp-1lTbuNOw7MqMo6b~muLt4wfr94ZWOb7p7wnHhTGyPiCLmpf192DJPu81WGAjM4akJCx-Dc4FMmYqAC9w1pWPwL04VB-M8tCwjxfXe18l1TcQhmdpr2zhUOQdgag0uyqMWBJf8g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS Drama,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1745428734&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODczNH19fV19&Signature=etN1q1jVUaWU7~pwcXRlgjOJA91NxdrUDhWvrDTqHV1XAcD8NIYEkgifSDLb2fDbXzxQwudzSVVGpRdC0LvATh-W2-v9WkEMGVH64qN6U19B7reATR9MlwvaGK1oLzwJ5N5p3jj7kUS6GiN4w~UHVEnHCS7qrJwLTj5tTWQyG0y95fsLXZW1Urf3CxZAPAkcaTUaizQp2GU6Ul7emHbtpOxBt2F1KGVB9AhBCnLJ8fyXdYtv~Vv6M4c3JaGA-U79qmcKRG~tHupZdoPKTzs-9nJpjgGvicSWeutQx2hv9nTw~G2BFVSObDEf9gpfa075r9UeJD8eBATeykbZY6A7Ow__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS Joy,https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-01/kbsnjoy-01_sd.m3u8?Expires=1745428795&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAxL2tic25qb3ktMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODc5NX19fV19&Signature=TySaLZh1G716XyogT78dEqmaEv90yjjOiuMXRNFmwSPDzf-cCHHYU1CN~D4b9DCRRN7eYWVU7fCdOxU-gEAIgKzTD4vcIjpGzxApKbT4sDM4xR~o6oRVc4S2JzlvL7MMY3ONdsrG67qd2QH67A4HfYLFqR1KK7UUghZLXG1GksG2ac1RUhZiq8QdbnrCDyyOjrSCgFEvIcdcD63SyrnZlQZ9qpcCydWzJL0iiUyTENEFHUX6EX31JbvWAg6XgwD5E9mfTJ51yrJJCwEJE6ud30x8fpZyP7pyf6d5yaPsPElmPduoKTpfL-47-7s3iqBlf9PuEqHQRfsGGjM4Yk89mA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS Story,https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1745428753&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODc1M319fV19&Signature=lTo0uct0wlCYdcgwnxaNTPdlHfd-omU4LbiIo3A8Afk~nonc0OzhipMv1ilC7dRCcMarbqONudSCQ1KCH5F3uqh5tMS64RfZ5pFYIRwjWrnEqS8VCPmrNFQP-kmLgBLHy0INJjz~G1vyNl3vMJkQd1ztYPmmf7DrfBt3a1gvLsIzKdXAxWmcwJ6EiKOJPE30WFIHFRAqvunS1Ay-XS~5xxqFwYgk6PTkx90XMAvz4p9ddH9RWzEY~UPl3tQ2fdwndWjEjwHcQHnJTPyBipazO~qcm9FN-74Eu3GoAREubHqV9S5PCEmUW5eBzXjS2mV6isf~kIzE~IWeHOnFJdbmjQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS Life,https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1745428871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODg3MX19fV19&Signature=UGnJyqiY5KLUZqLVfatHL57XVeMOXLkJHIeLkFEe7I98q38JyEtoHzD7jKebgzRHvX2UWAm1LtjG9UBYmTvxvSzp2WVqq4tb7FtCNxrCLN-lw9Y~UkndlSe8eX4yfYx7R95uQ7NZl11LgaYNmNDg0emKo3xg3N~ERF4USnkGHrWe5nrCc8V9eDdJmXmc3ZoADEhFAOrlFDGNq1~gAOxhTDPJb68vGnhM3-4J28Ec-9Iz3Jkzi15DIt7BLSCm4M-v3ogtzyM0zYmTv~FRjORvi3K9tDBl-KmlXshCtRsXWX-BUS61n9ReaR0-~0CyPducHCUCg1~CbsQ2mEn5AK38Hg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS Kids,https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Expires=1745428868&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEva2JzbmtpZHMtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODg2OH19fV19&Signature=WouBsaCnhK7E8LJiyWBklSnrZzRvRD6~ZpOdc2azUWj0GAT3f1uvbShv1tlZvH~-uwGKZGcNZSQAR65-8zcbSK3IGYZSqchZmpqsMaTwN0HLb5sF1b5Afn14zngo3zawiWI8ouXmPdIUZNWcO9s6ZIm-trCasYdzNDh9ZkygZrK00IL1LRBZbnJB65bFA1bbjOIgYiVDzo9xf8sOsV3mHdIDjUwGmktWNuRnrA6vjIzNIF57~B6zi0vR2e-P3U54XDrtCKhEgvIU7j563yjwiKdwZKtqmWtKoELWWTrGqWNc8wC~LGsZdLLqyv~i8AtqRiMZEPYp~8V3KZFXMkf6NQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS World,https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Expires=1745428889&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvd29ybGQtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTQyODg4OX19fV19&Signature=j0UqC01HLd4tM03xr15Y2htX3fZjC3jF5oVBl3aB89FzriiS93N41deBmB1Ubl94xy2~oGVdGe4f3OMtW0Q4vtJN06lxfJR3jMi5KxaldLFX81Ra6w9u9ae~XvcgBKZJBx5Ir0cwc1sL7pDZ1TxQ41u~5yjELG1LO0c8QtGRAurBz9i6nyjgOXNV2f0iHjqkS0l3bfC0TlI-sDkFFLqfzQifmzSqoGxq7cCKUiFWAfSokt8DuuykcyeI5lrSFzPSQdCmG3Vu7LGlH8To4t7B45L-yy1BJSb5EQV8tOfJZ2WnfwYg9RKvOpkO7sKz7hFlYuiMncmBRyeg6F5gPGrhMw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1745606375&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDU2MDYzNzV9fX1dfQ__&Signature=a1M2TpacDWExfLOH8bKq-xaYJvrdnHdH6JIxVQb2J16HO8Sqq25TyvpjZJEuq-NQJSaAmFRaVKxZZ9jNlrDdGjbGfGCF39Yb7d44cg7BzLsFgO00jemWkOnNXqgGUU4Cx2y8hbl5d6epypL3atvs5Hq0GKCt8seyTzFY4h1I4gHA5f~jcAT5HfuYmvR1l-PEK~Ax3tujbPftamKhiFSpzdjbLmm7eivvQm5ti9K0d61Tcmc1DGhVHW67KmD7OJf-kKEPIBqjs4taE~oq~I3~gvXafmeE~3O5QzEGsumvNOf8YGGTCN16LfHK~gjO05JohCn8LaA3sCrMkc3F-QZF2g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS2,https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1745606429&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NDU2MDY0Mjl9fX1dfQ__&Signature=kCq02Wa2pBCxvh7LxFoAtkG9us0ysgLTg9OnTJyzXqdBjMK-DA83XxGLS7xWcaXR3ctEkzrHpngCGMRw54fZSus7xs1Mp5Zg7g~M7u4LJhQUT21I1m6h8Fhu3JpHW28XPGxGrGEd~oDHW6yVv1wdnj~UICp1aJuC~UDvQEOC~KK4v9A7YQk3nzmCX5Mun9~PBDbmz8ImnO2flOh40CLZ3oOsCr3QAkY0UXISVngThVcpXBV5ZpqH~7HMQQIJHMFtWeO-We9uTjvX6jZW0Su2FyrAy3KNwjMtzpws39wVm5-TdYjVRmOXWE8IIHSa0QH1Yw7FubvRWA5J5~B3jDYXaQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS24,https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1745606455&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjQ1NX19fV19&Signature=PJO60ww6kNycnHR~qHJzZBFlpehitNWEsIbsH8TC~3RgUcQTdA5lwA1vxLCIrXUbzz37eX4KP8Lf0G0CqbTSDGsq0W-pZxjB1BF8TvAzP5OKDXop98WgTHum1587uoZj977pwWsm7XofllLfeYvWAnuCI2-jumayhPRuaTDPPnhnkP91plJQOr2l0JpgR80HxOK-Fb5pEyTCh0LAzODkMqx-PYgKogKGfuuSLaEUGYwoMdXdAR0pHrg7wIS0PQriRdi9bS~3po8VRbDieHdG8k~aPrsVKIOotn~VT9VpOIqf78xQsMkv0E4dgKmm7MpKWf9t6U4kNgqIofEd06Ok8A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS Drama,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1745606535&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjUzNX19fV19&Signature=YQV1Q80Cs7SfrlE-7jqld3678mp1ZFWfXD-wTmBTtDDW5yKnHPHNvyyDK6XL5h3klP-HSCAveLuL7ZDNRQBeyuOrLBJsrx00fZgBXwRbgSPIySYN4DDQCOGU0Ry-YiIW0wsdKOVskk81LQxzcxmLr7hNdtnJK5iI5Gn6BBNGBRI7uV29HuKsF6-8BiZkgLloheLDP1yBi6PYUqM7fDR1C-7gI9Rk87HpEkj8yY0jheo1N800ihUJPeYlHW3m7ZQmn4QyKK0V74PWrT0vln6ui3SRNLwipi-TAt3iYWre58RBWzk-dsTJAHbmzAeibpGEvhax-NOvRGbATwImsubBdQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS Joy,https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1745606544&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjU0NH19fV19&Signature=jqE2cj4gLLSQAkslNpQ7PA5DlVKO9U8BkSB3XIIZ~dX9kE6kzU1H1YQua4CF2zXMC~qYW6aEvB6kp1zh7h-3NqKJ-fGeY6hsfeKsRl~orACAKXOhDbbQpeHwMBpbt98OocellXY~peVKdQkDPkS6hubXYwoWaWqXiAaM1sYWQoahlbzwGUfbyuqG2nVnmj9nKY4t-aDZawSrUuK4ZAhcXORqMc4TgJjOEcTppy-q2BckDPpOMkOfX6nASmlVn00G1finInvMeeMYdzX5~c6MvTZ0CXxHopJCsXLhzu6VTpcptnDqfwt3L5IYcmby553OC0Vx4FbMaMmEhjURxH1JPg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS Story,https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1745606611&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjYxMX19fV19&Signature=MH8SU69UqyIh4ArwVVtE3KgvRnUKigrRxJ5kGD4eqlUpsAvuJ-fCsu0o46LRgCmaF4odi3-3p~3OOg5~kajlZ3wBsmWlooUUtjB59188--HCU~sgoQPTDtYKniyPW6-qF3cTDvJeCQwrOb6zjswaImUx8-T7kmU5--ORbDOv1oOLVd20DktNeDsd09D6mEEiTOVKH0do0QrzuM8~B2r24-kh-PmDs4XN26SEiWVBpd49Lu74bCSjLnX3nbsC5-5WoHqlhCubnGDRMH~IU9cOO9Mudia1UtykY4WyHIN7qWujWhfesclY98FhvyMWqluIFFdMk3xEk2i~idxCJ8TJ8Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS Life,https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1745606675&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjY3NX19fV19&Signature=YWp~LovTtZNvxvSncxl5iVtIXTTQGi8NswBN50bZR7HqH4yNcGfnlHUuCccSPU8JRPjFajML2ciQpsKp~T3-tGA57V6dA8uO79kGdMlqyWa3eANevcuvQLTzf94lJecfvyFsqB9gOPTHW8Qd5igZ-AZCgLLi-zzVQgUSQqwIaoEaBrIE98MgZpYptho-kRC4MJbMYnRNTZpZyVy2OY6wESCE2Bf34~50sENRRzrz9PqFc9OlyLf5XV61APcpmTCboy-avtEUI9cN-j2KaiZnz~GoDAN-Q02b4QLMiV6xG~jeiTlxc8siGn8Lzk2gF2c5GhCNC-eGlP84~K0QiQbtaQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS Kids,https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1745606743&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjc0M319fV19&Signature=fpebQTOnp6pjBfwxaFNodsX7qBic3WO~bqNoEgOhvQa7VvxLjv-moS4Od8GMJRqYKogPgYidUEueM8nzdJc9Z0Il0~JY8xL2DDh4GCDyuTiK5O35UbEU~jOAAORo2HQnA-xpE5rpGgXUsT0a4IiqWsrfDy9gdj-xlJJY8afOyzukVjhU907t6AyuLrXzTWttyokQ~xlUjsDl0uP7x0~mlPiQA2-9b1cAnhg42dCnSqlp0gm-AsaPeFjeLH-ya8FgLaY3siqQL4NW-FShaIQlY0v5u~f4x1AZdVLDTqWpTlwY~5v4IXMkwIQNMUeyzND7L4IE8XB0RAv-SViS3kd~uw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+KBS World,https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1745606793&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTYwNjc5M319fV19&Signature=FplGZyvEWshAHn9oUG1QVsWr~GpB2mhkQL7vM8fQn5RJ4H2m9PmqbLZfllXQ0JWj~8PJxIcSGr723BNyOLCjbzvZfe9vSfqlgYxUnkdl6cVmQSf4nHmEVxWdlzs0cAs5zLtDjStYkkyqZkL0j6KIwRsY~Yak~gmp~NlbcTerHfmkwDhDiuTEoNEn11kIKi-y9jngV-INSGnmkiE~HDpnMilrFU1mmgEdggY0jwD~qxG0yelS~1mBfDgT4u8x-Jb4frngMLxhBUP6LVs-xCdnhJzUueT-aYcBnhgK2sAsfqPiq0T-g1288OI5AwTTZCjyNLmqgjpiyGm5Y-mbVKm5Ng__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php#http://mytv.dothome.co.kr/ch/public/11.php#http://mytv.dothome.co.kr/ch/public/12.php#http://mytv.dothome.co.kr/ch/public/13.php#http://mytv.dothome.co.kr/ch/public/14.php#http://mytv.dothome.co.kr/ch/public/15.php#http://mytv.dothome.co.kr/ch/public/16.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
@@ -801,11 +801,11 @@ KBS World,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/pla
 北朝鲜平壤放送FM 105.2,https://listen7.myradio24.com/69366
 吉林延边朝鲜语综合,https://live.ybtvyun.com/video/s10006-4fe8b057eb3b/index.m3u8
 吉林长白山朝鲜,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
-Arirang阿里郎,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307#https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv079#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn
-Arirang阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-Arirang阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-Arirang阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-Arirang阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8#http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8#http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307#https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv079#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn
+Arirang阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Arirang阿里郎,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+Arirang阿里郎,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b1256000_sleng.m3u8
+Arirang阿里郎,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b656000_sleng.m3u8
 YTN韩联社新闻,https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
 YTN韩联社新闻,http://210.92.207.38:40001
 YTN SCIENCE,http://mytv.dothome.co.kr/ch/catv/261.php
@@ -830,7 +830,7 @@ JTV SBS全州,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3
 台湾韩国娱乐台,http://211.72.65.236:8523/.m3u8#https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv016
 台湾华艺MBC韩国综合台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn
 TVN亚洲,http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9#http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d#http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN
-Channel A,https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NDU0MTg2OTd9.0r5fIr_JLp9ezNcXKmQ06PhtCLmKT-eI6K_A1CUop4c#http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+Channel A,https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3NDU1MDYwODJ9.U5RlyZdl15E3HfbzqEqWMN5bRSkvHgUwuGkQYcmBKUA#http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 OBS京仁放送,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 MBN每日经济新闻,http://mytv.dothome.co.kr/ch/catv/54.php
 ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -999,7 +999,7 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 #http://120.10.101.13:4000/rtp/239.253.93.211:6389#http://106.116.3.207:8890/rtp/239.254.201.156:6270#http://118.249.21.194:9999/udp/239.93.42.55:5140#http://118.249.21.194:9999/udp/239.93.42.55:5140#http://218.86.153.64:9007/rtp/238.255.2.7:5999#http://27.184.67.55:1024/rtp/239.254.201.156:6270
 足球频道,http://118.249.21.194:9999/udp/239.93.0.197:9040
 四川熊猫体娱高清,http://118.249.21.194:9999/udp/239.93.0.94:5140
-天津体育,http://live-tx.wisetv.com.cn/TJIPTV/TJTYHD2.m3u8?txSecret=a7399cc5139b61f24929e07f5626449e&txTime=6807dd57&GUID=a3a14a8f2a05ffd2ec6977c40908b353&wisetvauth=1#http://218.68.55.35:8888/udp/225.1.1.122:5002
+天津体育,http://live-tx.wisetv.com.cn/TJIPTV/TJTYHD2.m3u8?txSecret=cf73a58d3927383bcd680e53a72978e8&txTime=68094d4b&GUID=e7e2e0e35d776dc23af3d93121c60708&wisetvauth=1#http://218.68.55.35:8888/udp/225.1.1.122:5002
 辽宁体育,http://175.148.29.98:9902/tsfile/live/1003_1.m3u8#http://120.76.248.139/live/bfgd/4200000611.m3u8#http://59.44.102.18:8888/newlive/live/hls/48/live.m3u8#http://xyt.186738613.xyz/lngd.php?id=611&Cf.m3u8
 先锋乒羽,http://115.46.95.194:8181/tsfile/live/1114_1.m3u8?ace#rtsp://27.148.240.181/PLTV/88888888/224/3221227252/70545640.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E9GWi4PENHqRoEXz6Cm3ZMg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV70545639%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#rtsp://27.148.236.129:554/live/ch22091415575673264280.sdp?FccMediaIP=239.61.3.17&FccMediaPort=9622&vcdnid=001&mediaid=ch22091415575673264280&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPenck9%2Bewr3%2F3PfuBvb7C8DtRpp3ZZIP95Y2ZE%2BTzzGi80d8RtgP2DayASZlOpMLMaA%3D%3D
 快乐垂钓,rtsp://27.148.240.181/PLTV/88888888/224/3221227028/10000100000000060000000001876304_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQB70OIjhkHda3UFbivF0fg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001906404%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226999/ 1.m3u8#rtsp://27.148.236.129:554/live/ch19061315471496603667.sdp?FccMediaIP=239.61.3.8&FccMediaPort=9566&vcdnid=001&mediaid=ch19061315471496603667&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeihHuMc7hVaOjnDkhbFF1FcSg1bwJaSwRYnGat60gp8O0d8RtgP2DayASZlOpMLMaA%3D%3D
@@ -1451,8 +1451,8 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 丽水龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 丽水遂昌,http://play-sh13.quklive.com/live/1708426592499070.m3u8?auth_key=2028414342-e92bda8423ad478c987a8b7ae82abe0e-0-c616f7fabb9675e1ed1d84d9edae7e07#http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-舟山新闻综合,https://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=1745351349-5448761f54b548f1a26cac726265621c-0-0e0412533eae21b9a554c64810c2cd9a
-舟山公共,https://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=1745351376-e15a9ac365e94c3ba12750de54f58f6e-0-e285c880118c967c995ee1faf9b6da56
+舟山新闻综合,https://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=1745443810-5d6e6a7b7cc84e249a99707c320f6b26-0-82b6643354ae7a3a7a31ff876605e948
+舟山公共,https://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=1745443850-0edbc013f66b409a97c4c08095d9582e-0-d13eac4ffc5e09b406cd09e9f45f6188
 舟山普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 舟山嵊泗综合,https://play-sh11.quklive.com/live/1626935015913208.m3u8#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 浙江乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
@@ -1668,21 +1668,21 @@ IM智己汽车,http://live.iill.top/douyin.php?id=718517449222
 GINX电竞,https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv053
 斗鱼电竞赛事,http://live.iill.top/douyin.php?id=119
 英雄联盟LPL赛事,http://live.iill.top/douyin.php?id=288016
-英雄联盟LPL赛事,http://3501776.xyz:35455/huya/660000
+英雄联盟LPL赛事,http://live.iill.top/huya.php?id=660000
 英雄联盟LPL赛事,http://live.iill.top/bilibili.php?id=6
 斗鱼王者荣耀KPL赛事,http://live.iill.top/douyin.php?id=1863767#http://live.iill.top/douyin.php?id=998
 王者荣耀KPL赛事,http://live.iill.top/bilibili.php?id=55
-王者荣耀KPL赛事,http://3501776.xyz:35455/huya/660002
+王者荣耀KPL赛事,http://live.iill.top/huya.php?id=660002
 王者荣耀KPL赛事,http://live.iill.top/bilibili.php?id=21654762
 王者荣耀女子赛事,http://live.iill.top/douyin.php?id=1984847
 DYG精彩赛事回顾,http://live.iill.top/douyin.php?id=8987164
 和平精英PEL赛事,http://live.iill.top/douyin.php?id=999
-和平精英PEL赛事,http://3501776.xyz:35455/huya/660006
+和平精英PEL赛事,http://live.iill.top/huya.php?id=660006
 和平精英PEL赛事,http://live.iill.top/bilibili.php?id=23
-和平精英大众赛事,http://3501776.xyz:35455/huya/660129
-和平精英PEL经典赛事,http://3501776.xyz:35455/huya/11948620
+和平精英大众赛事,http://live.iill.top/huya.php?id=660129
+和平精英PEL经典赛事,http://live.iill.top/huya.php?id=11948620
 英雄联盟手游赛事,http://live.iill.top/douyin.php?id=33
-英雄联盟手游赛事,http://3501776.xyz:35455/huya/667812
+英雄联盟手游赛事,http://live.iill.top/huya.php?id=667812
 英雄联盟手游赛事,http://live.iill.top/bilibili.php?id=23352034
 金铲铲之战赛事,http://live.iill.top/douyin.php?id=9715241#http://live.iill.top/bilibili.php?id=24088107
 街霸赛事,http://live.iill.top/douyin.php?id=11437
@@ -1694,62 +1694,62 @@ DYG精彩赛事回顾,http://live.iill.top/douyin.php?id=8987164
 英雄联盟赛事5,http://live.iill.top/douyin.php?id=3563196
 英雄联盟赛事6,http://live.iill.top/douyin.php?id=7596577
 英雄联盟赛事7,http://live.iill.top/douyin.php?id=673305
-英雄联盟-S赛事,http://3501776.xyz:35455/huya/11947428
-英雄联盟MSI赛事,http://3501776.xyz:35455/huya/660105
+英雄联盟-S赛事,http://live.iill.top/huya.php?id=11947428
+英雄联盟MSI赛事,http://live.iill.top/huya.php?id=660105
 DOTA 2赛事,http://live.iill.top/douyin.php?id=30#http://live.iill.top/bilibili.php?id=3336696
 DOTA 2赛事2,http://live.iill.top/douyin.php?id=3811559
 跑跑卡丁车赛事,http://live.iill.top/douyin.php?id=7722576
 JJ斗地主,http://live.iill.top/douyin.php?id=488743
-JJ斗地主,http://3501776.xyz:35455/huya/14079954
+JJ斗地主,http://live.iill.top/huya.php?id=14079954
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
 咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=
 咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/75/index.m3u8?&encrypt=
 咪咕掼蛋赛事,http://hlsbkmgsplive.miguvideo.com/wd_r4/virtuallive/5101059662/50/index.m3u8?&encrypt=
-掼蛋棋牌赛事,http://3501776.xyz:35455/huya/139167
+掼蛋棋牌赛事,http://live.iill.top/huya.php?id=139167
 升级棋牌赛事,http://live.iill.top/bilibili.php?id=30627124
-QQ飞车赛事,http://3501776.xyz:35455/huya/660219
+QQ飞车赛事,http://live.iill.top/huya.php?id=660219
 QQ飞车手游赛事,http://live.iill.top/douyin.php?id=5040227
-QQ飞车手游赛事,http://3501776.xyz:35455/huya/660117
+QQ飞车手游赛事,http://live.iill.top/huya.php?id=660117
 狼人杀赛事,http://live.iill.top/douyin.php?id=4615959
 FIFA电竞足球赛事,http://live.iill.top/douyin.php?id=9669867
 第五人格赛事,http://live.iill.top/douyin.php?id=3226194
-第五人格赛事,http://3501776.xyz:35455/huya/461698
+第五人格赛事,http://live.iill.top/huya.php?id=461698
 第五人格赛事,https://alirtspull.cc.netease.com/pushstationsave/0b51ff895049a6ec7d6c285581113.flv?src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1676837463-8f50eb04589044af8b706e7eced458bb-0-0424beb473eb175bf93c6b74e676ec23#http://live.iill.top/bilibili.php?id=5887574
 第五人格IPL赛事,http://live.iill.top/douyin.php?id=11649979
 第五人格PAL赛事,http://live.iill.top/douyin.php?id=9618584#http://live.iill.top/bilibili.php?id=31288379
 第五人格ASU赛事,http://live.iill.top/bilibili.php?id=14432545
 第五人格PAL赛事,http://live.iill.top/bilibili.php?id=31937750
 永劫无间赛事,http://live.iill.top/douyin.php?id=9662891
-永劫无间赛事,http://3501776.xyz:35455/huya/660115#https://alirtspull.cc.netease.com/pushstationsave/a8b768c5c72ed97e54e2294779469.flv?src=webcc_6313_h5&quic_versions=46%2C43%2C39&auth_key=1690324852-97f2879dc79f40e9990378604487fc54-0-8de45bc318f6c98579a1c7f376c65e89#http://live.iill.top/bilibili.php?id=30
+永劫无间赛事,http://live.iill.top/huya.php?id=660115#https://alirtspull.cc.netease.com/pushstationsave/a8b768c5c72ed97e54e2294779469.flv?src=webcc_6313_h5&quic_versions=46%2C43%2C39&auth_key=1690324852-97f2879dc79f40e9990378604487fc54-0-8de45bc318f6c98579a1c7f376c65e89#http://live.iill.top/bilibili.php?id=30
 永劫无间赛事2,http://live.iill.top/douyin.php?id=10005153
 永劫无间手游赛事,https://alipullhls.cc.netease.com/pushstation/6c4a615cf28b27631e16289952844.m3u8?auth_key=1722499367-9d7bb3e578a24b98b6f34a90ff83879b-0-45a93afe615514f9ffab8f11a5a1eb90
 无畏契约赛事,http://live.iill.top/douyin.php?id=4585645
-无畏契约赛事,http://3501776.xyz:35455/huya/660679
+无畏契约赛事,http://live.iill.top/huya.php?id=660679
 无畏契约赛事,http://live.iill.top/bilibili.php?id=22908869#http://live.iill.top/bilibili.php?id=27331415
 无畏契约赛事2,http://live.iill.top/douyin.php?id=9822023
 守望先锋赛事,http://live.iill.top/bilibili.php?id=76#http://live.iill.top/bilibili.php?id=23612045
 守望先锋赛事,http://live.iill.top/douyin.php?id=945572#http://live.iill.top/douyin.php?id=207329
-守望先锋赛事,http://3501776.xyz:35455/huya/660128
+守望先锋赛事,http://live.iill.top/huya.php?id=660128
 守望先锋赛事,https://hw.flv.huya.com/src/78941969-2540560280-10911623316116602880-3083206534-10057-A-0-1.flv?wsSecret=34b953e72569d1ba499d098a988cf79d&wsTime=64c1bc5d&seqid=3156242376929&ctype=tars_mobile&ver=1&txyp=o%3Anc4%3B&fs=bgct&t=103&ratio=2000&uid=1465910506267&uuid=1158168664&t=103&sv=2110211124#http://epg.112114.free.hr/huya/660128
-守望先锋赛事2,http://3501776.xyz:35455/huya/29701523
-守望先锋赛事3,http://3501776.xyz:35455/huya/29701525
+守望先锋赛事2,http://live.iill.top/huya.php?id=29701523
+守望先锋赛事3,http://live.iill.top/huya.php?id=29701525
 守望先锋官方解说老陈,http://live.iill.top/douyin.php?id=8527241
 绝地求生赛事,http://live.iill.top/douyin.php?id=100
-绝地求生赛事2,http://3501776.xyz:35455/huya/660121
-天天吃鸡赛事,http://3501776.xyz:35455/huya/660004
+绝地求生赛事2,http://live.iill.top/huya.php?id=660121
+天天吃鸡赛事,http://live.iill.top/huya.php?id=660004
 绝地求生Afreeca赛事,http://live.iill.top/douyin.php?id=8769185
 绝地求生赛事3,http://live.iill.top/douyin.php?id=5818871
-绝地求生NV获胜赛事,http://3501776.xyz:35455/huya/29701499
+绝地求生NV获胜赛事,http://live.iill.top/huya.php?id=29701499
 APEX赛事,http://live.iill.top/douyin.php?id=6642623
 穿越火线赛事,http://live.iill.top/douyin.php?id=5388537
-穿越火线赛事,http://3501776.xyz:35455/huya/660101
+穿越火线赛事,http://live.iill.top/huya.php?id=660101
 穿越火线赛事,http://live.iill.top/bilibili.php?id=27
 穿越火线赛事2,http://live.iill.top/douyin.php?id=522798
-穿越火线海外赛事,http://3501776.xyz:35455/huya/11718768
+穿越火线海外赛事,http://live.iill.top/huya.php?id=11718768
 穿越火线CFML,http://live.iill.top/douyin.php?id=868191
 穿越火线CFHD,http://live.iill.top/douyin.php?id=9294735
-穿越火线CFHD,http://3501776.xyz:35455/huya/660106
-穿越火线手游赛事,http://3501776.xyz:35455/huya/660102
+穿越火线CFHD,http://live.iill.top/huya.php?id=660106
+穿越火线手游赛事,http://live.iill.top/huya.php?id=660102
 决战！平安京赛事,http://live.iill.top/douyin.php?id=4196244#https://alipullhls.cc.netease.com/pushstation/206a70371ebb3abc589d3987817.m3u8?auth_key=1720893007-7dd7549a298e4446a3402b57e736e259-0-f1d9c6d63635b8036ae1d65d147c875a#https://alirtspull.cc.netease.com/live/206a70371ebb3abc589d3987817tc4.flv?src=webcc_4000_h5&quic_versions=46%2C43%2C39&auth_key=1695462841-2b490f7e6cde4b178d15c31117fcd4e5-0-92cae94c1c11226327011fa7f1bd8c88#http://live.iill.top/bilibili.php?id=7623885
 KK对战平台魔兽争霸,http://live.iill.top/douyin.php?id=11598175
 梦幻西游手游赛事,http://live.iill.top/douyin.php?id=9163712
@@ -1772,8 +1772,8 @@ FC ONLINE西甲电竞挑战赛,http://live.iill.top/douyin.php?id=7692166
 曙光英雄官方赛事,http://live.iill.top/douyin.php?id=11866210
 原神赛事,http://live.iill.top/douyin.php?id=11637530
 原神赛事2,http://live.iill.top/bilibili.php?id=31917671
-原神卡牌七圣召唤赛事,http://3501776.xyz:35455/huya/28271481
-原神卡牌七圣召唤赛事2,http://3501776.xyz:35455/huya/28904710
+原神卡牌七圣召唤赛事,http://live.iill.top/huya.php?id=28271481
+原神卡牌七圣召唤赛事2,http://live.iill.top/huya.php?id=28904710
 街头篮球赛事,http://live.iill.top/douyin.php?id=3610879
 永恒轮回赛事,http://live.iill.top/douyin.php?id=9438086
 蛋仔派对官方,https://alipullhls.cc.netease.com/pushstation/9ca1205195804476bf1c272713076.m3u8?auth_key=1720894564-e61a3c20a42341ef90adb996579af75d-0-58fcf1bdddd2ca1acc71f1764a3e90c5
@@ -1788,7 +1788,7 @@ FC ONLINE西甲电竞挑战赛,http://live.iill.top/douyin.php?id=7692166
 荒野乱斗赛事,http://live.iill.top/douyin.php?id=7519082
 三国杀赛事,http://live.iill.top/douyin.php?id=7529411
 三国杀移动赛事,http://live.iill.top/douyin.php?id=6842669
-三国杀移动赛事,http://3501776.xyz:35455/huya/10904849
+三国杀移动赛事,http://live.iill.top/huya.php?id=10904849
 战斗之星赛事,http://live.iill.top/douyin.php?id=9448281
 堡垒之夜赛事,http://live.iill.top/douyin.php?id=4772851
 暗区突围赛事,http://live.iill.top/douyin.php?id=10767824
@@ -1801,4 +1801,4 @@ CLA电竞足球赛事2,http://live.iill.top/douyin.php?id=11879202
 CLA电竞足球赛事3,http://live.iill.top/douyin.php?id=11879257
 自由足球赛事,http://live.iill.top/douyin.php?id=666790
 高能英雄赛事,http://live.iill.top/douyin.php?id=11641721
-KARDS官方赛事,http://3501776.xyz:35455/huya/28729343
+KARDS官方赛事,http://live.iill.top/huya.php?id=28729343

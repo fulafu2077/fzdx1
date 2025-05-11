@@ -655,6 +655,9 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 缅甸国家4频道MRTV 4,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 缅甸5 PLUS频道,https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 缅甸7频道,https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+巴基斯坦92新闻英国台,https://streamer12.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8#https://streamer12.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8?nimblesessionid=812952320
+巴基斯坦DUNYA新闻,https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1138858278_b496072.m3u8#https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1138858278_b236072.m3u8
+巴基斯坦拉合尔新闻,https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w1033352547_b950272.m3u8#https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w1033352547_b496072.m3u8#https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/chunklist_w1033352547_b182000.m3u8
 印度CNBC TV18,https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=3724000.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=1272000.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=658800.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=301200.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_33635_eng=33600-video=148000.m3u8
 印度CNN新闻18,https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=1272000.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=658800.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=301200.m3u8#https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_33636_hin=33600-video=148000.m3u8
 印度新闻18泰米尔,http://50.7.234.10:8278/news18tamil_raj/playlist.m3u8?tid=MFEF4476053744760537&ct=19249&tsum=730185304475c7836b81f97985cea296
@@ -1025,6 +1028,8 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 球客岛-足球,http://yc.myds.me:35455/douyin/259722868383
 球客岛-内容,http://yc.myds.me:35455/douyin/873482311227
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
+K球赛事,http://yc.myds.me:35455/douyin/612770335133
+Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
 CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171

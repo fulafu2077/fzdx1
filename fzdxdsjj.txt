@@ -917,7 +917,8 @@ EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playli
 #http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 JTBC高尔夫&体育,http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/index.m3u8#http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/chunklist_w508286538.m3u8#http://211.110.63.98/jtbc3sports1/_definst_/8B52AE334EAE1F86E60B9681381DB0060EEB0A6A2B5105B7E381F9073966BE47/chunklist_w1309446658.m3u8
-GS SHOP,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8电信日本,#genre#
+GS SHOP,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+电信日本,#genre#
 NHK综合 东京,http://vthanh.utako.moe/NHK_G/index.m3u8#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://nhk4.mov3.co/hls/nhk.m3u8
 NHK综合 大阪,http://vthanh.utako.moe/NHK_G/index.m3u8#https://nhk4.mov3.co/hls/nhk.m3u8
 NHK教育,http://vthanh.utako.moe/NHK_E/index.m3u8#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

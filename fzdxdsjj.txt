@@ -257,12 +257,12 @@ CCTV发现之旅,http://223.10.115.64:8082/udp/239.1.1.103:8103#http://117.30.58
 福建文体,rtsp://27.148.240.181/PLTV/88888888/224/3221226139/10000100000000060000000000741252_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErCFOU0Rv4saHEQ84jhN5Qw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000752950%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226749/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=10#http://192.168.50.121:8080/fjtv.php?id=10#http://117.27.190.42:9998/tsfile/live/23291_1.m3u8#rtsp://27.148.236.129:554/live/ch17041318323608461611.sdp?FccMediaIP=239.61.2.160&FccMediaPort=8948&vcdnid=001&mediaid=ch17041318323608461611&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPej9nJMJVgrJ4%2FaspXzqeVe9QeUwDwMtBbrPa8bgyyls90d8RtgP2DayASZlOpMLMaA%3D%3D
 福建少儿,rtsp://27.148.240.181/PLTV/88888888/224/3221225686/10000100000000060000000000417450_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ENqNay4MrqVtJRzAOs2Lwsw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2CUmai%3ACHAN%2F12354514%40BESTV.STA.SMG%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226738/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=2#http://192.168.50.121:8080/fjtv.php?id=2#http://117.27.190.42:9998/tsfile/live/23290_1.m3u8#rtsp://27.148.236.129:554/live/ch15102717162041774825.sdp?FccMediaIP=239.61.2.9&FccMediaPort=8048&vcdnid=001&mediaid=ch15102717162041774825&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdnVYhy7JhAQ4aQzMqQsOoCA0d8RtgP2DayASZlOpMLMaA%3D%3D
 福建教育,rtsp://27.148.240.181/PLTV/88888888/224/3221226227/10000100000000060000000000945282_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EjTXVNxs9BOe-uBbV577nkw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000958910%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226884/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23292_1.m3u8#rtsp://27.148.236.129:554/live/ch17092110554866036216.sdp?FccMediaIP=239.61.2.173&FccMediaPort=9026&vcdnid=001&mediaid=ch17092110554866036216&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemTNIjvpLLAybGQqvqya7JmsXV0%2FatXFAeNJKvmkKHlO0d8RtgP2DayASZlOpMLMaA%3D%3D
-福州新闻,http://live3.setvn.com:9098/live/fz1hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=56&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=XCXmHzRu9%2FYOHyfhuwHINw%3D%3D&r=20250519004611&e=20250520004611&nc=A3yLiYpqqYpX&a=7&hlsSessionID=10821025700570151479&srchost=www.fjgd.com&gid=AtCkM5a9OT8TOYnQWemkRg%3D%3D
+福州新闻,http://live3.setvn.com:9098/live/fz1hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=56&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=KHUEhVUdAqQGBu2gMFlWmQ%3D%3D&r=20250520012650&e=20250521012650&nc=XFioUlbyGt60&a=7&hlsSessionID=10821025700570214880&srchost=www.fjgd.com&gid=AaClgaEOW1fH3hZIMNQZtw%3D%3D
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州新闻,rtsp://27.148.240.185/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA#rtsp://27.148.240.189/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA#rtsp://27.148.240.181/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA
 福州新闻,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8#rtsp://27.148.236.129:554/live/ch18021018575987660580.sdp?FccMediaIP=239.61.2.212&FccMediaPort=9260&vcdnid=001&mediaid=ch18021018575987660580&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehDw%2Bj01CdKv49zFrmHTNlsMPY83jhlTnJ8b1chaOIvU0d8RtgP2DayASZlOpMLMaA%3D%3D
 福州影视,http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
-福州生活,http://live3.setvn.com:9098/live/fz3hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=512&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=2GgLpctWRwO3PQvMhMnsNw%3D%3D&r=20250519004632&e=20250520004632&nc=w6WhG6qTKXUc&a=7&hlsSessionID=10821025700570151496&srchost=www.fjgd.com&gid=DHZSrrJTpmuPgrQiIc044w%3D%3D
+福州生活,http://live3.setvn.com:9098/live/fz3hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=512&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=rNFA5yluVFd8FWlxYwiT4g%3D%3D&r=20250520012704&e=20250521012704&nc=pBrJUZcvxZzt&a=7&hlsSessionID=10821025700570214891&srchost=www.fjgd.com&gid=FWYqGZXtTobbLRdQo6iUKA%3D%3D
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州慢直播频道,http://yc.myds.me:35455/douyin/459996902434#http://live.zohi.tv/video/s10001-camera1/index.m3u8
@@ -1096,6 +1096,7 @@ Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
 足球大解夫,http://yc.myds.me:35455/douyin/907578993039
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
+制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
 CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171
@@ -1221,6 +1222,7 @@ Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
 足球大解夫,http://yc.myds.me:35455/douyin/907578993039
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
+制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV-14,rtsp://27.148.240.181/PLTV/88888888/224/3221226965/10000100000000060000000001740937_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Et6htxNPPBH0tFdl_hYIyRw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769287%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -1932,6 +1934,7 @@ Racing101,http://yc.myds.me:35455/douyin/899874051394
 毛毛还活着网球2台,http://yc.myds.me:35455/douyin/maomaotennis
 约钓江湖徐江龙钓鱼,http://3501776.xyz:35455/douyin832269186244
 麻将研究院,http://yc.myds.me:35455/douyin/278983884042
+福州我是以大,http://yc.myds.me:35455/douyin/488205129443
 福州高速高小暖,http://yc.myds.me:35455/douyin/539453647658
 福州房道大叔,http://yc.myds.me:35455/douyin/230507302281
 福州江江探房,http://yc.myds.me:35455/douyin/533523855260
@@ -1965,11 +1968,14 @@ Racing101,http://yc.myds.me:35455/douyin/899874051394
 薇娅团队琦儿,http://yc.myds.me:35455/douyin/374806133859
 小西设计所,http://yc.myds.me:35455/douyin/83293364421
 是龙龙呀,http://yc.myds.me:35455/douyin/91319325058
+周杰伦半岛纸盒,http://yc.myds.me:35455/douyin/181975266926&enter_from_merge=web_share_link&enter_method=web_share_link&previous_page=app_code_link&camera_id=0
 广东中山西环高速,http://yc.myds.me:35455/douyin/433197410878
 福州上街弟海鲜,http://yc.myds.me:35455/douyin/411044456410
 福州上街弟海鲜二台,http://yc.myds.me:35455/douyin/437070264564
 福州上街弟海鲜三台,http://yc.myds.me:35455/douyin/68262334689
+福州汽车年检团购,http://yc.myds.me:35455/douyin/67018180631
 国风茶道-倾城,http://yc.myds.me:35455/douyin/57225628992
+福建港融,http://yc.myds.me:35455/douyin/507128029444
 福清茂华星河颂,http://yc.myds.me:35455/douyin/780689570081
 台江区J-Y简榆女装实体店,http://yc.myds.me:35455/douyin/97228615998
 大世界家哔哩哔哩直播,#genre#
@@ -2472,7 +2478,7 @@ lik佳佳,http://yc.myds.me:35455/douyin/7298523230
 福州小鱼,http://yc.myds.me:35455/douyin/259429084308
 福州汤圆,http://yc.myds.me:35455/douyin/514116626175
 福州格宝宝,http://yc.myds.me:35455/douyin/3883484256
-福州台湾女孩林夏,http://yc.myds.me:35455/douyin/665314866263
+福州台湾女孩林夏,http://yc.myds.me:35455/douyin/665314866263 
 福州台湾女孩林夏二台,http://yc.myds.me:35455/douyin/520950861968
 福州后妈,http://yc.myds.me:35455/douyin/652329686364
 福州锅边福,http://yc.myds.me:35455/douyin/39557918710

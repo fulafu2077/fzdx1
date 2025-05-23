@@ -1084,6 +1084,8 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
+Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1210,6 +1212,8 @@ CCTV风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
+Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1327,7 +1331,8 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 上海第一财经,http://tvbox6.icu/tv/migu.php?id=dycj#http://180.154.48.93:4022/udp/239.45.3.211:5140#http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/mg.php?id=dycj#http://27.148.240.138/PLTV/88888888/224/3221227341/ 1.m3u8#http://180.154.48.93:4022/udp/239.45.3.211:5140#http://112.25.48.68/live/program/live/dycjhd8m/8000000/mnf.m3u8
 上海东方财经,http://180.154.48.93:4022/udp/239.45.1.119:5140#http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111#rtsp://27.148.240.185/PLTV/88888888/224/3221225755/10000100000000060000000000417526_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EOqXure4qA0gNqYYoBtzuWQ%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F11383%40BESTV.SMG.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA
 上海东方财经,http://27.148.240.138/PLTV/88888888/224/3221227214/ 1.m3u8#http://180.154.48.93:4022/udp/239.1.1.85:8085#http://112.25.48.68/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-上海五星体育,http://108.181.20.197/livehttpplay?channel_id=20060#http://180.154.48.93:4022/udp/239.45.3.210:5140#http://180.154.48.93:4022/udp/239.45.3.210:5140#http://112.25.48.68/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上海五星体育,http://108.181.20.197/livehttpplay?channel_id=20060
+上海五星体育,http://180.154.48.93:4022/udp/239.45.3.210:5140#http://180.154.48.93:4022/udp/239.45.3.210:5140#http://112.25.48.68/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 上海劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111#http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111#http://tvbox6.icu/tv/migu.php?id=jbty#http://m.951688.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb#http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/mg.php?id=jbty#http://182.104.192.98:8180/TV00000000000000000002@HHZT
 上海劲爆体育,http://112.25.48.68/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 上海魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
@@ -1555,6 +1560,7 @@ TNTSPACE拆盒特攻队,http://yc.myds.me:35455/douyin/414525156319
 漫卡集潮玩,http://yc.myds.me:35455/douyin/430686778257
 天际潮玩,http://yc.myds.me:35455/douyin/63460466343
 寻玩文化whatsart,http://yc.myds.me:35455/douyin/676171317185
+卡基地优卡学院,http://yc.myds.me:35455/douyin/234188201640
 电信汽车,#genre#
 懂车帝直播,http://yc.myds.me:35455/douyin/633723143862
 懂车帝原创,http://yc.myds.me:35455/douyin/803155814854
@@ -1596,6 +1602,7 @@ TESLA特斯拉,http://yc.myds.me:35455/douyin/119732257997
 小鹏汽车,http://yc.myds.me:35455/douyin/891173186702
 小鹏汽车直播福利购,http://yc.myds.me:35455/douyin/29171842745
 小鹏汽车福州仓山,http://yc.myds.me:35455/douyin/529874294051
+小米汽车,http://yc.myds.me:35455/douyin/339059878593#http://yc.myds.me:35455/bilibili/31092096
 小米汽车福州仓山齐安路,http://yc.myds.me:35455/douyin/569427809940
 小米汽车福州苏宁,http://yc.myds.me:35455/douyin/72523716390
 小米汽车福州青口店,http://yc.myds.me:35455/douyin/269164051264

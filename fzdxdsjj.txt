@@ -257,12 +257,12 @@ CCTV发现之旅,http://223.10.115.64:8082/udp/239.1.1.103:8103#http://117.30.58
 福建文体,rtsp://27.148.240.181/PLTV/88888888/224/3221226139/10000100000000060000000000741252_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ErCFOU0Rv4saHEQ84jhN5Qw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000752950%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226749/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=10#http://192.168.50.121:8080/fjtv.php?id=10#http://117.27.190.42:9998/tsfile/live/23291_1.m3u8#rtsp://27.148.236.129:554/live/ch17041318323608461611.sdp?FccMediaIP=239.61.2.160&FccMediaPort=8948&vcdnid=001&mediaid=ch17041318323608461611&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPej9nJMJVgrJ4%2FaspXzqeVe9QeUwDwMtBbrPa8bgyyls90d8RtgP2DayASZlOpMLMaA%3D%3D
 福建少儿,rtsp://27.148.240.181/PLTV/88888888/224/3221225686/10000100000000060000000000417450_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ENqNay4MrqVtJRzAOs2Lwsw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2CUmai%3ACHAN%2F12354514%40BESTV.STA.SMG%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226738/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=2#http://192.168.50.121:8080/fjtv.php?id=2#http://117.27.190.42:9998/tsfile/live/23290_1.m3u8#rtsp://27.148.236.129:554/live/ch15102717162041774825.sdp?FccMediaIP=239.61.2.9&FccMediaPort=8048&vcdnid=001&mediaid=ch15102717162041774825&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdnVYhy7JhAQ4aQzMqQsOoCA0d8RtgP2DayASZlOpMLMaA%3D%3D
 福建教育,rtsp://27.148.240.181/PLTV/88888888/224/3221226227/10000100000000060000000000945282_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EjTXVNxs9BOe-uBbV577nkw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000958910%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226884/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23292_1.m3u8#rtsp://27.148.236.129:554/live/ch17092110554866036216.sdp?FccMediaIP=239.61.2.173&FccMediaPort=9026&vcdnid=001&mediaid=ch17092110554866036216&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemTNIjvpLLAybGQqvqya7JmsXV0%2FatXFAeNJKvmkKHlO0d8RtgP2DayASZlOpMLMaA%3D%3D
-福州新闻,http://live3.setvn.com:9098/live/fz1hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=56&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=cOsV1PortJxGiE2e57fRnA%3D%3D&r=20250521003409&e=20250522003409&nc=JcuPbBXt0Jju&a=7&hlsSessionID=10821025700570273921&srchost=www.fjgd.com&gid=I4E%2BCmjxndo7xjPk75JDNA%3D%3D
+福州新闻,http://live3.setvn.com:9098/live/fz1hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=56&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=gRlmX9MOiluey%2FSsfI6S6g%3D%3D&r=20250524020719&e=20250525020719&nc=P9QguhdQZFnI&a=7&hlsSessionID=17856211193281726390&srchost=www.fjgd.com&gid=w6eUCZtXM0AWfEmzkkiP4Q%3D%3D
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州新闻,rtsp://27.148.240.185/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA#rtsp://27.148.240.189/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA#rtsp://27.148.240.181/PLTV/88888888/224/3221226287/10000100000000060000000001158540_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EEARIbhTQAMei3WliX8Xuvg%7Eu8K4JFG5Muye1JobvDOKD2_SlRiggcrbZAYtQDVhRA7A5W1F9N_PtmLmgeeDKUAXB6ahmTPDFplwA4el2dEl-O3ZOjtUWLmw1C_8zBHpI9k%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230123125531%2C10500000645758%2C110.88.24.204%2C20230123125531%2CUmai%3ACHAN%2F3745035%40BESTV.STA.SMG%2C1000100070131520230123125531%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHRZYJeNgJY2Ji8AB6NXUrSChsbmDi2wuTW9vv_9J_8qDxfFTjTMQCvkurBNNA1I1tac2K7lXxEBlPZM6FlHzP6tU5EbRqF6PlPDzRb8viVeg_nUZlQsMdwXf2xIPr4nzztGGG9fY7STMpUymSNMkPbFqvNYR-IewFobCDA4_mYtsoqAYoIHOge2ixhAH_5aN39WZp8gOe0tSm1QAAAA
 福州新闻,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8#rtsp://27.148.236.129:554/live/ch18021018575987660580.sdp?FccMediaIP=239.61.2.212&FccMediaPort=9260&vcdnid=001&mediaid=ch18021018575987660580&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPehDw%2Bj01CdKv49zFrmHTNlsMPY83jhlTnJ8b1chaOIvU0d8RtgP2DayASZlOpMLMaA%3D%3D
 福州影视,http://live.zohi.tv/video/s10001-fztv-2/index.m3u8
-福州生活,http://live3.setvn.com:9098/live/fz3hd_2000/fz3hd_2000_174775882.ts?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=512&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=XJ7wyFuwLxQKaIRRb44c9A%3D%3D&r=20250521003428&e=20250522003428&nc=6eE5cAPJ79yQ&a=7&hlsSessionID=10821025700570273935&srchost=192.168.132.130:8060&gid=dOuMRpXew4rPTps7L1BrRQ%3D%3D
+福州生活,http://live3.setvn.com:9098/live/fz3hd_2000.m3u8?ptype=6&plocation=null&puser=freeuser&ptoken=bf69e51db2fbaaaa&ot=0&d=bf69e51db2fbaaaa&l=null&pid=&cid=512&v=2&u=freeuser&t=bf69e51db2fbaaaa&p=6&sid=wRqkM1P%2FejpCfJMi2jDm1w%3D%3D&r=20250524020738&e=20250525020738&nc=Nov2RDpFpz5X&a=7&hlsSessionID=17856211193281726425&srchost=www.fjgd.com&gid=ssTyHzI0yFgx5iNdfjU0aQ%3D%3D
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州慢直播频道,http://yc.myds.me:35455/douyin/459996902434#http://live.zohi.tv/video/s10001-camera1/index.m3u8
@@ -355,6 +355,7 @@ EZTV歐洲華文電視 福建頻道,http://oh.eztv.vip/live/eztv2.m3u8
 Channel V中文,http://117.114.153.18:8182/hls/TV00000000000000000067@HHZT.m3u8#http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://114.105.171.70:9901/tsfile/live/0141_2.m3u8#http://wouu.net:9977/udp/239.93.0.157:2194#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2194#http://118.249.21.194:9999/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.156:2194
 星空电影,http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq#http://php.jdshipin.com:8880/xsj.php?id=hks
+香港亚视·本港台,http://yc.myds.me:35455/douyin/915245882445
 ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 EZTV1歐洲華文電視,http://ohlive.eztv.vip/live/ndehwyt.m3u8
 EZTV2歐洲華文電視,http://ohlive.eztv.vip/live/dehwet.m3u8
@@ -1084,8 +1085,11 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+日职赛事直播,http://yc.myds.me:35455/douyin/775840082634
 岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
 Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
+体育解说学洋,http://yc.myds.me:35455/douyin/749976602432
+领航体育,http://yc.myds.me:35455/douyin/169798189223
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1099,6 +1103,13 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
 制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
+星火体育,https://live.douyin.com/883694549914
+康旭体育,https://live.douyin.com/290734591289
+木兰聊球,https://live.douyin.com/690988125528
+呈扬体育,https://live.douyin.com/493676682366
+球运,https://live.douyin.com/491646507717
+重庆铜梁龙足球俱乐部,https://live.douyin.com/788804832985
+广西平果足球俱乐部有限公司,https://live.douyin.com/548646496177
 CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171
@@ -1108,6 +1119,8 @@ Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说员雅坤,http://yc.myds.me:35455/douyin/451212587065
 九儿篮球小球迷吖,http://yc.myds.me:35455/douyin/113059231202
 羽球小菜鸟,http://yc.myds.me:35455/douyin/159220004411
+福州Relis释感网球,http://yc.myds.me:35455/douyin/934472419640
+夏甜千阳羽毛球,http://yc.myds.me:35455/douyin/611338450713
 抖音体育,http://yc.myds.me:35455/douyin/douyintiyu
 新爱体育,http://yc.myds.me:35455/douyin/179260431297
 毛毛还活着网球1台,http://yc.myds.me:35455/douyin/998234067672
@@ -1212,8 +1225,11 @@ CCTV风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+日职赛事直播,http://yc.myds.me:35455/douyin/775840082634
 岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
 Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
+体育解说学洋,http://yc.myds.me:35455/douyin/749976602432
+领航体育,http://yc.myds.me:35455/douyin/169798189223
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1227,6 +1243,13 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
 制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
+星火体育,https://live.douyin.com/883694549914
+康旭体育,https://live.douyin.com/290734591289
+木兰聊球,https://live.douyin.com/690988125528
+呈扬体育,https://live.douyin.com/493676682366
+球运,https://live.douyin.com/491646507717
+重庆铜梁龙足球俱乐部,https://live.douyin.com/788804832985
+广西平果足球俱乐部有限公司,https://live.douyin.com/548646496177
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV-14,rtsp://27.148.240.181/PLTV/88888888/224/3221226965/10000100000000060000000001740937_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Et6htxNPPBH0tFdl_hYIyRw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769287%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -1913,6 +1936,7 @@ KARDS官方赛事,http://yc.myds.me:35455/huya/28729343
 央视中文国际,http://yc.myds.me:35455/douyin/166806983360
 央视电影频道央影传媒,http://yc.myds.me:35455/douyin/208823316033
 央视军事,http://yc.myds.me:35455/douyin/492155806138
+香港亚视·本港台,http://yc.myds.me:35455/douyin/915245882445
 APPLE苹果授权专营店,http://yc.myds.me:35455/douyin/705741651991
 APPLE产品抖音自营旗舰店,http://yc.myds.me:35455/douyin/693803226410
 雷军,http://yc.myds.me:35455/douyin/962587880961
@@ -1928,8 +1952,10 @@ ZOL中关村在线,http://yc.myds.me:35455/douyin/59065968612
 小鹿姐姐福建民俗,http://yc.myds.me:35455/douyin/418627937534
 候鸟觅食自驾游吃遍中国,http://yc.myds.me:35455/douyin/788434112021
 白羊游神,http://yc.myds.me:35455/douyin/838292671711
+福州闽侯龙舟唱唱,http://yc.myds.me:35455/douyin/64560494616
 面色稍霁（kk）,http://yc.myds.me:35455/douyin/138833877139
 唐宋摇滚,http://yc.myds.me:35455/douyin/29112336109
+音乐节乐源,http://yc.myds.me:35455/douyin/270046216611
 球客岛-足球,http://yc.myds.me:35455/douyin/259722868383
 球客岛-内容,http://yc.myds.me:35455/douyin/873482311227
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
@@ -1995,6 +2021,7 @@ MUJI无印良品服饰旗舰店,http://yc.myds.me:35455/douyin/44290039287
 福建港融,http://yc.myds.me:35455/douyin/507128029444
 福清茂华星河颂,http://yc.myds.me:35455/douyin/780689570081
 台江区J-Y简榆女装实体店,http://yc.myds.me:35455/douyin/97228615998
+福州百翁草堂中医诊所,http://yc.myds.me:35455/douyin/95793961125
 大世界家哔哩哔哩直播,#genre#
 新华社快看,http://yc.myds.me:35455/bilibili/22342243
 央视新闻,http://yc.myds.me:35455/bilibili/21686237
@@ -2893,3 +2920,4 @@ KpKpR,https://media-hls.doppiocdn.org/b-hls-06/96010075/96010075_240p.m3u8?playl
 S-WAN,https://media-hls.doppiocdn.org/b-hls-06/158819943/158819943_480p.m3u8?playlistType=lowLatency
 Rika-Q,https://media-hls.doppiocdn.org/b-hls-08/152864621/152864621_480p.m3u8?playlistType=lowLatency
 gucci074,https://media-hls.doppiocdn.org/b-hls-01/194881154/194881154_480p.m3u8?playlistType=lowLatency
+IORio2,https://media-hls.doppiocdn.org/b-hls-04/175355942/175355942_480p.m3u8?playlistType=lowLatency

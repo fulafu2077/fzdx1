@@ -355,6 +355,7 @@ EZTV歐洲華文電視 福建頻道,http://oh.eztv.vip/live/eztv2.m3u8
 Channel V中文,http://117.114.153.18:8182/hls/TV00000000000000000067@HHZT.m3u8#http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://114.105.171.70:9901/tsfile/live/0141_2.m3u8#http://wouu.net:9977/udp/239.93.0.157:2194#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2194#http://118.249.21.194:9999/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.156:2194
 星空电影,http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#rtmp://zhibo.hkstv.tv/livestream/mutfysrq#http://php.jdshipin.com:8880/xsj.php?id=hks
+香港亚视·本港台,http://yc.myds.me:35455/douyin/915245882445
 ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 EZTV1歐洲華文電視,http://ohlive.eztv.vip/live/ndehwyt.m3u8
 EZTV2歐洲華文電視,http://ohlive.eztv.vip/live/dehwet.m3u8
@@ -1084,8 +1085,11 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+日职赛事直播,http://yc.myds.me:35455/douyin/775840082634
 岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
 Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
+体育解说学洋,http://yc.myds.me:35455/douyin/749976602432
+领航体育,http://yc.myds.me:35455/douyin/169798189223
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1099,6 +1103,31 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
 制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
+星火体育,https://live.douyin.com/883694549914
+康旭体育,https://live.douyin.com/290734591289
+木兰聊球,https://live.douyin.com/690988125528
+呈扬体育,https://live.douyin.com/493676682366
+球运,https://live.douyin.com/491646507717
+重庆铜梁龙足球俱乐部,https://live.douyin.com/788804832985
+广西平果足球俱乐部有限公司,https://live.douyin.com/548646496177
+CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
+Racing101,http://yc.myds.me:35455/douyin/899874051394
+篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171
+天哥说欧篮,http://yc.myds.me:35455/douyin/29685298705
+篮球解说波教授,http://yc.myds.me:35455/douyin/606084892347
+篮球金牌解说员安迪,http://yc.myds.me:35455/douyin/824588605436
+篮球解说员雅坤,http://yc.myds.me:35455/douyin/451212587065
+九儿篮球小球迷吖,http://yc.myds.me:35455/douyin/113059231202
+羽球小菜鸟,http://yc.myds.me:35455/douyin/159220004411
+福州Relis释感网球,http://yc.myds.me:35455/douyin/934472419640
+夏甜千阳羽毛球,http://yc.myds.me:35455/douyin/611338450713
+抖音体育,http://yc.myds.me:35455/douyin/douyintiyu
+新爱体育,http://yc.myds.me:35455/douyin/179260431297
+毛毛还活着网球1台,http://yc.myds.me:35455/douyin/998234067672
+毛毛还活着网球2台,http://yc.myds.me:35455/douyin/maomaotennis
+哔哩哔哩足球赛事,http://yc.myds.me:35455/bilibili/22
+泡泡足球赛事,http://yc.myds.me:35455/bilibili/31472857
+青川斯诺克网球,http://yc.myds.me:35455/huya/29578698
 CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171
@@ -1212,8 +1241,11 @@ CCTV风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
 雷速体育直播,http://yc.myds.me:35455/douyin/143494471554
 K球赛事,http://yc.myds.me:35455/douyin/612770335133
 Kball日职专家,http://yc.myds.me:35455/douyin/654257067635
+日职赛事直播,http://yc.myds.me:35455/douyin/775840082634
 岬太郎解说,http://yc.myds.me:35455/douyin/569179191400
 Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
+体育解说学洋,http://yc.myds.me:35455/douyin/749976602432
+领航体育,http://yc.myds.me:35455/douyin/169798189223
 欧罗竞技,http://yc.myds.me:35455/douyin/553387395867
 特格运体育,http://yc.myds.me:35455/douyin/830602443320
 泰山说球,http://yc.myds.me:35455/douyin/673267732323
@@ -1227,6 +1259,13 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 财运体育,http://yc.myds.me:35455/douyin/54500892600
 罗汉体育,http://yc.myds.me:35455/douyin/653477386517
 制躁Bleachers Culture,http://yc.myds.me:35455/douyin/790322097563
+星火体育,https://live.douyin.com/883694549914
+康旭体育,https://live.douyin.com/290734591289
+木兰聊球,https://live.douyin.com/690988125528
+呈扬体育,https://live.douyin.com/493676682366
+球运,https://live.douyin.com/491646507717
+重庆铜梁龙足球俱乐部,https://live.douyin.com/788804832985
+广西平果足球俱乐部有限公司,https://live.douyin.com/548646496177
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV-14,rtsp://27.148.240.181/PLTV/88888888/224/3221226965/10000100000000060000000001740937_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Et6htxNPPBH0tFdl_hYIyRw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769287%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2

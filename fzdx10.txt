@@ -1118,6 +1118,8 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 刀哥体育2,http://yc.myds.me:35455/douyin/328578155512
 C-罗纳尔多,http://yc.myds.me:35455/douyin/800920813647
 吴钩足球,http://yc.myds.me:35455/douyin/359217208833
+高校足球圈,http://yc.myds.me:35455/douyin/2197214074
+四川省足球协会,http://yc.myds.me:35455/douyin/461013140285
 CBSA世界斯诺克学院,http://yc.myds.me:35455/douyin/986256746380
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 篮球解说泽北,http://yc.myds.me:35455/douyin/785740265171
@@ -1282,6 +1284,8 @@ Liv前锋直播号,http://yc.myds.me:35455/douyin/602856781193
 刀哥体育2,http://yc.myds.me:35455/douyin/328578155512
 C-罗纳尔多,http://yc.myds.me:35455/douyin/800920813647
 吴钩足球,http://yc.myds.me:35455/douyin/359217208833
+高校足球圈,http://yc.myds.me:35455/douyin/2197214074
+四川省足球协会,http://yc.myds.me:35455/douyin/461013140285
 电信少儿,#genre#
 CCTV-14,rtsp://27.148.237.40:554/live/ch17092208120898287250.sdp?playtype=1&FccMediaIP=239.61.2.178&FccMediaPort=9056&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch17092208120898287250&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldRVAIhHAIfaPpNLKa2Le%2FEN17JmPxuyH9STugWr0Dp2f6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
 CCTV-14,rtsp://27.148.240.181/PLTV/88888888/224/3221226965/10000100000000060000000001740937_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Et6htxNPPBH0tFdl_hYIyRw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769287%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2

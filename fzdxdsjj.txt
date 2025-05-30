@@ -1063,7 +1063,7 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8#http://115.46.95.194:8181/tsfile/live/1116_1.m3u8?ace#http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.98:5146
 天元围棋,http://iptvcyp.top:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 #http://120.10.101.13:4000/rtp/239.253.93.211:6389#http://106.116.3.207:8890/rtp/239.254.201.156:6270#http://118.249.21.194:9999/udp/239.93.42.55:5140#http://118.249.21.194:9999/udp/239.93.42.55:5140#http://218.86.153.64:9007/rtp/238.255.2.7:5999#http://27.184.67.55:1024/rtp/239.254.201.156:6270
-足球频道,http://118.249.21.194:9999/udp/239.93.0.197:9040
+足球频道,http://yc.myds.me:35455/douyin/834359475848#http://118.249.21.194:9999/udp/239.93.0.197:9040
 四川熊猫体娱高清,http://118.249.21.194:9999/udp/239.93.0.94:5140
 天津体育,http://live2.wisetv.com.cn/TJIPTV/TJTYHD2/playlist.m3u8?wsSecret=c830b7124f6cc28e44fca336a92fda37&wsTime=680e7824&GUID=a78433230d127c51bf39109542097657&wsHlsSession=f4a95f6f104826e9cde6da0874559bbf#http://218.68.55.35:8888/udp/225.1.1.122:5002
 辽宁体育,http://sh.lnott.top:880/dx22.m3u8#http://175.148.29.98:9902/tsfile/live/1003_1.m3u8#http://120.76.248.139/live/bfgd/4200000611.m3u8#http://59.44.102.18:8888/newlive/live/hls/48/live.m3u8#http://xyt.186738613.xyz/lngd.php?id=611&Cf.m3u8
@@ -1081,6 +1081,7 @@ CCTV台球,http://114.55.117.163:8085/ysp/cctv-yangshitaiqiu#http://106.116.3.20
 全民乒乓,http://tvbox6.icu/tv/migu.php?id=qmpp
 赛事最经典,http://tvbox6.icu/tv/migu.php?id=sszjd
 体坛名栏汇,http://tvbox6.icu/tv/migu.php?id=ttmlh
+足球频道,http://yc.myds.me:35455/douyin/834359475848#http://118.249.21.194:9999/udp/239.93.0.197:9040
 足球中国,http://yc.myds.me:35455/douyin/643724411342
 中冠联赛,http://yc.myds.me:35455/douyin/176294480576
 球客岛-足球,http://yc.myds.me:35455/douyin/259722868383

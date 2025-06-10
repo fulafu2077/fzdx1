@@ -9,78 +9,116 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 20231230莆田泉州,https://v.cdnlz13.com/20240102/22317_6503f28e/2000k/hls/mixed.m3u8
 20250413福州南平,https://v.cdnlz21.com/20250414/8540_442e131d/2000k/hls/mixed.m3u8
 2025贺岁档电影,#genre#
-哪吒之魔童闹海,https://play.hhuus.com/play/Qe1XkYZd/index.m3u8#https://play.xluuss.com/play/QbY1DQAb/index.m3u8#https://142.0.141.220:11301/data7/jvods/hls/dhz/49/48395/25021121/1_258208_1477342/1920/index.m3u8?appId=ncat&sign=0c24810da83c9ab3612684e5be68cf2d&timestamp=1739560143&ref=2#https://vip.ffzy-online1.com/20250201/55690_3766107c/2000k/hls/mixed.m3u8
-唐探1900,https://vip.ffzy-video.com/20250430/17125_a4ad68f6/2000k/hls/mixed.m3u8#https://svip.high21-playback.com/20250430/42755_cc803404/2000k/hls/mixed.m3u8#https://p.bvvvvvvv7f.com/video/tangtan1900/HD/index.m3u8#https://v.lzcdn25.com/20250430/422_9c65e42c/2000k/hls/mixed.m3u8#https://play.hhuus.com/play/xboMkyKe/index.m3u8
-封神第二部战火西岐,https://svip.high21-playback.com/20250130/41323_559eaec3/2000k/hls/mixed.m3u8#https://c1.7bbffvip.com/video/fengshendierbuzhanhuoxiqi/TC/index.m3u8#https://v.cdnlz12.com/20250131/18179_84f57a5f/2000k/hls/mixed.m3u8#https://play.hhuus.com/play/zbqKDD0e/index.m3u8
-射雕英雄传侠之大者,https://svip.high21-playback.com/20250411/42510_e89ef5ea/2000k/hls/mixed.m3u8#https://play.hhuus.com/play/zbqOxr7e/index.m3u8
-蛟龙行动,https://play.hhuus.com/play/wdLK0wwb/index.m3u8#https://vip.ffzy-online1.com/20250203/55695_b30475d2/2000k/hls/mixed.m3u8#https://c1.7bbffvip.com/video/jiaolongxingdong/TC/index.m3u8#https://137.175.4.229:11301/data6/jvods/hls/dhz/49/48773/25020112/1_258559_1488842/1280/index.m3u8?appId=ncat&sign=57255425b42684ef26d5be4cb5806fbb&timestamp=1739560513&ref=2
-熊出没·重启未来,https://vip.ffzy-video.com/20250501/17278_3fc766ee/2000k/hls/mixed.m3u8#https://svip.high21-playback.com/20250501/42771_bf437e78/2000k/hls/mixed.m3u8#https://p.bvvvvvvv7f.com/video/xiongchumeizhongqiweilai/HD/index.m3u8
+哪吒之魔童闹海,https://play.xluuss.com/play/QbY1DQAb/index.m3u8
+唐探1900,https://play.hhuus.com/play/xboMkyKe/index.m3u8
+封神第二部战火西岐,https://play.hhuus.com/play/zbqKDD0e/index.m3u8
+射雕英雄传侠之大者,https://play.hhuus.com/play/zbqOxr7e/index.m3u8
+蛟龙行动,https://play.hhuus.com/play/wdLK0wwb/index.m3u8
+熊出没·重启未来,https://play.hhuus.com/play/zbqOnrke/index.m3u8
 热门电影,#genre#
+雄狮少年2,https://play.hhuus.com/play/Qe12YN0a/index.m3u8
 椒麻堂会,https://vip.ffzy-online5.com/20230119/6485_c718dbb8/3000k/hls/mixed.m3u8#https://yzzy.play-cdn12.com/20230117/14866_abd9cbe0/2000k/hls/mixed.m3u8#https://s3.bfzycdn.com/video/jiaomatanghui/HD%E4%B8%AD%E5%AD%97/index.m3u8#https://vip.lz-cdn3.com/20230118/17235_fb563e6e/1800k/hls/mixed.m3u8
-椒麻堂会川语,https://s6.bfzycdn.com/video/jiaomatanghui/%E5%9B%9B%E5%B7%9D%E8%AF%9D/index.m3u8
-焚城国语,https://svip.high21-playback.com/20250328/42265_36729793/2000k/hls/mixed.m3u8#https://vv.jisuzyv.com/play/nelZw66b/index.m3u8#https://play.hhuus.com/play/mbkYvMXe/index.m3u8
-焚城粤语,https://svip.high21-playback.com/20250328/42264_d7748bf4/2000k/hls/mixed.m3u8#https://vv.jisuzyv.com/play/yb8GZYoa/index.m3u8#https://play.hhuus.com/play/xe7EZJAb/index.m3u8
-破·地狱国语,https://142.4.126.58:11305/data4/jvods/hls/dhz/48/47102/25040312/1_256863_1439056/1920/index.m3u8?appId=ncat&sign=6573af3a65a03219867550d1a84cd6e6&timestamp=1744652446&ref=2#https://vip.ffzy-video.com/20250403/15219_09b35ad9/2000k/hls/mixed.m3u8#https://svip.high21-playback.com/20250403/42383_83de8995/2000k/hls/mixed.m3u8#https://p.bvvvvvvvvv1f.com/video/replace0001/20250403ZPRNN0zEindex.m3u8/index.m3u8
-美国队长4,https://svip.high21-playback.com/20250307/41863_8b5411c5/2000k/hls/mixed.m3u8#https://p.bvvvvvvv7f.com/video/meiguoduichang4/HD/index.m3u8#https://vv.jisuzyv.com/play/penEnP7d/index.m3u8#https://play.hhuus.com/play/vbmDlPGa/index.m3u8#https://v.lzcdn25.com/20250415/342_ade74d4a/2000k/hls/mixed.m3u8#https://play.xluuss.com/play/mbkA9P6e/index.m3u8
-首尔之春,https://107.149.229.165:11306/data5/jvods/hls/dhz/4/3827/2412113/1_219152_11316/1920/index.m3u8?appId=ncat&sign=177159efa2387af447346d7d07a91fc0&timestamp=1744653721&ref=2#https://yzzy.play-cdn19.com/20240223/20510_ec8b0e30/2000k/hls/mixed.m3u8#https://s5.bfbfvip.com/video/shouerzhichun/HD/index.m3u8#https://s5.bfbfvip.com/video/shouerzhichun/%E4%B8%AD%E5%AD%97/index.m3u8#https://v.cdnlz3.com/20240208/22987_3eb008f2/2000k/hls/mixed.m3u8#https://hn.bfvvs.com/play/Ddwzkv1b/index.m3u8
-小小的我,https://vip.ffzy-video.com/20250126/11157_89f69258/2000k/hls/mixed.m3u8#https://svip.high21-playback.com/20250126/41260_8b97e656/2000k/hls/mixed.m3u8#https://play.hhuus.com/play/mbkA7zxe/index.m3u8
-好东西,https://vip.ffzy-video.com/20250117/10563_1f2b8183/2000k/hls/mixed.m3u8#https://svip.high21-playback.com/20250117/41112_a873ccf7/2000k/hls/mixed.m3u8#https://c1.7bbffvip.com/video/haodongxi/HD/index.m3u8
+椒麻堂会川语,https://vip.lz-cdn3.com/20230118/17235_fb563e6e/1800k/hls/mixed.m3u8#https://s6.bfzycdn.com/video/jiaomatanghui/%E5%9B%9B%E5%B7%9D%E8%AF%9D/index.m3u8
+焚城国语,https://play.hhuus.com/play/mbkYvMXe/index.m3u8
+焚城粤语,https://play.hhuus.com/play/xe7EZJAb/index.m3u8
+破·地狱国语,https://p.bvvvvvvv7f.com/video/podiyu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+破·地狱粤语,https://p.bvvvvvvv7f.com/video/podiyu/HD%E7%B2%A4%E8%AF%AD/index.m3u8
+美国队长4,https://p.bvvvvvvv7f.com/video/meiguoduichang4/HD/index.m3u8#https://play.hhuus.com/play/vbmDlPGa/index.m3u8#https://play.xluuss.com/play/mbkA9P6e/index.m3u8
+首尔之春,https://s5.bfbfvip.com/video/shouerzhichun/HD/index.m3u8#https://hn.bfvvs.com/play/Ddwzkv1b/index.m3u8
+小小的我,https://play.hhuus.com/play/mbkA7zxe/index.m3u8
+好东西,https://play.hhuus.com/play/7e5O6pqb/index.m3u8
 电信春晚,#genre#
 2025央视春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8#https://c1.7bbffvip.com/video/2025nianyangshichunjielianhuanwanhui/HD/index.m3u8#https://svipsvip.ffzyread1.com/20250129/35458_c988286f/2000k/hls/mixed.m3u8#https://v3.qrssv.com/202501/29/ijXegB5tC823/video/2000k_1080/hls/index.m3u8#https://142.4.110.92:11301/data4/jvods/hls/dhz/53/52332/25012917/4_264042_1616702/1920/index.m3u8?appId=ncat&sign=eb70a9ad7d266f6be7ced3071f1bfd89&timestamp=1739731007&ref=2
 2025央视元宵,https://svip.high25-playback.com/20250213/19575_268b40e1/2000k/hls/mixed.m3u8#https://svipsvip.ffzyread1.com/20250213/35772_fedb9b30/2000k/hls/mixed.m3u8#https://c1.7bbffvip.com/video/zhongyangguangbodianshizongtai2025nianyuanxiaowanhui/HD/index.m3u8#https://play.hhuus.com/play/Le3ZmLAd/index.m3u8#https://play.xluuss.com/play/Qe1XkJZd/index.m3u8#https://hn.bfvvs.com/play/QbY1D3Ab/index.m3u8#https://137.175.4.163:11301/data5/jvods/hls/dhz/54/53669/2502150/4_265614_1657541/1920/index.m3u8?appId=ncat&sign=04d264cc9342d73c79b0bc840dd9c998&timestamp=1739731205&ref=2
 2025央视网络春晚,https://svip.yyzy-play.vip/20250123/21775_ce65c731/2000k/hls/mixed.m3u8#https://play.hhuus.com/play/Pe9kLEzb/index.m3u8#https://play.xluuss.com/play/xe7gWBBe/index.m3u8#https://play.subokk.com/play/xe7gWBBe/index.m3u8#https://hd.ijycnd.com/play/yb8jBDre/index.m3u8
 藏海传,#genre#
-第一集,https://vip.dytt-cinema.com/20250518/22682_9452394c/3000k/hls/mixed.m3u8
-第二集,https://vip.dytt-cinema.com/20250518/22681_3c8beeb8/3000k/hls/mixed.m3u8
-第三集,https://vip.dytt-cinema.com/20250520/22719_09982e07/3000k/hls/mixed.m3u8
-第四集,https://vip.dytt-cinema.com/20250518/22684_a6bb9d92/3000k/hls/mixed.m3u8
-第五集,https://vip.dytt-hot.com/20250519/90443_d58a3651/3000k/hls/mixed.m3u8
-第六集,https://vip.dytt-cinema.com/20250523/23066_dfadb395/3000k/hls/mixed.m3u8
-第七集,https://vip.dytt-cinema.com/20250520/22761_d264b72c/3000k/hls/mixed.m3u8
-第八集,https://vip.dytt-cinema.com/20250520/22763_3a9fa622/3000k/hls/mixed.m3u8
-第九集,https://vip.dytt-hot.com/20250521/90662_e8e07f56/3000k/hls/mixed.m3u8
-第十集,https://vip.dytt-cinema.com/20250521/22840_89cbd37a/3000k/hls/mixed.m3u8
-第十一集,https://vip.dytt-hot.com/20250522/90775_5348528d/3000k/hls/mixed.m3u8
-第十二集,https://vip.dytt-hot.com/20250522/90787_7c8a5b69/3000k/hls/mixed.m3u8
-第十三集,https://vip.dytt-cinema.com/20250523/23122_30d0da31/3000k/hls/mixed.m3u8
-第十四集,https://vip.dytt-cinema.com/20250523/23123_860b4326/3000k/hls/mixed.m3u8
-第十五集,https://vip.dytt-cinema.com/20250524/23213_549ce24f/3000k/hls/mixed.m3u8
-第十六集,https://vip.dytt-cinema.com/20250524/23212_6b04380b/3000k/hls/mixed.m3u8
-第十七集,https://vip.dytt-hot.com/20250525/91129_2299a3e5/3000k/hls/mixed.m3u8
-第十八集,https://vip.dytt-hot.com/20250525/91130_7518a034/3000k/hls/mixed.m3u8
-第十九集,https://vip.dytt-hot.com/20250526/91250_3d311fc1/3000k/hls/mixed.m3u8
-第二十集,https://vip.dytt-hot.com/20250526/91258_85eb892f/3000k/hls/mixed.m3u8
-第二十一集,https://vip.dytt-hot.com/20250527/91393_6904b424/3000k/hls/mixed.m3u8
-第二十二集,https://vip.dytt-hot.com/20250527/91392_67108474/3000k/hls/mixed.m3u8
-第二十三集,https://vip.dytt-cinema.com/20250528/23367_04a818cf/3000k/hls/mixed.m3u8
-第二十四集,https://vip.dytt-cinema.com/20250528/23368_d660eec0/3000k/hls/mixed.m3u8
-第二十五集,https://vip.dytt-cinema.com/20250529/23443_f92f6317/3000k/hls/mixed.m3u8
-第二十六集,https://vip.dytt-cinema.com/20250529/23444_24655175/3000k/hls/mixed.m3u8
-第二十七集,https://vip.dytt-hot.com/20250530/91769_0a6ba201/3000k/hls/mixed.m3u8
-第二十八集,https://vip.dytt-hot.com/20250530/91770_452203dd/3000k/hls/mixed.m3u8
-第二十九集,https://vip.dytt-cinema.com/20250531/23600_bea3c20e/3000k/hls/mixed.m3u8
-第三十集,https://vip.dytt-cinema.com/20250531/23601_b96f5400/3000k/hls/mixed.m3u8
-第三十一集,https://vip.dytt-cinema.com/20250601/23663_991b499b/3000k/hls/mixed.m3u8
-第三十二集,https://vip.dytt-cinema.com/20250601/23664_ab59511d/3000k/hls/mixed.m3u8
-第三十三集,https://vip.dytt-cinema.com/20250602/23750_e4ad3061/3000k/hls/mixed.m3u8
-第三十四集,https://vip.dytt-cinema.com/20250602/23751_8b48e303/3000k/hls/mixed.m3u8
-第三十五集,https://vip.dytt-hot.com/20250603/92211_a38ed22e/3000k/hls/mixed.m3u8
-第三十六集,https://vip.dytt-cinema.com/20250603/23809_bc59e38b/3000k/hls/mixed.m3u8
-第三十七集,https://vip.dytt-cinema.com/20250603/23810_63168d42/3000k/hls/mixed.m3u8
-第三十八集,https://vip.dytt-cinema.com/20250603/23812_b68bcc00/3000k/hls/mixed.m3u8
-第三十九集,https://vip.dytt-cinema.com/20250603/23813_b5577aba/3000k/hls/mixed.m3u8
-第四十集,https://vip.dytt-cinema.com/20250603/23815_e84ac9a0/3000k/hls/mixed.m3u8
+第一集,https://play.hhuus.com/play/QdJOVYve/index.m3u8
+第二集,https://play.hhuus.com/play/kaz12BOe/index.m3u8
+第三集,https://play.hhuus.com/play/QbYjkVWd/index.m3u8
+第四集,https://play.hhuus.com/play/ZdP02M2d/index.m3u8
+第五集,https://play.hhuus.com/play/kaz12VZe/index.m3u8
+第六集,https://play.hhuus.com/play/QdJOVGJe/index.m3u8
+第七集,https://play.hhuus.com/play/oeEJrwka/index.m3u8
+第八集,https://play.hhuus.com/play/1aKPKPlb/index.m3u8
+第九集,https://play.hhuus.com/play/Pdy0lB6b/index.m3u8
+第十集,https://play.hhuus.com/play/RdGDnJKe/index.m3u8
+第十一集,https://play.hhuus.com/play/YerJkX4e/index.m3u8
+第十二集,https://play.hhuus.com/play/1aK0rmMb/index.m3u8
+第十三集,https://play.hhuus.com/play/YerJ0XLe/index.m3u8
+第十四集,https://play.hhuus.com/play/nelzOD1b/index.m3u8
+第十五集,https://play.hhuus.com/play/BeX1oRga/index.m3u8
+第十六集,https://play.hhuus.com/play/Xe01VPLa/index.m3u8
+第十七集,https://play.hhuus.com/play/Rb45Q46d/index.m3u8
+第十八集,https://play.hhuus.com/play/DbDz1Pne/index.m3u8
+第十九集,https://play.hhuus.com/play/9b6gXkQd/index.m3u8
+第二十集,https://play.hhuus.com/play/lejxZyzb/index.m3u8
+第二十一集,https://play.hhuus.com/play/YerJ212e/index.m3u8
+第二十二集,https://play.hhuus.com/play/nelzRwjb/index.m3u8
+第二十三集,https://play.hhuus.com/play/lejx0MPb/index.m3u8
+第二十四集,https://play.hhuus.com/play/lejx0Mlb/index.m3u8
+第二十五集,https://play.hhuus.com/play/Xe01LL7a/index.m3u8
+第二十六集,https://play.hhuus.com/play/Rb45LL2d/index.m3u8
+第二十七集,https://play.hhuus.com/play/Pe9l28Dd/index.m3u8
+第二十八集,https://play.hhuus.com/play/negrkZGd/index.m3u8
+第二十九集,https://play.hhuus.com/play/zbqGVZ7e/index.m3u8
+第三十集,https://play.hhuus.com/play/mbkywrJe/index.m3u8
+第三十一集,https://play.hhuus.com/play/QdJJYLod/index.m3u8
+第三十二集,https://play.hhuus.com/play/wdLLYLwd/index.m3u8
+第三十三集,https://play.hhuus.com/play/6dBx1mJa/index.m3u8
+第三十四集,https://play.hhuus.com/play/zbqGAk3e/index.m3u8
+第三十五集,https://play.hhuus.com/play/PdRR51Ld/index.m3u8
+第三十六集,https://play.hhuus.com/play/kazRxn7a/index.m3u8
+第三十七集,https://play.hhuus.com/play/QbY2lXYd/index.m3u8
+第三十八集,https://play.hhuus.com/play/oeEA6Xle/index.m3u8
+第三十九集,https://play.hhuus.com/play/0dNN5K8d/index.m3u8
+第四十集,https://play.hhuus.com/play/negrQXjd/index.m3u8
+长安的荔枝,#genre#
+第一集,https://play.hhuus.com/play/Le34VRra/index.m3u8
+第二集,https://play.hhuus.com/play/mbkyXove/index.m3u8
+第三集,https://play.hhuus.com/play/zbqGL2ye/index.m3u8
+第四集,https://play.hhuus.com/play/6dBx9noa/index.m3u8
+第五集,https://play.hhuus.com/play/oeEAWzge/index.m3u8
+第六集,https://play.hhuus.com/play/wdLLWXAd/index.m3u8
+第七集,https://play.hhuus.com/play/zbqG88ye/index.m3u8
+第八集,https://play.hhuus.com/play/mbkyMNNe/index.m3u8
+第九集,https://play.hhuus.com/play/ZdPPKZ1d/index.m3u8
+第十集,https://play.hhuus.com/play/xboDnQ3d/index.m3u8
+第十一集,
+第十二集,
+第十三集,
+第十四集,
+第十五集,
+第十六集,
+第十七集,
+第十八集,
+第十九集,
+第二十集,
+第二十一集,
+第二十二集,
+第二十三集,
+第二十四集,
+第二十五集,
+第二十六集,
+第二十七集,
+第二十八集,
+第二十九集,
+第三十集,
+第三十一集,
+第三十二集,
+第三十三集,
+第三十四集,
+第三十五集,
 电信央视,#genre#
 CCTV-1 综合,rtsp://27.148.240.181/PLTV/88888888/224/3221227241/72237896.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E-URhBZerC1gKSoaA5zOz0Q%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV72237895%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227263/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23232_1.m3u8#http://27.148.240.138/PLTV/88888888/224/3221226773/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EoZ-ICuHW6yqOfZGPqMmekg%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F111128%40BESTV.SMG.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA
 CCTV-2 财经,rtsp://27.148.240.181/PLTV/88888888/224/3221226975/10000100000000060000000001740938_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EADg997SlmEiaVj9KmjGXvg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769288%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227321/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23233_1.m3u8#rtsp://27.148.236.129:554/live/ch17092208064869858322.sdp?FccMediaIP=239.61.2.174&FccMediaPort=9032&vcdnid=001&mediaid=ch17092208064869858322&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeuVNSmW%2FuLInEI%2B506xatIjpx2DLyv397eUrqBoM35ZL0d8RtgP2DayASZlOpMLMaA%3D%3D                
 CCTV-3 综艺,rtsp://27.148.240.181/PLTV/88888888/224/3221227131/55974538.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E4Yu-TN7kCyx2Hs9pted6ag%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV55974537%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227317/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23234_1.m3u8#rtsp://27.148.236.129:554/live/ch20122816275150505818.sdp?FccMediaIP=239.61.3.34&FccMediaPort=9722&vcdnid=001&mediaid=ch20122816275150505818&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepZ632H%2FNTmJ6DpAwcDRqgZ8OEJs%2B%2BdAg%2F%2BIsd8wblPj0d8RtgP2DayASZlOpMLMaA%3D%3D
 CCTV-4 中文国际,rtsp://27.148.240.181/PLTV/88888888/224/3221226967/10000100000000060000000001740931_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EWm51wB05EIc-Hn-RdY3oog%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769281%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227331/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23235_1.m3u8#rtsp://27.148.236.129:554/live/ch17081011542536199690.sdp?FccMediaIP=239.61.2.206&FccMediaPort=9224&vcdnid=001&mediaid=ch17081011542536199690&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepDWrvzQNAf5hZYyvfscyt9uftcKpgmZg8FMEkpHUvo90d8RtgP2DayASZlOpMLMaA%3D%3D
-CCTV-4 中文国际欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o#https://tvpull.careryun.com/tv/cctv4o.m3u8#http://kxrj.site:12581/665/mg9.php?id=cctv4o
+CCTV-4 中文国际欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o#https://tvpull.careryun.com/live/903111606b4cc63776fa6cc132725d53.m3u8?txSecret=70b7e8bc0c6adf58c897dc4d881e055f&txTime=68487911#https://tvpull.careryun.com/tv/cctv4o.m3u8#http://kxrj.site:12581/665/mg9.php?id=cctv4o
 CCTV-4 中文国际欧洲,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
 CCTV-4 中文国际欧洲,http://27.16.160.149:3520/rtp/239.69.1.231:11028#http://27.16.160.149:3520/rtp/239.69.1.231:11028#http://118.249.21.194:9999/udp/239.76.253.95:9000#http://118.249.21.194:9999/udp/239.76.246.95:1234#http://111.193.234.151:9999/rtp/239.3.1.213:4220#http://218.86.153.64:9007/rtp/238.255.2.213:5999#http://106.116.3.207:8890/rtp/239.254.201.205:4220
 CCTV-4 中文国际欧洲,http://117.72.68.25:9930/migu.php?id=cctv4o#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=
 CCTV-4 中文国际欧洲,http://kxrj.site:998/123/mg.php?id=cctv4o#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?&encrypt=
-CCTV-4 中文国际美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a#https://tvpull.careryun.com/tv/cctv4m.m3u8#http://kxrj.site:12581/665/mg9.php?id=cctv4a#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
+CCTV-4 中文国际美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a#https://tvpull.careryun.com/live/7c1802f464444c79df44fe28863057db.m3u8?txSecret=17244f79e95ae75f8e1c8adbc2a4a2a7&txTime=68487911#http://kxrj.site:12581/665/mg9.php?id=cctv4a#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
 CCTV-4 中文国际美洲,http://27.16.160.149:3520/rtp/239.69.1.232:11034#http://27.16.160.149:3520/rtp/239.69.1.232:11034#http://118.249.21.194:9999/udp/239.76.253.96:9000#http://118.249.21.194:9999/udp/239.76.246.96:1234#http://111.193.234.151:9999/rtp/239.3.1.214:4220#http://218.86.153.64:9007/rtp/238.255.2.214:5999#http://106.116.3.207:8890/rtp/239.254.201.206:4220
 CCTV-4 中文国际美洲,http://117.72.68.25:9930/migu.php?id=cctv4a#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=
 CCTV-4 中文国际美洲,http://kxrj.site:998/123/mg.php?id=cctv4a#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/50/index.m3u8?&encrypt=
@@ -1034,11 +1072,11 @@ QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 CCTV-1 综合,rtsp://27.148.240.181/PLTV/88888888/224/3221227241/72237896.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E-URhBZerC1gKSoaA5zOz0Q%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV72237895%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227263/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23232_1.m3u8#http://27.148.240.138/PLTV/88888888/224/3221226773/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EoZ-ICuHW6yqOfZGPqMmekg%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F111128%40BESTV.SMG.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA
 CCTV-3 综艺,rtsp://27.148.240.181/PLTV/88888888/224/3221227131/55974538.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7E4Yu-TN7kCyx2Hs9pted6ag%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV55974537%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227317/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23234_1.m3u8#rtsp://27.148.236.129:554/live/ch20122816275150505818.sdp?FccMediaIP=239.61.3.34&FccMediaPort=9722&vcdnid=001&mediaid=ch20122816275150505818&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepZ632H%2FNTmJ6DpAwcDRqgZ8OEJs%2B%2BdAg%2F%2BIsd8wblPj0d8RtgP2DayASZlOpMLMaA%3D%3D
 CCTV-4 中文国际,rtsp://27.148.240.181/PLTV/88888888/224/3221226967/10000100000000060000000001740931_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EWm51wB05EIc-Hn-RdY3oog%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769281%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227331/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23235_1.m3u8#rtsp://27.148.236.129:554/live/ch17081011542536199690.sdp?FccMediaIP=239.61.2.206&FccMediaPort=9224&vcdnid=001&mediaid=ch17081011542536199690&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepDWrvzQNAf5hZYyvfscyt9uftcKpgmZg8FMEkpHUvo90d8RtgP2DayASZlOpMLMaA%3D%3D
-CCTV-4 中文国际欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
+CCTV-4 中文国际欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o#https://tvpull.careryun.com/live/903111606b4cc63776fa6cc132725d53.m3u8?txSecret=70b7e8bc0c6adf58c897dc4d881e055f&txTime=68487911#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
 CCTV-4 中文国际欧洲,http://27.16.160.149:3520/rtp/239.69.1.231:11028#http://27.16.160.149:3520/rtp/239.69.1.231:11028#http://118.249.21.194:9999/udp/239.76.253.95:9000#http://118.249.21.194:9999/udp/239.76.246.95:1234#http://111.193.234.151:9999/rtp/239.3.1.213:4220#http://218.86.153.64:9007/rtp/238.255.2.213:5999#http://106.116.3.207:8890/rtp/239.254.201.205:4220
 CCTV-4 中文国际欧洲,http://117.72.68.25:9930/migu.php?id=cctv4o#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=
 CCTV-4 中文国际欧洲,http://kxrj.site:998/123/mg.php?id=cctv4o#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?&encrypt=
-CCTV-4 中文国际美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a#http://108.181.20.197/livehttpplay?channel_id=10128
+CCTV-4 中文国际美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a#https://tvpull.careryun.com/live/7c1802f464444c79df44fe28863057db.m3u8?txSecret=17244f79e95ae75f8e1c8adbc2a4a2a7&txTime=68487911#http://108.181.20.197/livehttpplay?channel_id=10128
 #http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.253.43.120:5146
 CCTV-4 中文国际美洲,http://27.16.160.149:3520/rtp/239.69.1.232:11034#http://27.16.160.149:3520/rtp/239.69.1.232:11034#http://118.249.21.194:9999/udp/239.76.253.96:9000#http://118.249.21.194:9999/udp/239.76.246.96:1234#http://111.193.234.151:9999/rtp/239.3.1.214:4220#http://218.86.153.64:9007/rtp/238.255.2.214:5999#http://106.116.3.207:8890/rtp/239.254.201.206:4220
 CCTV-4 中文国际美洲,http://117.72.68.25:9930/migu.php?id=cctv4a#http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=

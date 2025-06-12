@@ -83,10 +83,10 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第八集,https://play.hhuus.com/play/mbkyMNNe/index.m3u8
 第九集,https://play.hhuus.com/play/ZdPPKZ1d/index.m3u8
 第十集,https://play.hhuus.com/play/xboDnQ3d/index.m3u8
-第十一集,
-第十二集,
-第十三集,
-第十四集,
+第十一集,https://play.hhuus.com/play/6dBxXWXa/index.m3u8
+第十二集,https://play.hhuus.com/play/wdLL1qwd/index.m3u8
+第十三集,https://play.hhuus.com/play/kazRAQYa/index.m3u8
+第十四集,https://play.hhuus.com/play/zbqGop3e/index.m3u8
 第十五集,
 第十六集,
 第十七集,
@@ -416,6 +416,7 @@ EZTV歐洲華文電視 福建頻道,http://oh.eztv.vip/live/eztv2.m3u8
 凤凰香港,http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0#http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8#http://117.114.153.18:8182/hls/TV00000000000000000072@HHZT.m3u8#http://117.114.153.18:8180/TV00000000000000000072@HHZT#http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 凤凰电影,http://106.116.3.207:8890/rtp/239.254.201.1:5214#http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
+凤凰卫视抖音台,http://yc.myds.me:35455/douyin/344107438187
 凤凰网直播,http://yc.myds.me:35455/douyin/40184312758
 凤凰周刊直播,http://yc.myds.me:35455/douyin/145846751101
 星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111#http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://cdnps.shangea.top:40001/udp/239.93.0.156:2193#http://cdnps.shangea.top:40001/udp/239.93.1.10:2193
@@ -1914,6 +1915,7 @@ IM智己汽车,http://yc.myds.me:35455/douyin/718517449222
 长城魏牌,http://yc.myds.me:35455/douyin/648819501004
 长城魏牌汽车直播中心,http://yc.myds.me:35455/douyin/20579591473
 长城哈弗SUV甄选,http://yc.myds.me:35455/douyin/879249309242
+长城欧拉ORA,http://yc.myds.me:35455/douyin/246846309790
 北京现代官方直播间,http://yc.myds.me:35455/douyin/210938901804
 北京朝阳现代捷尼赛思中心,http://yc.myds.me:35455/douyin/610734192825
 广汽埃安,http://yc.myds.me:35455/douyin/111423173878
@@ -1986,6 +1988,7 @@ GINX电竞,https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv053
 英雄联盟LPL赛事,http://yc.myds.me:35455/douyu/288016
 英雄联盟LPL赛事,http://yc.myds.me:35455/huya/660000
 英雄联盟LPL赛事,http://yc.myds.me:35455/bilibili/6
+英雄联盟抖音直播间,http://yc.myds.me:35455/douyin/913226472246
 斗鱼王者荣耀KPL赛事,http://yc.myds.me:35455/douyu/1863767#http://yc.myds.me:35455/douyu/998
 王者荣耀KPL赛事,http://yc.myds.me:35455/bilibili/55
 王者荣耀KPL赛事,http://yc.myds.me:35455/huya/660002

@@ -5,6 +5,30 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 枫仔MapleLeaf地震观察,http://yc.myds.me:35455/bilibili/31577848
 棕石瑛地震直播号,http://yc.myds.me:35455/douyin/426417291002
 神兵天气-地震监测与速报,http://yc.myds.me:35455/bilibili/4612090
+抖音哔哩新闻台,#genre#
+新华社快看,http://yc.myds.me:35455/douyin/832345075447
+新华社快看哔哩,http://yc.myds.me:35455/bilibili/22342243
+新华社电视,http://yc.myds.me:35455/douyin/510228242685
+中新社中国新闻网,http://yc.myds.me:35455/douyin/734352268449#http://yc.myds.me:35455/bilibili/30527224
+央视网,http://yc.myds.me:35455/douyin/870887192950
+央视新闻,http://yc.myds.me:35455/douyin/282773369501
+央视新闻哔哩,http://yc.myds.me:35455/bilibili/21686237
+央视频,http://yc.myds.me:35455/douyin/50828500437
+央视网新闻,http://yc.myds.me:35455/douyin/339638082961
+央视网快看,http://yc.myds.me:35455/douyin/127453393722
+央视一套,http://yc.myds.me:35455/douyin/456815963645
+央视中文国际,http://yc.myds.me:35455/douyin/166806983360
+央视电影频道央影传媒,http://yc.myds.me:35455/douyin/208823316033
+央视军事,http://yc.myds.me:35455/douyin/492155806138
+观察者网,http://yc.myds.me:35455/douyin/49753411059#http://yc.myds.me:35455/bilibili/948391
+澎湃新闻,http://yc.myds.me:35455/douyin/126991649085#http://yc.myds.me:35455/bilibili/22712526
+看看新闻,http://yc.myds.me:35455/douyin/808207714751#http://yc.myds.me:35455/bilibili/18
+凤凰卫视抖音台,http://yc.myds.me:35455/douyin/344107438187
+凤凰卫视哔哩台,http://yc.myds.me:35455/bilibili/26901731
+凤凰网直播,http://yc.myds.me:35455/douyin/40184312758
+凤凰周刊直播,http://yc.myds.me:35455/douyin/145846751101
+凤凰网国际,http://yc.myds.me:35455/douyin/195079153762
+中国蓝新闻,http://yc.myds.me:35455/douyin/944483853805
 央视三餐四季福建篇,#genre#
 20231230莆田泉州,https://v.cdnlz13.com/20240102/22317_6503f28e/2000k/hls/mixed.m3u8
 20250413福州南平,https://v.cdnlz21.com/20250414/8540_442e131d/2000k/hls/mixed.m3u8
@@ -87,8 +111,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第十二集,https://play.hhuus.com/play/wdLL1qwd/index.m3u8
 第十三集,https://play.hhuus.com/play/kazRAQYa/index.m3u8
 第十四集,https://play.hhuus.com/play/zbqGop3e/index.m3u8
-第十五集,
-第十六集,
+第十五集,https://play.hhuus.com/play/QbY2xvOd/index.m3u8
+第十六集,https://play.hhuus.com/play/PdRRnPYd/index.m3u8
 第十七集,
 第十八集,
 第十九集,
@@ -417,8 +441,10 @@ EZTV歐洲華文電視 福建頻道,http://oh.eztv.vip/live/eztv2.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0#http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8#http://117.114.153.18:8182/hls/TV00000000000000000072@HHZT.m3u8#http://117.114.153.18:8180/TV00000000000000000072@HHZT#http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 凤凰电影,http://106.116.3.207:8890/rtp/239.254.201.1:5214#http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
 凤凰卫视抖音台,http://yc.myds.me:35455/douyin/344107438187
+凤凰卫视哔哩台,http://yc.myds.me:35455/bilibili/26901731
 凤凰网直播,http://yc.myds.me:35455/douyin/40184312758
 凤凰周刊直播,http://yc.myds.me:35455/douyin/145846751101
+凤凰网国际,http://yc.myds.me:35455/douyin/195079153762
 星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111#http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://cdnps.shangea.top:40001/udp/239.93.0.156:2193#http://cdnps.shangea.top:40001/udp/239.93.1.10:2193
 星空卫视,http://114.105.171.70:9901/tsfile/live/0117_1.m3u8#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#http://117.114.153.18:8182/hls/TV00000000000000000071@HHZT.m3u8
 星空卫视,http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193#http://php.jdshipin.com:8880/xsj.php?id=star-xing-kong#http://171.108.239.99:8181/tsfile/live/1012_1.m3u8#http://118.249.21.194:9999/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193
@@ -860,12 +886,17 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 美国迈阿密生活,https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/chunklist_w765758129_b1896000.m3u8
 美国迈阿密健康,https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/chunklist_w1883212963_b1896000.m3u8
 美国迈阿密探秘,https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/index.m3u8#https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/chunklist_w838957793.m3u8
+阿联酋阿布扎比电视台,https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+阿联酋迪拜电视台,https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8#https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8#https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
+阿联酋迪拜第一频道,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8#https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8#https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8#https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+阿联酋迪拜阿拉伯语,https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8#https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8#https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b850000.m3u8
 伊朗国际英文台,https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 伊朗PRESS TV,https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 以色列i24 News英文台,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8#https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_1/chunklist.m3u8#https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_2/chunklist.m3u8#https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_3/chunklist.m3u8
 以色列i24 News阿语台,https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8#https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_1/chunklist.m3u8#https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_2/chunklist.m3u8#https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_3/chunklist.m3u8
 以色列i24 News希伯来语台,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_1/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_2/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_3/chunklist.m3u8
 以色列i24 News法语台,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_1/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_2/chunklist.m3u8#https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_3/chunklist.m3u8
+以色列12新闻希伯来语台,https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b#https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/4/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b#https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/3/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b#https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/2/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b#https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b#https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1749919557~acl=%2f*~data=hdntl~hmac=3b3c4ef2b0094e53fc36654e8751718c0778950505cbdd13f6044063ec33db0f/profileManifest.m3u8?_uid=8157ffe0-2aab-4a0f-9e34-32a5b0ca2edf&rK=b2&_did=bcf5f360f345eb45665d11a754103a4e7422f06b
 委内瑞拉TELESUR新闻台,https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8#https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
 古巴视野国际电视台,https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b2532215.m3u8#https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8#https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b596000.m3u8
 乌拉圭VIVO TV,https://stream.vivotv.uy/hls/stream.m3u8
@@ -1542,6 +1573,7 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 长沙政法,http://118.249.21.194:9999/udp/239.76.253.122:9000#http://118.249.21.194:9999/udp/239.76.246.122:1234
 电信上海,#genre#
 24小时上海外滩黄浦江,https://4grauqmt1ghzdrpjtfaauccbpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=419aa87818e36f44a7a0db7d-174892578163001&wsIPSercert=8c8ba8bacc12633e0088377bd852f5b1&wsiphost=local&wsBindIP=1
+看看新闻,http://yc.myds.me:35455/douyin/808207714751#http://yc.myds.me:35455/bilibili/18
 上海东方卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221226969/10000100000000060000000001740939_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EKnBmWSC30v5Ykh7yfef9Ug%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769289%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 上海东方卫视,http://180.154.48.93:4022/udp/239.45.3.146:5140#http://223.10.62.22:8082/udp/239.1.1.31:8031#http://112.25.48.68/live/program/live/dfwshd8m/8000000/mnf.m3u8
 上海新闻综合,http://tvbox6.icu/tv/migu.php?id=shxwzh#http://180.154.48.93:4022/udp/239.45.3.209:5140#http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/mg.php?id=shxwzh#http://180.154.48.93:4022/udp/239.45.3.209:5140#http://112.25.48.68/live/program/live/xwzhhd8m/8000000/mnf.m3u8
@@ -1650,6 +1682,7 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+中国蓝新闻,http://yc.myds.me:35455/douyin/944483853805
 杭州综合,http://183.158.68.7:4022/udp/233.50.201.173:5140
 杭州西湖明珠,http://183.158.68.7:4022/udp/233.50.201.176:5140
 杭州生活,http://183.158.68.7:4022/udp/233.50.201.175:5140

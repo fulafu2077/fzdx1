@@ -785,6 +785,7 @@ Global Trekker,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D930254789302
 泰国TNN24,http://50.7.234.10:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat
 泰国TPTV,http://50.7.234.10:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat
 TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+越南VTV4国际频道,https://cdn-live.vtv.vn/iNg5jF8KSb4D-59aqNn7bw/1749853352/live/vtv4/vtv4-720p.m3u8#https://cdn-live.vtv.vn/iNg5jF8KSb4D-59aqNn7bw/1749853352/live/vtv4/vtv4-480p.m3u8#https://cdn-live.vtv.vn/iNg5jF8KSb4D-59aqNn7bw/1749853352/live/vtv4/vtv4-360p.m3u8
 缅甸国家电视台MRTV,https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 缅甸国际频道MITV,https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 缅甸国家娱乐频道MRTV,https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
@@ -2396,6 +2397,7 @@ GG鱼,http://yc.myds.me:35455/bilibili/3202585
 法国FRANCE 24 英语,http://192.168.50.166:5000/youtube/Ap-UM1O9RBU
 卡塔尔半岛英语,http://192.168.50.166:5000/youtube/gCNeDWCI0vo
 印度CNN-NEWS18,http://192.168.50.166:5000/youtube/rfDx1HMvXbQ
+越南西贡广播电视网SBTN,http://cord-cutter.net:8080/hq3y4G/234247/121034
 大世界家好康,#genre#
 美国迈阿密 TV,https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/miamitv/_definst_/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/chunklist_w1655875108_b1896000.m3u8#https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 美国迈阿密 TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/index.m3u8#https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/chunklist_w773115972_b1896000.m3u8#https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8

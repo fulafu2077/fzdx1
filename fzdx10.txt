@@ -29,6 +29,7 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 凤凰周刊直播,http://yc.myds.me:35455/douyin/145846751101
 凤凰网国际,http://yc.myds.me:35455/douyin/195079153762
 中国蓝新闻,http://yc.myds.me:35455/douyin/944483853805
+河南大象新闻,http://yc.myds.me:35455/douyin/238099515779#http://yc.myds.me:35455/bilibili/22838098
 央视三餐四季福建篇,#genre#
 20231230莆田泉州,https://v.cdnlz13.com/20240102/22317_6503f28e/2000k/hls/mixed.m3u8
 20250413福州南平,https://v.cdnlz21.com/20250414/8540_442e131d/2000k/hls/mixed.m3u8
@@ -40,6 +41,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 蛟龙行动,https://play.hhuus.com/play/wdLK0wwb/index.m3u8
 熊出没·重启未来,https://play.hhuus.com/play/zbqOnrke/index.m3u8
 热门电影,#genre#
+成龙：功夫梦融合之道,https://play.hhuus.com/play/negAzRDb/index.m3u8
+陈建斌：军中乐园,https://yzzy.play-cdn6.com/20220712/4099_e22ded3d/1000k/hls/mixed.m3u8
 雄狮少年2,https://play.hhuus.com/play/Qe12YN0a/index.m3u8
 椒麻堂会,https://vip.ffzy-online5.com/20230119/6485_c718dbb8/3000k/hls/mixed.m3u8#https://yzzy.play-cdn12.com/20230117/14866_abd9cbe0/2000k/hls/mixed.m3u8#https://s3.bfzycdn.com/video/jiaomatanghui/HD%E4%B8%AD%E5%AD%97/index.m3u8#https://vip.lz-cdn3.com/20230118/17235_fb563e6e/1800k/hls/mixed.m3u8
 椒麻堂会川语,https://vip.lz-cdn3.com/20230118/17235_fb563e6e/1800k/hls/mixed.m3u8#https://s6.bfzycdn.com/video/jiaomatanghui/%E5%9B%9B%E5%B7%9D%E8%AF%9D/index.m3u8
@@ -113,8 +116,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第十四集,https://play.hhuus.com/play/zbqGop3e/index.m3u8
 第十五集,https://play.hhuus.com/play/QbY2xvOd/index.m3u8
 第十六集,https://play.hhuus.com/play/PdRRnPYd/index.m3u8
-第十七集,
-第十八集,
+第十七集,https://play.hhuus.com/play/vbmAVqAb/index.m3u8
+第十八集,https://play.hhuus.com/play/Le34094a/index.m3u8
 第十九集,
 第二十集,
 第二十一集,

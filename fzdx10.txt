@@ -30,6 +30,7 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 凤凰网国际,http://yc.myds.me:35455/douyin/195079153762
 中国蓝新闻,http://yc.myds.me:35455/douyin/944483853805
 河南大象新闻,http://yc.myds.me:35455/douyin/238099515779#http://yc.myds.me:35455/bilibili/22838098
+深圳第一现场,http://yc.myds.me:35455/douyin/321427588766
 央视三餐四季福建篇,#genre#
 20231230莆田泉州,https://v.cdnlz13.com/20240102/22317_6503f28e/2000k/hls/mixed.m3u8
 20250413福州南平,https://v.cdnlz21.com/20250414/8540_442e131d/2000k/hls/mixed.m3u8
@@ -118,8 +119,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第十六集,https://play.hhuus.com/play/PdRRnPYd/index.m3u8
 第十七集,https://play.hhuus.com/play/vbmAVqAb/index.m3u8
 第十八集,https://play.hhuus.com/play/Le34094a/index.m3u8
-第十九集,
-第二十集,
+第十九集,https://play.hhuus.com/play/xboD91Nd/index.m3u8
+第二十集,https://play.hhuus.com/play/Pe9l7VYd/index.m3u8
 第二十一集,
 第二十二集,
 第二十三集,
@@ -950,7 +951,6 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 伊朗Hispan西班牙语新闻台,https://live.presstv.ir/hls/hispantv_5_482/index.m3u8#https://live.presstv.ir/hls/hispantv_4_482/index.m3u8#https://live.presstv.ir/hls/hispantv_3_482/index.m3u8#https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
 伊朗巴列维王朝国家新闻台,https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/06.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/05.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/04.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/03.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/02.m3u8#https://simaytv.akamaized.net/hls/live/2043550/simayhls/01.m3u8
 美国伊朗Mihan Tv,https://iptv.mihantv.com/mihantv/playlist_src/index.m3u8#https://iptv.mihantv.com/mihantv/playlist_low/index.m3u8#https://iptv.mihantv.com/mihantv/playlist_low/index.m3u8
-美国伊朗Pars电视网,https://parshls.wns.live/hls/stream.m3u8
 电信北朝鲜,#genre#
 北朝鲜中央电视台,https://tv.nknews.org/tvhls/stream.m3u8#https://tv.nknews.org/tvdash/stream.mpd
 北朝鲜平壤放送FM 105.2,https://listen7.myradio24.com/69366
@@ -1643,6 +1643,7 @@ CCTV-14,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/
 上海百视通健康养生,http://112.25.48.68/live/program/live/jkys8m/8000000/mnf.m3u8
 上海百视通百变课堂,http://112.25.48.68/live/program/live/bbkt8m/8000000/mnf.m3u8
 电信深圳,#genre#
+深圳第一现场,http://yc.myds.me:35455/douyin/321427588766
 深圳卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221227141/59924711.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Eapul-XyWEK9yengkFL4Dgg%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2Curn%3AHuawei%3AliveTV%3AXTV59924710%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221227285/ 1.m3u8#http://117.27.190.42:9998/tsfile/live/23274_1.m3u8#https://sztv-live.sztv.com.cn/AxeFRth/500/517hx4F.m3u8?sign=1a36ba6d79999783a303a3ad1cd655f9&t=67462bcb
 深圳卫视,http://192.168.50.121:8080/sz3.php?id=szws#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.77.0.130:5146
 深圳卫视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/gdx.php?id=239.77.0.92:5146

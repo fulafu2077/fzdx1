@@ -125,8 +125,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第二十二集,https://play.hhuus.com/play/QdJJ2W9d/index.m3u8
 第二十三集,https://play.hhuus.com/play/Qe12nXoa/index.m3u8
 第二十四集,https://play.hhuus.com/play/xboD03Nd/index.m3u8
-第二十五集,
-第二十六集,
+第二十五集,https://play.hhuus.com/play/0dNNRyNd/index.m3u8
+第二十六集,https://play.hhuus.com/play/mbkyP0ve/index.m3u8
 第二十七集,
 第二十八集,
 第二十九集,
@@ -957,7 +957,7 @@ TVB泰国,http://v2h.jdshipin.com/tvb_thai/tvb_thai.stream/chunklist.m3u8#https:
 伊朗国家电视台3频道,https://live-bshto1207.telewebion.com/ek/tv3/live/1080p/index.m3u8#https://live-bshto1207.telewebion.com/ek/tv3/live/720p/index.m3u8#https://live-bshto1207.telewebion.com/ek/tv3/live/480p/index.m3u8#https://live-bshto1207.telewebion.com/ek/tv3/live/240p/index.m3u8
 伊朗国家电视台4频道,https://live-bshto1202.telewebion.com/ek/tv4/live/576p/index.m3u8#https://live-bshto1202.telewebion.com/ek/tv4/live/240p/index.m3u8
 伊朗德黑兰网络台,https://live-bshto1205.telewebion.com/ek/tehran/live/576p/index.m3u8#https://live-bshto1205.telewebion.com/ek/tehran/live/240p/index.m3u8
-伊朗国际英文台,https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8#https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8#https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b341000.m3u8
+英国伊朗国际台,https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8#https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b806000.m3u8#https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b341000.m3u8
 伊朗PRESS TV,https://live.presstv.ir/hls/presstv_5_482/index.m3u8#https://1a-1791.com/live/d0t27del/slot-100/mx7n-m71j/chunklist.m3u8#https://1a-1791.com/live/d0t27del/slot-100/mx7n-m71j_1080p/chunklist.m3u8#https://live.presstv.ir/hls/presstv_4_482/index.m3u8#https://1a-1791.com/live/d0t27del/slot-100/mx7n-m71j_720p/chunklist.m3u8#https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/720.m3u8#https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/480.m3u8#https://live.presstv.ir/hls/presstv_3_482/index.m3u8#https://1a-1791.com/live/d0t27del/slot-100/mx7n-m71j_360p/chunklist.m3u8#https://live.presstv.ir/hls/presstv_2_482/index.m3u8
 伊朗安拉新闻台,https://live2.alalam.ir/live/Alalam/index.m3u8#https://live2.alalam.ir/live/Alalam_high/index.m3u8#https://live2.alalam.ir/live/Alalam_medium/index.m3u8#https://live2.alalam.ir/live/Alalam_low/index.m3u8
 伊朗Hispan西班牙语新闻台,https://live.presstv.ir/hls/hispantv_5_482/index.m3u8#https://live.presstv.ir/hls/hispantv_4_482/index.m3u8#https://live.presstv.ir/hls/hispantv_3_482/index.m3u8#https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
@@ -2023,6 +2023,7 @@ IM智己汽车,http://yc.myds.me:35455/douyin/718517449222
 奔驰福州鹏龙国戎,http://yc.myds.me:35455/douyin/889850571770
 奔驰福建福州波士骏达,http://yc.myds.me:35455/douyin/225227813182
 奔驰福州东星,http://yc.myds.me:35455/douyin/860886447812
+奔驰深圳大兴宝誉,http://yc.myds.me:35455/douyin/915676449986
 保时捷福州闽江中心,http://yc.myds.me:35455/douyin/91355822814
 保时捷福州闽江二手车,http://yc.myds.me:35455/douyin/695394576588
 保时捷福州青口中心,http://yc.myds.me:35455/douyin/742003949388
@@ -2290,6 +2291,8 @@ MUJI无印良品服饰旗舰店,http://yc.myds.me:35455/douyin/44290039287
 北面NORTH FACE官方旗舰店,http://yc.myds.me:35455/douyin/23903357554
 迪桑特DESCENTE官方旗舰店,http://yc.myds.me:35455/douyin/308983977902
 知嘛健康官方旗舰店,http://yc.myds.me:35455/douyin/469610831715
+洽偌蓝水饮旗舰店,http://yc.myds.me:35455/douyin/368816531545
+正官庄保健食品旗舰店,http://yc.myds.me:35455/douyin/98259800752
 广东中山西环高速,http://yc.myds.me:35455/douyin/433197410878
 福州仓山区下藤路275号美日有糕饼,http://yc.myds.me:35455/douyin/572005329187
 福建新华书店,http://yc.myds.me:35455/douyin/29463569220
@@ -2298,6 +2301,7 @@ MUJI无印良品服饰旗舰店,http://yc.myds.me:35455/douyin/44290039287
 福州上街弟海鲜二台,http://yc.myds.me:35455/douyin/437070264564
 福州上街弟海鲜三台,http://yc.myds.me:35455/douyin/68262334689
 福州汽车年检团购,http://yc.myds.me:35455/douyin/67018180631
+福州小乌食堂,http://yc.myds.me:35455/douyin/859201738394
 吴记煎包老刘,http://yc.myds.me:35455/douyin/90441378996
 国风茶道-倾城,http://yc.myds.me:35455/douyin/57225628992
 福建港融,http://yc.myds.me:35455/douyin/507128029444

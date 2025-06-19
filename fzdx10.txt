@@ -127,8 +127,8 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 第二十四集,https://play.hhuus.com/play/xboD03Nd/index.m3u8
 第二十五集,https://play.hhuus.com/play/0dNNRyNd/index.m3u8
 第二十六集,https://play.hhuus.com/play/mbkyP0ve/index.m3u8
-第二十七集,
-第二十八集,
+第二十七集,https://play.hhuus.com/play/QbY2NMAd/index.m3u8
+第二十八集,https://play.hhuus.com/play/kazRyxya/index.m3u8
 第二十九集,
 第三十集,
 第三十一集,

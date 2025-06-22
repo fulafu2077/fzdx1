@@ -18,6 +18,7 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 央视网快看,http://yc.myds.me:35455/douyin/127453393722
 央视一套,http://yc.myds.me:35455/douyin/456815963645
 央视中文国际,http://yc.myds.me:35455/douyin/166806983360
+央视CGTN英语国际,http://yc.myds.me:35455/douyin/862983499437
 央视电影频道央影传媒,http://yc.myds.me:35455/douyin/208823316033
 央视军事,http://yc.myds.me:35455/douyin/492155806138
 观察者网,http://yc.myds.me:35455/douyin/49753411059#http://yc.myds.me:35455/bilibili/948391
@@ -1876,6 +1877,7 @@ TNTSPACE拆盒特攻队,http://yc.myds.me:35455/douyin/414525156319
 Racing101,http://yc.myds.me:35455/douyin/899874051394
 尹哥聊电车1台,http://yc.myds.me:35455/douyin/629481391865
 尹哥聊电车2台,http://yc.myds.me:35455/douyin/460047827401
+小怡说车,http://yc.myds.me:35455/douyin/41284231595
 宁德时代官方直播间,http://yc.myds.me:35455/douyin/571262354825
 途虎养车,http://yc.myds.me:35455/douyin/186575883603
 途虎养车官方直播间,http://yc.myds.me:35455/douyin/516203128862

@@ -6,6 +6,10 @@ azzbm地震速报,http://yc.myds.me:35455/bilibili/31255806
 チルノヽ地震速报,http://yc.myds.me:35455/bilibili/22863790
 枫仔MapleLeaf地震观察,http://yc.myds.me:35455/bilibili/31577848
 神兵天气-地震监测与速报,http://yc.myds.me:35455/bilibili/4612090
+地震观测小张张,http://yc.myds.me:35455/bilibili/1961600295
+deep睡神,http://yc.myds.me:35455/bilibili/1986465279
+华贵技术_本人,http://yc.myds.me:35455/bilibili/1808573255
+星辉是只furry,http://yc.myds.me:35455/bilibili/30018003
 抖音哔哩新闻台,#genre#
 新华社快看,http://yc.myds.me:35455/douyin/832345075447
 新华社快看哔哩,http://yc.myds.me:35455/bilibili/22342243
@@ -345,6 +349,7 @@ CCTV发现之旅,http://223.10.115.64:8082/udp/239.1.1.103:8103#http://117.30.58
 嘉佳卡通,http://27.148.240.138/PLTV/88888888/224/3221226890/ 1.m3u8#rtsp://27.148.236.129:554/live/ch15102717162106888181.sdp?FccMediaIP=239.61.2.72&FccMediaPort=8426&vcdnid=001&mediaid=ch15102717162106888181&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdnV5xdDt10gFKMQ86dKMPl40d8RtgP2DayASZlOpMLMaA%3D%3D
 法治天地,http://120.76.248.139/live/bfgd/4200000162.m3u8#http://tvbox6.icu/tv/migu.php?id=fztd#rtsp://27.148.240.181/PLTV/88888888/224/3221225754/10000100000000060000000000417525_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Eby4WgRNhB0XGQGdzb6ZQ3A%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2CUmai%3ACHAN%2F11373%40BESTV.SMG.SMG%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226947/ 1.m3u8#rtsp://27.148.236.129:554/live/ch15102717162120235919.sdp?FccMediaIP=239.61.2.75&FccMediaPort=8444&vcdnid=001&mediaid=ch15102717162120235919&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepuwX%2F0ANBqlv2324gByIdm3snpbQuJUp0elCDZ2nZy30d8RtgP2DayASZlOpMLMaA%3D%3D
 电信福建,#genre#
+福建海博TV,http://yc.myds.me:35455/douyin/124368654706
 东南卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221227012/10000100000000060000000001740935_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Essti05t9ERLCRwP4wW7r2A%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001769285%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226754/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=5#http://192.168.50.121:8080/fjtv.php?id=5#http://117.27.190.42:9998/tsfile/live/23281_1.m3u8#rtsp://27.148.236.129:554/live/ch16042815324509410461.sdp?FccMediaIP=239.61.2.132&FccMediaPort=8708&vcdnid=001&mediaid=ch16042815324509410461&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPerVLv9kV0i8z18%2BO%2FGEW7zrA9lINnAT6PTwZ1Fq5%2BP1h0d8RtgP2DayASZlOpMLMaA%3D%3D
 海峡卫视,rtsp://27.148.240.181/PLTV/88888888/224/3221226140/10000100000000060000000000741317_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EoEx8174AokRsYSGoBKp-Dw%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000000753088%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226748/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=3#http://192.168.50.121:8080/fjtv.php?id=3#http://117.27.190.42:9998/tsfile/live/23283_1.m3u8#rtsp://27.148.236.129:554/live/ch17033111334107910034.sdp?FccMediaIP=239.61.2.151&FccMediaPort=8894&vcdnid=001&mediaid=ch17033111334107910034&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPejd0WLQzEhY9j%2BmVKk8sVOfB%2F%2FzGuHl09DC0UKjzL%2BBz0d8RtgP2DayASZlOpMLMaA%3D%3D                    
 福建综合,rtsp://27.148.240.181/PLTV/88888888/224/3221226716/10000100000000060000000001664269_0.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Etl-G-6is4VMYhq2H8PPY5A%7EsDx4GJd5Sr5pYevmmuSb7lMNRcJZ8QqTk0LBOVj9HXJh8P2i1kD4jcBarRb5k9Ns0ihfdocarYCdnvZkFLewLSW1aXqQA1I4x5-WRR-bsJk%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20230115200419%2C10500000044552%2C27.156.164.235%2C20230115200419%2C10000100000000050000000001690355%2C1000100009996820230115200419%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2#http://27.148.240.138/PLTV/88888888/224/3221226722/ 1.m3u8#http://nctv.top/IDOEPpiryt/fjtv.php?id=4#http://192.168.50.121:8080/fjtv.php?id=4#http://117.27.190.42:9998/tsfile/live/23284_1.m3u8#rtsp://27.148.236.129:554/live/ch18122115512978075826.sdp?FccMediaIP=239.61.3.4&FccMediaPort=9542&vcdnid=001&mediaid=ch18122115512978075826&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPepy8u14%2FOk%2B1sTcO%2BggEBbhxaAzKNGk33J6kgPDlAAM60d8RtgP2DayASZlOpMLMaA%3D%3D
@@ -1329,6 +1334,7 @@ Racing101,http://yc.myds.me:35455/douyin/899874051394
 福州Relis释感网球,http://yc.myds.me:35455/douyin/934472419640
 夏甜千阳羽毛球,http://yc.myds.me:35455/douyin/611338450713
 周芯如羽毛球,http://yc.myds.me:35455/douyin/293665255303
+完美体育乒乓球,http://yc.myds.me:35455/douyin/75122621974
 泉州源昌文化中心龙舟,http://yc.myds.me:35455/douyin/392183215612
 抖音体育,http://yc.myds.me:35455/douyin/douyintiyu
 新爱体育,http://yc.myds.me:35455/douyin/179260431297
@@ -1968,6 +1974,7 @@ TESLA特斯拉,http://yc.myds.me:35455/douyin/119732257997
 沃尔沃汽车官方直播间,http://yc.myds.me:35455/douyin/284221393020
 沃尔沃品牌体验中心,http://yc.myds.me:35455/douyin/234405763319
 smart汽车,http://yc.myds.me:35455/douyin/82883111888
+福州莲花跑车中心,http://yc.myds.me:35455/douyin/307807428605
 阿维塔,http://yc.myds.me:35455/douyin/803827578956
 阿维塔官方直播间,http://yc.myds.me:35455/douyin/533195849356
 阿维塔超级福利社,http://yc.myds.me:35455/douyin/733802655705
@@ -2130,6 +2137,7 @@ Insta360数码专卖店,http://yc.myds.me:35455/douyin/287619285463
 游戏风云,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 游戏风云,rtsp://27.148.219.129:554/live/ch15102717162280130850.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch15102717162280130850&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5uQuYyDvjWwM%2FszT4e%2FVhQrnbypkrDjZ2ZifeW0G%2Fgn1ntcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 GINX电竞,https://45.145.229.220:8080/https://litv.zapi.us.kg/?id=4gtv-4gtv053
+索尼PlayStation抖音台,http://yc.myds.me:35455/douyin/26354012871
 斗鱼电竞赛事,http://yc.myds.me:35455/douyu/119
 英雄联盟LPL赛事,http://yc.myds.me:35455/douyu/288016
 英雄联盟LPL赛事,http://yc.myds.me:35455/huya/660000

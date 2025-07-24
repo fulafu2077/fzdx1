@@ -61,6 +61,7 @@ deep睡神,http://yc.myds.me:35455/bilibili/1986465279
 西部网民生热线,http://yc.myds.me:35455/douyin/759165713088
 安徽合视频.http://yc.myds.me:35455/douyin/742416648511
 江西高度新闻,http://yc.myds.me:35455/douyin/569874462983
+三沙卫视抖音台,http://yc.myds.me:35455/douyin/317636109251
 福建抖音哔哩台,#genre#
 福建海博TV,http://yc.myds.me:35455/douyin/124368654706
 福建第一帮帮团,http://yc.myds.me:35455/douyin/431034723021#http://yc.myds.me:35455/bilibili/21531606
@@ -831,14 +832,16 @@ Global Trekker,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D930254789302
 马来西亚RTM SPORTS,http://50.7.234.10:8278/Rtmsport/playlist.m3u8?tid=MF8F1702154217021542&ct=19249&tsum=e027d4717db55d11df07ebe27f5eb3a5#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport
 马来西亚astro OASIS,http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis
 马来西亚TLC旅游,http://50.7.234.10:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
-泰国Nation,http://50.7.234.10:8278/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/480p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/240p/index.m3u8#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat
+泰国Nation,http://50.7.234.10:8278/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/720p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/480p/index.m3u8#https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat
 泰国新闻1频道,https://server1.streamssl.com/stream/news1_mid.m3u8#https://server1.streamssl.com/stream/news1_low.m3u8
 泰国3频道,http://50.7.234.10:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch3_pat
+泰国5频道,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w732654183.m3u8#https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w637414853.m3u8
 泰国7频道,http://streaming-hwc.ch7.com/livech7hd/HD.m3u8#http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 泰国新闻32台,https://streaming-web.thairath.co.th/live/playlist_hd/index.m3u8#https://streaming-web.thairath.co.th/live/playlist_ld/index.m3u8
 泰国TOP NEWS,https://live.topnews.co.th/hls/topnews_a_720.m3u8#https://live.topnews.co.th/hls/topnews_a_480.m3u8#https://live.topnews.co.th/hls/topnews_a_360.m3u8#https://live.topnews.co.th/hls/topnews_a_240.m3u8
-泰国MCOT HD30,https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w29941571_b3000000.m3u8#https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w29941571_b2000000.m3u8#https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w29941571_b1000000.m3u8#https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w29941571_b500000.m3u8
-泰国AMARIN 34HD,https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw#https://amarin-ks7jcc.cdn.byteark.com/live/720p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw#https://amarin-ks7jcc.cdn.byteark.com/live/480p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw#https://amarin-ks7jcc.cdn.byteark.com/live/360p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw#https://amarin-ks7jcc.cdn.byteark.com/live/240p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw#https://amarin-ks7jcc.cdn.byteark.com/live/144p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749625793&x_ark_path_prefix=%2Flive%2F&x_ark_signature=SRj8vQQDYu8m_xWcNoH7aw
+泰国MCOT HD30,https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w2035951834_b500000.m3u8#https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w2035951834_b3000000.m3u8#https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w2035951834_b2000000.m3u8#https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w2035951834_b1000000.m3u8#https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w2035951834_b500000.m3u8
+泰国公共电视台,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+泰国AMARIN 34HD,https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1753474959&x_ark_path_prefix=%2Flive%2F&x_ark_signature=YZQSU1eUXr6CU14kvcAfjg
 泰国Thrill惊悚电影台,http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill#http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv#http://php.jdshipin.com:8880/xsj.php?id=thrill
 泰国PPTV体育1台,http://50.7.234.10:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pptv_pat
 泰国TNN24,http://50.7.234.10:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664#http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat
@@ -1970,6 +1973,7 @@ TNTSPACE拆盒特攻队,http://yc.myds.me:35455/douyin/414525156319
 易车,http://yc.myds.me:35455/douyin/99803536019
 比驾,http://yc.myds.me:35455/douyin/82504157065
 Racing101,http://yc.myds.me:35455/douyin/899874051394
+韩路,http://yc.myds.me:35455/douyin/68818556433#http://yc.myds.me:35455/bilibili/10048936
 尹哥聊电车1台,http://yc.myds.me:35455/douyin/629481391865
 尹哥聊电车2台,http://yc.myds.me:35455/douyin/460047827401
 小怡说车,http://yc.myds.me:35455/douyin/41284231595
@@ -2401,6 +2405,7 @@ Racing101,http://yc.myds.me:35455/douyin/899874051394
 毛毛还活着网球2台,http://yc.myds.me:35455/douyin/maomaotennis
 约钓江湖徐江龙钓鱼,http://3501776.xyz:35455/douyin/832269186244
 化绍新钓鱼,http://3501776.xyz:35455/douyin/275888463904
+化氏二强,http://3501776.xyz:35455/douyin/741833735879
 麻将研究院,http://yc.myds.me:35455/douyin/278983884042
 福州我是以大,http://yc.myds.me:35455/douyin/488205129443
 福州高速高小暖,http://yc.myds.me:35455/douyin/539453647658
@@ -2475,6 +2480,9 @@ ROG玩家国度电脑旗舰店,http://yc.myds.me:35455/douyin/244297325706
 福州东街口机器人欣意租售中心,http://yc.myds.me:35455/douyin/286270293246
 漳州官方优选,http://yc.myds.me:35455/douyin/907817340531
 羊驼乐乐妈,http://yc.myds.me:35455/douyin/578314932690
+福州舅你会吃,http://yc.myds.me:35455/douyin/841153702851
+福州秀包,http://yc.myds.me:35455/douyin/230251712964
+收手机的CC,http://yc.myds.me:35455/douyin/491030372727
 大世界家哔哩哔哩直播,#genre#
 新华社快看,http://yc.myds.me:35455/bilibili/22342243
 央视新闻,http://yc.myds.me:35455/bilibili/21686237
@@ -2490,7 +2498,7 @@ ROG玩家国度电脑旗舰店,http://yc.myds.me:35455/douyin/244297325706
 峰哥亡命天涯,http://yc.myds.me:35455/bilibili/22230707
 永失我峰,http://yc.myds.me:35455/bilibili/12188322
 永失我峰二台,http://yc.myds.me:35455/bilibili/31410953
-大美女CCC,http://yc.myds.me:35455/bilibili/732587
+大美女CCC,http://yc.myds.me:35455/bilibili/732587#http://yc.myds.me:35455/douyin/513411344
 刘梦茹,http://yc.myds.me:35455/douyin/206769975774
 良子大胃袋,http://yc.myds.me:35455/bilibili/1731712271
 战鹰,http://yc.myds.me:35455/bilibili/23141761
@@ -2499,6 +2507,7 @@ YOOUPI食途,http://yc.myds.me:35455/bilibili/22686480#http://yc.myds.me:35455/d
 小豹城市探索,http://yc.myds.me:35455/bilibili/14222600
 2u2bu,http://yc.myds.me:35455/bilibili/24309304
 艾宁w,http://yc.myds.me:35455/bilibili/1468635
+张潇月爱秋天,http://yc.myds.me:35455/douyin/557114484645#http://yc.myds.me:35455/bilibili/9099579
 是小冰心啊,http://yc.myds.me:35455/bilibili/21741912
 酒酿Lily王,http://yc.myds.me:35455/bilibili/23508334
 散仙彤彤子,http://yc.myds.me:35455/douyin/940381875759#http://yc.myds.me:35455/bilibili/24628496
@@ -2714,17 +2723,26 @@ HAPPY,http://m6z.cn/5O8LuG
 魏小佳,http://yc.myds.me:35455/douyin/662345902093
 小喵大宝,http://yc.myds.me:35455/douyin/44134015523
 山海观雾,http://yc.myds.me:35455/douyin/926603195261
+张安琪（大马华人）,http://yc.myds.me:35455/douyin/735324243230
 愛野超有味,http://yc.myds.me:35455/douyin/358326823527
 花碎花,http://yc.myds.me:35455/douyin/719906374694
 张雅倩,http://yc.myds.me:35455/douyin/465196821253
 小饼干,http://yc.myds.me:35455/douyin/407490859
 木灵,http://yc.myds.me:35455/douyin/392480554871
+程琳,http://yc.myds.me:35455/douyin/992099598473
 徽姑娘,http://yc.myds.me:35455/douyin/323059798000
 波力海苔,http://yc.myds.me:35455/douyin/30267385943
+HAZE小哈,http://yc.myds.me:35455/douyin/321055172701
 小尤漫曲,http://yc.myds.me:35455/douyin/35870148471
 小尤漫曲二台,http://yc.myds.me:35455/bilibili/1773638648
 小弦老师,http://yc.myds.me:35455/douyin/878757895267
 Sally钰,http://yc.myds.me:35455/douyin/437559186781
+钢琴小念,http://yc.myds.me:35455/douyin/191952959260?
+雨桥钢琴,http://yc.myds.me:35455/douyin/212964707705
+小雅Ya钢琴,http://yc.myds.me:35455/douyin/59163161289
+大弦小提,http://yc.myds.me:35455/douyin/83361250414
+昕桐Vicky,http://yc.myds.me:35455/douyin/38897898825
+去月球整点芝士,http://yc.myds.me:35455/douyin/34132543002
 予妳轻奢内衣馆,http://yc.myds.me:35455/douyin/972316854356
 小苏心,http://yc.myds.me:35455/douyin/12345679xsx
 温柔姐姐,http://yc.myds.me:35455/douyin/21609730838
@@ -2871,6 +2889,7 @@ lik佳佳,http://yc.myds.me:35455/douyin/7298523230
 小阿鞠,http://yc.myds.me:35455/douyin/460986244464
 小欧,http://yc.myds.me:35455/douyin/Luxuou1121
 小欧呀,http://yc.myds.me:35455/douyin/lxo11
+小娘子,http://yc.myds.me:35455/325325241483
 知性小婉,http://yc.myds.me:35455/douyin/64097395867
 小雷传媒,http://yc.myds.me:35455/douyin/481611197813
 小花生壳,http://yc.myds.me:35455/douyin/292883957190
@@ -2903,7 +2922,7 @@ lik佳佳,http://yc.myds.me:35455/douyin/7298523230
 杨晨晨二台,http://yc.myds.me:35455/douyin/Yangchenchenbaby
 杨晨晨三台,http://yc.myds.me:35455/douyin/Ycc_yangchenchen
 徐莉芝,http://yc.myds.me:35455/douyin/730332876436
-徐莉芝二台,http://yc.myds.me:35455/douyin/062062zzz
+徐莉芝二台,http://yc.myds.me:35455/douyin/289195443248
 徐莉芝三台,http://yc.myds.me:35455/douyin/xulizhizhi
 王馨瑶,http://yc.myds.me:35455/douyin/484263317611
 绮里嘉,http://yc.myds.me:35455/douyin/758740625986
@@ -2914,7 +2933,8 @@ lik佳佳,http://yc.myds.me:35455/douyin/7298523230
 绮里嘉六台,http://yc.myds.me:35455/douyin/qilijia6668
 绮里嘉七台,http://yc.myds.me:35455/douyin/30058959987
 梦心玥,http://yc.myds.me:35455/douyin/62048731191
-陆萱萱,http://yc.myds.me:35455/douyin/83118402534
+陆萱萱,http://yc.myds.me:35455/douyin/34436342290
+心妍小公主,http://yc.myds.me:35455/douyin/650866345110
 林星阑,http://yc.myds.me:35455/douyin/26004701563
 王俪丁,http://yc.myds.me:35455/douyin/568185494666
 周妍希,http://yc.myds.me:35455/douyin/79137533328
@@ -2930,6 +2950,7 @@ lik佳佳,http://yc.myds.me:35455/douyin/7298523230
 雪儿173,http://yc.myds.me:35455/douyin/443947707041
 雪儿174,http://yc.myds.me:35455/douyin/xueer174
 雪儿175,http://yc.myds.me:35455/douyin/xueer175174173
+潘晓娴,http://yc.myds.me:35455/douyin/699608901147
 福州潘敏,http://yc.myds.me:35455/douyin/735160244696
 福州婉婉,http://yc.myds.me:35455/douyin/90746604792
 福州婉婉二台,http://yc.myds.me:35455/douyin/381579168
